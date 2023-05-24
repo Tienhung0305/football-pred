@@ -1,0 +1,1115 @@
+date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+2021-08-08,13:30,Championship,Matchweek 1,Sun,Home,D,1,1,Middlesbrough,1.5,0.5,65,16058.0,Tim Ream,4-2-3-1,Keith Stroud,Match Report,,16,3,17.9,0.0,0,0,2021,Fulham
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,W,5,1,Huddersfield,2.2,0.6,56,15126.0,Tim Ream,4-2-3-1,Dean Whitestone,Match Report,,15,11,15.9,0.0,0,0,2021,Fulham
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Away,W,2,1,Millwall,2.7,0.6,64,12700.0,Tim Ream,4-2-3-1,Geoff Eltringham,Match Report,,16,5,14.4,0.0,0,0,2021,Fulham
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,W,2,0,Hull City,1.4,0.5,62,16189.0,Tim Ream,4-2-3-1,Tim Robinson,Match Report,,15,6,19.5,0.0,0,0,2021,Fulham
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,W,3,0,Stoke City,4.7,1.0,50,16791.0,Tim Ream,4-2-3-1,Jarred Gillett,Match Report,,19,8,17.2,0.0,0,1,2021,Fulham
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,L,0,1,Blackpool,1.4,0.5,69,11268.0,Tim Ream,4-2-3-1,John Busby,Match Report,,17,4,18.7,0.0,0,0,2021,Fulham
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Away,W,4,1,Birmingham City,2.9,1.8,49,14562.0,Tim Ream,4-3-3,David Webb,Match Report,,14,9,24.9,1.0,1,1,2021,Fulham
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,L,1,2,Reading,3.0,1.3,65,18901.0,Tim Ream,4-2-3-1,Steve Martin,Match Report,,25,5,16.4,0.0,0,0,2021,Fulham
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,D,1,1,Bristol City,2.8,1.3,63,19326.0,Tim Ream,4-2-3-1,Simon Hooper,Match Report,,22,5,16.0,1.0,0,0,2021,Fulham
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Home,W,3,1,Swansea City,1.2,1.1,38,16113.0,Tim Ream,4-2-3-1,Joshua Smith,Match Report,,10,7,21.2,0.0,0,0,2021,Fulham
+2021-10-02,12:30,Championship,Matchweek 11,Sat,Away,L,1,4,Coventry City,0.9,1.7,59,18497.0,Tim Ream,4-2-3-1,Gavin Ward,Match Report,,12,1,16.6,0.0,0,0,2021,Fulham
+2021-10-16,12:30,Championship,Matchweek 12,Sat,Home,W,4,1,QPR,2.0,1.1,47,18371.0,Tim Ream,4-2-3-1,Oliver Langford,Match Report,,16,7,16.5,0.0,0,0,2021,Fulham
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Home,W,2,0,Cardiff City,2.5,1.2,66,15789.0,Tim Ream,4-2-3-1,Tim Robinson,Match Report,,24,6,19.4,2.0,0,0,2021,Fulham
+2021-10-24,15:00,Championship,Matchweek 14,Sun,Away,W,4,0,Nott'ham Forest,1.8,0.6,51,27470.0,Tom Cairney,4-2-3-1,James Linington,Match Report,,10,2,19.0,1.0,1,1,2021,Fulham
+2021-10-30,12:30,Championship,Matchweek 15,Sat,Home,W,3,0,West Brom,3.0,1.4,53,18103.0,Tim Ream,4-2-3-1,Michael Salisbury,Match Report,,14,3,18.7,1.0,1,1,2021,Fulham
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Away,W,7,0,Blackburn,3.1,0.2,66,9326.0,Tim Ream,4-2-3-1,Jarred Gillett,Match Report,,18,10,16.7,0.0,0,0,2021,Fulham
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,W,1,0,P'borough Utd,1.3,1.4,64,11214.0,Tim Ream,4-2-3-1,Dean Whitestone,Match Report,,11,4,16.5,0.0,0,0,2021,Fulham
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,W,4,1,Barnsley,2.9,1.2,65,18047.0,Tom Cairney,4-2-3-1,Joshua Smith,Match Report,,21,12,17.2,0.0,0,0,2021,Fulham
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Home,D,0,0,Derby County,2.2,0.4,60,16468.0,Tim Ream,4-2-3-1,Geoff Eltringham,Match Report,,21,4,15.4,1.0,0,0,2021,Fulham
+2021-11-27,12:30,Championship,Matchweek 20,Sat,Away,D,1,1,Preston,0.8,1.7,52,9838.0,Tim Ream,4-2-3-1,Chris Kavanagh,Match Report,,9,2,18.6,2.0,0,0,2021,Fulham
+2021-12-03,19:45,Championship,Matchweek 21,Fri,Home,D,1,1,Bournemouth,3.0,0.9,63,19020.0,Tim Ream,4-2-3-1,Tim Robinson,Match Report,,24,7,16.0,0.0,0,0,2021,Fulham
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,D,1,1,Luton Town,1.1,0.6,64,9992.0,Tom Cairney,4-3-3,Thomas Bramall,Match Report,,11,4,16.5,0.0,0,0,2021,Fulham
+2021-12-20,19:45,Championship,Matchweek 23,Mon,Home,L,0,1,Sheffield Utd,1.1,0.1,71,17308.0,Tim Ream,4-2-3-1,James Linington,Match Report,,11,1,15.0,0.0,0,0,2021,Fulham
+2022-01-11,20:00,Championship,Matchweek 25,Tue,Away,W,7,0,Reading,4.7,0.3,67,11472.0,Tom Cairney,4-2-3-1,Tony Harrington,Match Report,,21,12,13.5,0.0,1,1,2021,Fulham
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,W,6,2,Bristol City,2.5,0.9,62,17810.0,Tom Cairney,4-2-3-1,Tim Robinson,Match Report,,18,8,13.3,0.0,0,0,2021,Fulham
+2022-01-18,19:45,Championship,Matchweek 24,Tue,Home,W,6,2,Birmingham City,1.8,0.8,61,16491.0,Tom Cairney,4-2-3-1,Gavin Ward,Match Report,,15,11,17.0,0.0,0,0,2021,Fulham
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,W,3,2,Stoke City,1.4,0.6,51,21749.0,Tom Cairney,4-2-3-1,Dean Whitestone,Match Report,,13,6,13.9,0.0,0,0,2021,Fulham
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,D,1,1,Blackpool,2.5,0.7,73,19092.0,Tom Cairney,4-2-3-1,Peter Bankes,Match Report,,19,6,14.8,0.0,0,0,2021,Fulham
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Home,W,3,0,Millwall,3.2,1.0,56,16606.0,Tom Cairney,4-1-4-1,Matt Donohue,Match Report,,20,6,16.6,0.0,0,0,2021,Fulham
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,W,1,0,Hull City,1.3,0.3,52,13022.0,Tom Cairney,4-2-3-1,Andy Woolmer,Match Report,,11,4,16.8,0.0,0,0,2021,Fulham
+2022-02-19,12:30,Championship,Matchweek 33,Sat,Home,L,1,2,Huddersfield,1.3,1.1,68,19001.0,Tom Cairney,4-2-3-1,Tony Harrington,Match Report,,20,6,18.4,1.0,0,0,2021,Fulham
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Home,W,2,1,P'borough Utd,4.0,0.5,66,17387.0,Tim Ream,4-2-3-1,Jarred Gillett,Match Report,,24,10,17.1,1.0,1,1,2021,Fulham
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,W,1,0,Cardiff City,1.0,0.6,65,18928.0,Tim Ream,4-2-3-1,Leigh Doughty,Match Report,,11,3,13.3,0.0,0,0,2021,Fulham
+2022-03-05,12:30,Championship,Matchweek 36,Sat,Home,W,2,0,Blackburn,1.4,1.0,62,19343.0,Tim Ream,4-2-3-1,David Webb,Match Report,,14,6,21.6,1.0,0,0,2021,Fulham
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Away,W,5,1,Swansea City,1.7,0.3,62,17012.0,Tim Ream,4-2-3-1,Jarred Gillett,Match Report,,12,7,13.4,0.0,0,0,2021,Fulham
+2022-03-12,12:30,Championship,Matchweek 37,Sat,Away,D,1,1,Barnsley,1.7,1.4,66,12576.0,Tim Ream,4-2-3-1,Tim Robinson,Match Report,,16,2,15.9,1.0,0,0,2021,Fulham
+2022-03-15,20:00,Championship,Matchweek 38,Tue,Away,L,0,1,West Brom,0.7,1.5,64,20079.0,Tim Ream,4-2-3-1,Kevin Friend,Match Report,,8,1,18.2,0.0,0,0,2021,Fulham
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,W,2,0,QPR,2.2,0.6,52,17648.0,Tom Cairney,4-2-3-1,Gavin Ward,Match Report,,12,6,16.9,0.0,1,1,2021,Fulham
+2022-04-06,19:45,Championship,Matchweek 30,Wed,Away,W,1,0,Middlesbrough,1.1,1.3,52,21995.0,Tim Ream,4-2-3-1,James Linington,Match Report,,6,2,16.9,1.0,0,0,2021,Fulham
+2022-04-10,15:00,Championship,Matchweek 41,Sun,Home,L,1,3,Coventry City,2.4,2.9,64,19401.0,Tim Ream,4-2-3-1,Keith Stroud,Match Report,,27,7,16.6,1.0,0,0,2021,Fulham
+2022-04-15,20:00,Championship,Matchweek 42,Fri,Away,L,1,2,Derby County,2.5,0.6,52,23773.0,Tom Cairney,4-2-3-1,Robert Jones,Match Report,,21,8,14.9,0.0,0,0,2021,Fulham
+2022-04-19,19:45,Championship,Matchweek 43,Tue,Home,W,3,0,Preston,1.8,0.8,61,11760.0,Tom Cairney,4-2-3-1,Leigh Doughty,Match Report,,14,6,17.7,0.0,0,0,2021,Fulham
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,D,1,1,Bournemouth,0.6,1.2,48,10352.0,Tom Cairney,4-2-3-1,Graham Scott,Match Report,,6,2,17.7,1.0,0,0,2021,Fulham
+2022-04-26,19:45,Championship,Matchweek 39,Tue,Home,L,0,1,Nott'ham Forest,2.2,1.1,73,19218.0,Tim Ream,4-2-3-1,Joshua Smith,Match Report,,20,5,17.9,0.0,0,0,2021,Fulham
+2022-05-02,17:15,Championship,Matchweek 45,Mon,Home,W,7,0,Luton Town,3.0,0.3,71,19538.0,Tom Cairney,4-2-3-1,Tim Robinson,Match Report,,19,11,19.5,1.0,0,0,2021,Fulham
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,L,0,4,Sheffield Utd,0.7,1.9,65,30813.0,Tim Ream,4-2-3-1,Joshua Smith,Match Report,,14,4,19.0,1.0,0,0,2021,Fulham
+2021-08-06,19:45,Championship,Matchweek 1,Fri,Home,D,2,2,West Brom,0.7,2.1,56,9254.0,Lloyd Kelly,4-3-3,Dean Whitestone,Match Report,,7,4,14.3,0.0,0,0,2021,Bournemouth
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,W,2,1,Nott'ham Forest,0.6,0.8,45,25035.0,Lloyd Kelly,4-3-3,Geoff Eltringham,Match Report,,8,3,13.4,0.0,0,0,2021,Bournemouth
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Away,W,2,0,Birmingham City,0.6,0.6,64,9922.0,Lloyd Kelly,4-3-3,Andrew Davies,Match Report,,9,4,19.9,1.0,0,0,2021,Bournemouth
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,D,2,2,Blackpool,1.4,2.0,61,9187.0,Lloyd Kelly,4-3-3,Steve Martin,Match Report,,13,5,19.8,1.0,0,0,2021,Bournemouth
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,D,0,0,Hull City,1.7,0.3,57,10199.0,Lloyd Kelly,4-4-2,Geoff Eltringham,Match Report,,12,5,15.3,0.0,0,0,2021,Bournemouth
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,W,3,0,Barnsley,2.2,0.1,62,,Lloyd Kelly,4-2-3-1,James Linington,Match Report,,14,8,12.6,0.0,0,0,2021,Bournemouth
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Home,W,2,1,QPR,1.5,1.3,41,10495.0,Lloyd Kelly,4-3-3,Keith Stroud,Match Report,,10,4,15.3,0.0,0,0,2021,Bournemouth
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,W,1,0,Cardiff City,1.2,0.6,63,19090.0,Lloyd Kelly,4-3-3,Joshua Smith,Match Report,,16,5,18.5,1.0,0,0,2021,Bournemouth
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,W,2,1,Luton Town,0.6,1.4,59,9737.0,Lloyd Kelly,4-3-3,Tim Robinson,Match Report,,6,3,16.3,0.0,0,0,2021,Bournemouth
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,D,0,0,P'borough Utd,1.5,0.1,61,8971.0,Lloyd Kelly,4-1-4-1,Andy Woolmer,Match Report,,11,3,13.9,0.0,0,0,2021,Bournemouth
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,W,2,1,Sheffield Utd,1.9,1.2,39,9349.0,Lloyd Kelly,4-3-3,Robert Jones,Match Report,,10,5,18.2,1.0,1,1,2021,Bournemouth
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,W,2,0,Bristol City,2.5,1.0,72,20828.0,Lloyd Kelly,4-1-4-1,Gavin Ward,Match Report,,22,4,13.9,0.0,0,0,2021,Bournemouth
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Away,W,1,0,Stoke City,1.2,1.7,52,18427.0,Lloyd Kelly,4-3-3,Dean Whitestone,Match Report,,10,4,21.0,0.0,0,0,2021,Bournemouth
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,3,0,Huddersfield,2.6,0.3,61,9253.0,Lloyd Kelly,4-3-3,John Brooks,Match Report,,13,4,17.3,0.0,1,1,2021,Bournemouth
+2021-10-30,20:00,Championship,Matchweek 15,Sat,Away,W,2,0,Reading,1.0,1.0,51,13551.0,Lloyd Kelly,4-3-3,Oliver Langford,Match Report,,8,3,18.2,0.0,0,0,2021,Bournemouth
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Home,L,1,2,Preston,1.1,0.9,62,9345.0,Lloyd Kelly,4-3-3,David Webb,Match Report,,10,5,17.4,1.0,0,0,2021,Bournemouth
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,W,4,0,Swansea City,3.2,0.2,40,9725.0,Lloyd Kelly,4-2-3-1,Tony Harrington,Match Report,,16,7,13.3,1.0,0,0,2021,Bournemouth
+2021-11-21,12:00,Championship,Matchweek 18,Sun,Away,L,2,3,Derby County,1.7,1.9,52,20764.0,Gary Cahill,4-2-3-1,Gavin Ward,Match Report,,12,4,13.5,0.0,0,0,2021,Bournemouth
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,D,1,1,Millwall,1.1,0.7,51,12237.0,Gary Cahill,4-2-3-1,Dean Whitestone,Match Report,,10,3,15.9,0.0,0,0,2021,Bournemouth
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,D,2,2,Coventry City,1.7,0.9,56,11094.0,Steve Cook,3-5-2,David Coote,Match Report,,9,5,19.1,1.0,0,0,2021,Bournemouth
+2021-12-03,19:45,Championship,Matchweek 21,Fri,Away,D,1,1,Fulham,0.9,3.0,37,19020.0,Steve Cook,4-1-2-1-2◆,Tim Robinson,Match Report,,8,3,16.5,0.0,0,0,2021,Bournemouth
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,L,0,2,Blackburn,1.6,1.9,67,10064.0,Steve Cook,4-3-3,Simon Hooper,Match Report,,15,6,19.6,2.0,0,0,2021,Bournemouth
+2021-12-18,12:30,Championship,Matchweek 23,Sat,Away,L,0,1,Middlesbrough,1.3,2.9,58,18323.0,Lloyd Kelly,4-2-3-1,Chris Kavanagh,Match Report,,10,3,16.6,1.0,0,0,2021,Bournemouth
+2021-12-27,17:30,Championship,Matchweek 24,Mon,Away,W,1,0,QPR,2.2,0.3,44,16308.0,Gary Cahill,4-2-3-1,Keith Stroud,Match Report,,15,6,16.3,1.0,0,0,2021,Bournemouth
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Home,W,3,0,Cardiff City,3.2,0.8,71,8942.0,Lloyd Kelly,4-3-3,James Linington,Match Report,,16,5,14.4,0.0,0,0,2021,Bournemouth
+2022-01-15,12:30,Championship,Matchweek 27,Sat,Away,L,2,3,Luton Town,1.4,1.7,63,9649.0,Lloyd Kelly,4-3-3,Leigh Doughty,Match Report,,12,6,15.3,1.0,0,0,2021,Bournemouth
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,L,0,1,Hull City,1.7,0.5,68,8823.0,Lloyd Kelly,4-3-3,Matt Donohue,Match Report,,17,6,16.2,1.0,0,0,2021,Bournemouth
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,W,1,0,Barnsley,1.8,1.7,69,11972.0,Lloyd Kelly,4-3-3,Andre Marriner,Match Report,,15,3,12.7,0.0,0,0,2021,Bournemouth
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,W,3,1,Birmingham City,1.3,1.2,53,8708.0,Lloyd Kelly,4-3-3,James Linington,Match Report,,9,5,14.2,0.0,0,0,2021,Bournemouth
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,W,2,1,Blackpool,1.9,1.1,69,11141.0,Lloyd Kelly,4-3-3,Dean Whitestone,Match Report,,12,6,17.3,0.0,0,1,2021,Bournemouth
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,2,1,Stoke City,2.7,0.7,67,9613.0,Lloyd Kelly,4-3-3,Tim Robinson,Match Report,,16,5,13.3,0.0,0,0,2021,Bournemouth
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,L,1,2,Preston,1.2,0.7,60,12173.0,Lloyd Kelly,4-3-3,Matt Donohue,Match Report,,8,3,13.6,0.0,0,0,2021,Bournemouth
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Home,D,1,1,P'borough Utd,1.8,0.8,66,8293.0,Lloyd Kelly,4-3-3,Gavin Ward,Match Report,,22,2,17.9,0.0,0,0,2021,Bournemouth
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,W,2,0,Derby County,1.7,0.7,47,9834.0,Lloyd Kelly,4-3-3,Andy Madley,Match Report,,14,7,16.5,1.0,0,0,2021,Bournemouth
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Home,D,1,1,Reading,0.9,0.5,49,9085.0,Lloyd Kelly,4-3-3,Leigh Doughty,Match Report,,10,6,15.9,0.0,0,0,2021,Bournemouth
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Away,W,3,0,Huddersfield,1.7,0.5,62,20336.0,Lloyd Kelly,4-3-3,Simon Hooper,Match Report,,14,6,15.7,0.0,0,0,2021,Bournemouth
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,W,3,2,Bristol City,3.2,1.5,67,9937.0,Lloyd Kelly,4-3-3,Steve Martin,Match Report,,25,8,14.6,0.0,0,0,2021,Bournemouth
+2022-04-06,20:00,Championship,Matchweek 30,Wed,Away,L,0,2,West Brom,1.1,0.6,67,20501.0,Lloyd Kelly,4-3-3,Keith Stroud,Match Report,,18,0,21.3,0.0,0,0,2021,Bournemouth
+2022-04-09,12:45,Championship,Matchweek 41,Sat,Away,D,0,0,Sheffield Utd,0.4,1.2,50,26769.0,Lloyd Kelly,4-2-3-1,Dean Whitestone,Match Report,,6,2,20.6,0.0,0,0,2021,Bournemouth
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,D,0,0,Middlesbrough,0.8,0.3,51,9903.0,Lloyd Kelly,4-2-3-1,Tim Robinson,Match Report,,8,2,15.1,1.0,0,0,2021,Bournemouth
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,W,3,0,Coventry City,1.2,0.8,43,24492.0,Lloyd Kelly,4-2-3-1,Matt Donohue,Match Report,,5,3,13.5,0.0,0,0,2021,Bournemouth
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,D,1,1,Fulham,1.2,0.6,52,10352.0,Lloyd Kelly,4-1-3-2,Graham Scott,Match Report,,8,1,22.0,1.0,1,1,2021,Bournemouth
+2022-04-26,19:45,Championship,Matchweek 34,Tue,Away,D,3,3,Swansea City,3.8,0.6,52,17780.0,Lloyd Kelly,4-2-3-1,Darren Bond,Match Report,,23,10,12.1,0.0,1,1,2021,Bournemouth
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,W,3,0,Blackburn,2.7,0.8,39,21396.0,Lloyd Kelly,4-2-3-1,Robert Jones,Match Report,,13,6,13.8,1.0,0,0,2021,Bournemouth
+2022-05-03,19:00,Championship,Matchweek 33,Tue,Home,W,1,0,Nott'ham Forest,0.5,1.2,59,10563.0,Lloyd Kelly,4-2-3-1,Stuart Attwell,Match Report,,11,3,17.3,0.0,0,0,2021,Bournemouth
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,1,0,Millwall,2.6,0.5,60,10244.0,Lloyd Kelly,4-2-3-1,Andre Marriner,Match Report,,20,3,14.7,0.0,0,0,2021,Bournemouth
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,D,1,1,Derby County,2.0,1.3,49,16249.0,Jonathan Hogg,3-5-2,Geoff Eltringham,Match Report,,17,6,13.9,0.0,0,0,2021,Huddersfield Town
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,L,1,5,Fulham,0.6,2.2,44,15126.0,Jonathan Hogg,3-5-2,Dean Whitestone,Match Report,,9,2,15.9,0.0,0,0,2021,Huddersfield Town
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Home,W,1,0,Preston,0.4,0.7,48,15278.0,Jonathan Hogg,3-5-2,James Linington,Match Report,,7,0,21.6,0.0,0,0,2021,Huddersfield Town
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,W,2,1,Sheffield Utd,1.1,0.8,30,28036.0,Jonathan Hogg,3-5-2,Michael Salisbury,Match Report,,6,3,19.5,0.0,0,0,2021,Huddersfield Town
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,W,4,0,Reading,2.6,0.6,51,14613.0,Jonathan Hogg,3-4-3,Leigh Doughty,Match Report,,16,8,15.1,2.0,0,0,2021,Huddersfield Town
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,L,1,2,Stoke City,1.3,0.8,45,20447.0,Jonathan Hogg,3-4-3,Joshua Smith,Match Report,,15,4,18.8,2.0,0,0,2021,Huddersfield Town
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Away,W,3,0,Blackpool,0.8,1.0,57,11277.0,Jonathan Hogg,3-4-3,Thomas Bramall,Match Report,,12,6,17.1,0.0,0,0,2021,Huddersfield Town
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,L,0,2,Nott'ham Forest,0.8,0.6,70,17462.0,Jonathan Hogg,3-4-3,Chris Kavanagh,Match Report,,10,2,17.3,0.0,0,0,2021,Huddersfield Town
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,L,0,1,Swansea City,0.3,1.0,47,17091.0,Jonathan Hogg,3-4-3,Gavin Ward,Match Report,,5,0,20.8,0.0,0,0,2021,Huddersfield Town
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Home,W,3,2,Blackburn,2.0,1.7,50,15283.0,Lewis O'Brien,3-4-3,Jeremy Simpson,Match Report,,13,8,16.2,0.0,0,0,2021,Huddersfield Town
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,D,0,0,Luton Town,0.3,1.1,44,9977.0,Lewis O'Brien,4-4-2,Leigh Doughty,Match Report,,9,2,24.0,0.0,0,0,2021,Huddersfield Town
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,W,2,0,Hull City,1.2,0.5,41,17510.0,Jonathan Hogg,3-4-3,Robert Jones,Match Report,,12,4,22.6,2.0,0,0,2021,Huddersfield Town
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Home,D,0,0,Birmingham City,0.9,0.5,66,15618.0,Jonathan Hogg,3-4-3,Andy Woolmer,Match Report,,9,1,20.9,0.0,0,0,2021,Huddersfield Town
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,0,3,Bournemouth,0.3,2.6,39,9253.0,Jonathan Hogg,3-4-3,John Brooks,Match Report,,4,1,25.9,1.0,0,0,2021,Huddersfield Town
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,W,1,0,Millwall,1.1,0.3,56,15397.0,Jonathan Hogg,3-4-3,Geoff Eltringham,Match Report,,14,6,19.3,1.0,0,0,2021,Huddersfield Town
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Away,D,1,1,P'borough Utd,1.3,1.2,48,7983.0,Jonathan Hogg,3-4-3,Keith Stroud,Match Report,,9,2,15.9,0.0,0,0,2021,Huddersfield Town
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,L,1,2,Cardiff City,1.9,1.0,43,17355.0,Jonathan Hogg,3-4-3,David Webb,Match Report,,13,2,18.0,0.0,0,0,2021,Huddersfield Town
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,W,1,0,West Brom,1.0,1.7,36,17297.0,Lewis O'Brien,3-4-3,Tim Robinson,Match Report,,6,2,19.9,0.0,0,0,2021,Huddersfield Town
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,L,0,1,QPR,1.2,2.0,41,11591.0,Lewis O'Brien,3-4-3,Graham Scott,Match Report,,10,5,16.9,0.0,0,0,2021,Huddersfield Town
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,L,1,2,Middlesbrough,0.4,1.3,50,19192.0,Lewis O'Brien,3-4-3,Thomas Bramall,Match Report,,8,1,17.3,0.0,0,0,2021,Huddersfield Town
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,D,1,1,Barnsley,1.7,1.1,51,15190.0,Lewis O'Brien,4-3-3,Matt Donohue,Match Report,,18,7,17.3,0.0,0,0,2021,Huddersfield Town
+2021-12-11,12:30,Championship,Matchweek 22,Sat,Home,D,1,1,Coventry City,0.8,2.0,35,16493.0,Lewis O'Brien,4-3-3,Joshua Smith,Match Report,,10,2,15.3,0.0,0,0,2021,Huddersfield Town
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Away,W,3,2,Bristol City,2.2,1.9,45,18169.0,Lewis O'Brien,3-4-3,Dean Whitestone,Match Report,,10,5,18.3,0.0,0,1,2021,Huddersfield Town
+2021-12-26,15:00,Championship,Matchweek 24,Sun,Home,W,3,2,Blackpool,1.3,1.2,60,18968.0,Lewis O'Brien,3-4-3,Jeremy Simpson,Match Report,,14,6,17.3,0.0,0,0,2021,Huddersfield Town
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Away,W,1,0,Nott'ham Forest,0.8,2.0,42,27159.0,Lewis O'Brien,3-4-3,Gavin Ward,Match Report,,9,2,22.9,0.0,0,0,2021,Huddersfield Town
+2022-01-02,14:00,Championship,Matchweek 26,Sun,Away,D,0,0,Blackburn,0.4,1.0,51,16313.0,Lewis O'Brien,3-4-3,Keith Stroud,Match Report,,4,1,18.3,0.0,0,0,2021,Huddersfield Town
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,D,1,1,Swansea City,2.1,1.1,31,20535.0,Jonathan Hogg,3-4-3,David Webb,Match Report,,11,8,14.0,0.0,0,0,2021,Huddersfield Town
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,W,4,3,Reading,1.6,1.8,48,10796.0,Jonathan Hogg,3-4-3,Robert Jones,Match Report,,19,7,19.2,0.0,0,0,2021,Huddersfield Town
+2022-01-28,19:45,Championship,Matchweek 29,Fri,Home,D,1,1,Stoke City,1.3,1.0,43,16342.0,Jonathan Hogg,4-4-2,Gavin Ward,Match Report,,13,5,18.1,0.0,0,0,2021,Huddersfield Town
+2022-02-02,19:45,Championship,Matchweek 30,Wed,Home,W,2,0,Derby County,1.6,0.0,71,16231.0,Jonathan Hogg,4-4-2,Matt Donohue,Match Report,,16,6,19.2,1.0,0,0,2021,Huddersfield Town
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,D,0,0,Preston,0.3,1.6,45,11120.0,Jonathan Hogg,5-4-1,Robert Jones,Match Report,,8,1,22.5,1.0,0,0,2021,Huddersfield Town
+2022-02-12,12:30,Championship,Matchweek 32,Sat,Home,D,0,0,Sheffield Utd,0.9,1.0,50,17523.0,Jonathan Hogg,4-3-3,James Linington,Match Report,,12,3,19.0,0.0,0,0,2021,Huddersfield Town
+2022-02-19,12:30,Championship,Matchweek 33,Sat,Away,W,2,1,Fulham,1.1,1.3,32,19001.0,Jonathan Hogg,4-3-3,Tony Harrington,Match Report,,5,3,25.4,0.0,1,1,2021,Huddersfield Town
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Home,W,2,1,Cardiff City,0.9,1.1,74,20167.0,Lewis O'Brien,3-4-3,Oliver Langford,Match Report,,14,4,17.3,0.0,0,0,2021,Huddersfield Town
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,W,2,0,Birmingham City,1.6,0.4,41,17318.0,Jonathan Hogg,4-3-3,David Webb,Match Report,,7,5,13.8,0.0,0,0,2021,Huddersfield Town
+2022-03-04,19:45,Championship,Matchweek 36,Fri,Home,W,3,0,P'borough Utd,1.7,0.5,59,16023.0,Lewis O'Brien,4-3-3,Darren Bond,Match Report,,16,7,17.1,0.0,0,0,2021,Huddersfield Town
+2022-03-11,20:00,Championship,Matchweek 37,Fri,Away,D,2,2,West Brom,1.6,2.0,51,20846.0,Jonathan Hogg,4-4-2,Matt Donohue,Match Report,,15,8,15.4,0.0,0,0,2021,Huddersfield Town
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Away,L,0,2,Millwall,1.0,2.2,54,10792.0,Jonathan Hogg,5-4-1,James Linington,Match Report,,13,3,19.6,0.0,0,0,2021,Huddersfield Town
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Home,L,0,3,Bournemouth,0.5,1.7,38,20336.0,Lewis O'Brien,4-4-2,Simon Hooper,Match Report,,7,4,15.9,0.0,0,0,2021,Huddersfield Town
+2022-04-01,19:45,Championship,Matchweek 40,Fri,Away,W,1,0,Hull City,2.7,0.6,54,12764.0,Lewis O'Brien,4-3-3,Jeremy Simpson,Match Report,,23,8,15.5,1.0,0,0,2021,Huddersfield Town
+2022-04-11,19:45,Championship,Matchweek 41,Mon,Home,W,2,0,Luton Town,1.2,0.7,46,18379.0,Jonathan Hogg,3-4-3,Geoff Eltringham,Match Report,,11,4,16.0,0.0,0,0,2021,Huddersfield Town
+2022-04-15,17:30,Championship,Matchweek 42,Fri,Home,D,2,2,QPR,1.0,1.9,48,19636.0,Jonathan Hogg,4-2-3-1,Leigh Doughty,Match Report,,6,1,13.9,0.0,0,0,2021,Huddersfield Town
+2022-04-18,12:30,Championship,Matchweek 43,Mon,Away,W,2,0,Middlesbrough,2.1,1.1,32,24230.0,Jonathan Hogg,5-4-1,Darren England,Match Report,,10,6,14.3,0.0,0,0,2021,Huddersfield Town
+2022-04-22,19:45,Championship,Matchweek 44,Fri,Home,W,2,1,Barnsley,1.6,0.6,51,17258.0,Jonathan Hogg,4-4-2,James Linington,Match Report,,10,5,16.3,0.0,0,0,2021,Huddersfield Town
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,W,2,1,Coventry City,2.5,2.6,40,23828.0,Jonathan Hogg,3-4-3,Tony Harrington,Match Report,,6,3,17.4,0.0,1,1,2021,Huddersfield Town
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,2,0,Bristol City,2.1,0.8,50,17797.0,Jonathan Hogg,3-5-2,David Webb,Match Report,,13,5,17.3,0.0,0,0,2021,Huddersfield Town
+2022-05-13,19:45,Championship,Semi-finals,Fri,Away,D,1,1,Luton Town,1.4,1.0,51,10005.0,Jonathan Hogg,3-4-3,Robert Jones,Match Report,Leg 1 of 2,9,2,17.9,0.0,0,0,2021,Huddersfield Town
+2022-05-16,19:45,Championship,Semi-finals,Mon,Home,W,1,0,Luton Town,0.8,1.2,53,23507.0,Jonathan Hogg,3-5-2,Peter Bankes,Match Report,Leg 2 of 2; Huddersfield won,12,5,18.8,1.0,0,0,2021,Huddersfield Town
+2022-05-29,16:30,Championship,Final,Sun,Neutral,L,0,1,Nott'ham Forest,0.4,0.5,48,80019.0,Jonathan Hogg,3-4-3,Jonathan Moss,Match Report,,5,0,15.3,0.0,0,0,2021,Huddersfield Town
+2021-08-08,16:30,Championship,Matchweek 1,Sun,Away,L,1,2,Coventry City,1.1,1.4,38,20843.0,Ryan Yates,4-2-3-1,James Linington,Match Report,,10,2,20.4,1.0,0,0,2021,Nottingham Forest
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,L,1,2,Bournemouth,0.8,0.6,55,25035.0,Ryan Yates,4-2-3-1,Geoff Eltringham,Match Report,,15,5,20.6,1.0,0,0,2021,Nottingham Forest
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Home,L,1,2,Blackburn,0.3,0.9,60,23964.0,Lewis Grabban,4-4-1-1,Gavin Ward,Match Report,,7,4,24.3,0.0,0,0,2021,Nottingham Forest
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,L,0,1,Stoke City,0.1,1.0,42,21346.0,Ryan Yates,4-2-3-1,Oliver Langford,Match Report,,2,0,26.6,1.0,0,0,2021,Nottingham Forest
+2021-08-28,12:30,Championship,Matchweek 5,Sat,Away,D,1,1,Derby County,0.7,1.2,49,22991.0,Joe Worrall,4-2-3-1,Tim Robinson,Match Report,,13,4,19.1,0.0,0,0,2021,Nottingham Forest
+2021-09-12,14:30,Championship,Matchweek 6,Sun,Home,L,1,2,Cardiff City,1.0,1.6,53,24153.0,Lewis Grabban,4-4-1-1,Dean Whitestone,Match Report,,15,4,21.2,1.0,0,0,2021,Nottingham Forest
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Home,L,0,2,Middlesbrough,0.9,2.0,59,23830.0,Lewis Grabban,4-4-1-1,Andy Woolmer,Match Report,,15,3,21.4,0.0,0,0,2021,Nottingham Forest
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,W,2,0,Huddersfield,0.6,0.8,30,17462.0,Lewis Grabban,3-4-3,Chris Kavanagh,Match Report,,7,4,20.0,0.0,0,0,2021,Nottingham Forest
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,D,1,1,Millwall,0.7,1.1,54,25589.0,Lewis Grabban,3-4-3,Jeremy Simpson,Match Report,,10,3,21.9,0.0,0,0,2021,Nottingham Forest
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,W,3,1,Barnsley,2.7,1.2,62,13657.0,Joe Worrall,3-4-3,Geoff Eltringham,Match Report,,12,7,17.8,0.0,0,0,2021,Nottingham Forest
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,W,3,0,Birmingham City,1.1,2.1,48,15148.0,Lewis Grabban,3-4-3,Keith Stroud,Match Report,,12,7,19.2,0.0,0,0,2021,Nottingham Forest
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,W,2,1,Blackpool,2.1,1.0,47,27946.0,Lewis Grabban,3-4-3,Kevin Friend,Match Report,,13,5,19.0,0.0,0,0,2021,Nottingham Forest
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Away,W,2,1,Bristol City,2.6,2.2,66,24691.0,Lewis Grabban,3-4-1-2,Steve Martin,Match Report,,14,4,21.9,0.0,1,1,2021,Nottingham Forest
+2021-10-24,15:00,Championship,Matchweek 14,Sun,Home,L,0,4,Fulham,0.6,1.8,49,27470.0,Lewis Grabban,3-4-1-2,James Linington,Match Report,,8,1,19.9,1.0,0,0,2021,Nottingham Forest
+2021-10-29,19:45,Championship,Matchweek 15,Fri,Away,D,1,1,QPR,0.6,1.2,59,15089.0,Lewis Grabban,3-4-1-2,Andrew Davies,Match Report,,12,4,24.9,0.0,0,0,2021,Nottingham Forest
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Home,D,1,1,Sheffield Utd,1.2,0.6,44,25238.0,Joe Worrall,3-4-3,Leigh Doughty,Match Report,,10,1,16.3,0.0,0,0,2021,Nottingham Forest
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,W,3,0,Preston,1.6,0.4,40,27129.0,Lewis Grabban,4-2-3-1,Simon Hooper,Match Report,,10,3,19.7,0.0,1,1,2021,Nottingham Forest
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,D,1,1,Reading,1.2,1.1,43,14907.0,Lewis Grabban,4-2-3-1,Andy Woolmer,Match Report,,13,3,20.7,2.0,0,0,2021,Nottingham Forest
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Home,D,0,0,Luton Town,0.4,1.2,52,25715.0,Joe Worrall,4-2-3-1,Jeremy Simpson,Match Report,,8,0,21.1,0.0,0,0,2021,Nottingham Forest
+2021-11-26,20:00,Championship,Matchweek 20,Fri,Away,D,0,0,West Brom,0.7,1.7,56,22424.0,Lewis Grabban,3-4-3,Gavin Ward,Match Report,,9,1,18.4,0.0,0,0,2021,Nottingham Forest
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,W,2,0,P'borough Utd,2.0,0.9,55,28308.0,Lewis Grabban,4-2-3-1,Thomas Bramall,Match Report,,15,3,18.8,0.0,0,0,2021,Nottingham Forest
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,W,4,1,Swansea City,1.6,1.1,26,17659.0,Lewis Grabban,3-4-3,Matt Donohue,Match Report,,9,5,12.9,0.0,0,0,2021,Nottingham Forest
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Home,W,2,1,Hull City,1.7,0.7,53,26513.0,Lewis Grabban,3-4-3,John Busby,Match Report,,8,2,14.9,0.0,1,1,2021,Nottingham Forest
+2021-12-26,15:00,Championship,Matchweek 24,Sun,Away,L,0,2,Middlesbrough,0.7,2.1,47,29832.0,Lewis Grabban,3-4-1-2,Joshua Smith,Match Report,,7,0,16.2,0.0,0,0,2021,Nottingham Forest
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Home,L,0,1,Huddersfield,2.0,0.8,58,27159.0,Lewis Grabban,4-2-3-1,Gavin Ward,Match Report,,23,6,18.5,1.0,0,0,2021,Nottingham Forest
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,W,1,0,Millwall,3.2,1.5,50,13297.0,Lewis Grabban,3-4-1-2,Peter Bankes,Match Report,,24,7,15.4,0.0,0,0,2021,Nottingham Forest
+2022-01-22,12:30,Championship,Matchweek 28,Sat,Home,W,2,1,Derby County,1.9,1.3,47,29256.0,Lewis Grabban,3-4-3,Tim Robinson,Match Report,,13,6,22.3,1.0,0,0,2021,Nottingham Forest
+2022-01-25,19:45,Championship,Matchweek 26,Tue,Home,W,3,0,Barnsley,3.1,0.6,55,27504.0,Lewis Grabban,4-2-3-1,Michael Salisbury,Match Report,,18,6,13.3,0.0,0,0,2021,Nottingham Forest
+2022-01-30,16:00,Championship,Matchweek 29,Sun,Away,L,1,2,Cardiff City,0.6,1.5,68,18866.0,Lewis Grabban,4-2-3-1,David Webb,Match Report,,6,1,16.6,0.0,0,0,2021,Nottingham Forest
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,W,2,0,Blackburn,2.5,1.1,43,13869.0,Joe Worrall,3-5-2,Joshua Smith,Match Report,,13,4,17.4,1.0,1,1,2021,Nottingham Forest
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,D,2,2,Stoke City,1.6,2.8,38,28990.0,Joe Worrall,3-4-1-2,Leigh Doughty,Match Report,,11,6,17.3,1.0,0,0,2021,Nottingham Forest
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Away,D,0,0,Preston,0.6,1.5,48,12598.0,Joe Worrall,3-4-1-2,Geoff Eltringham,Match Report,,7,2,21.8,0.0,0,0,2021,Nottingham Forest
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,2,0,Bristol City,1.5,0.4,54,28506.0,Joe Worrall,3-4-1-2,Darren Bond,Match Report,,16,6,16.5,1.0,0,0,2021,Nottingham Forest
+2022-03-04,19:45,Championship,Matchweek 36,Fri,Away,D,1,1,Sheffield Utd,2.1,0.8,50,28841.0,Joe Worrall,3-4-1-2,Joshua Smith,Match Report,,12,3,16.0,0.0,0,1,2021,Nottingham Forest
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,W,4,0,Reading,0.9,0.8,61,28128.0,Joe Worrall,3-4-1-2,Thomas Bramall,Match Report,,10,5,17.4,0.0,0,0,2021,Nottingham Forest
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,W,3,1,QPR,2.4,1.1,59,27872.0,Joe Worrall,3-4-1-2,Peter Bankes,Match Report,,16,8,16.3,1.0,0,0,2021,Nottingham Forest
+2022-04-02,12:30,Championship,Matchweek 40,Sat,Away,W,4,1,Blackpool,1.7,1.6,51,13986.0,Joe Worrall,3-4-1-2,Jarred Gillett,Match Report,,17,7,17.9,2.0,0,0,2021,Nottingham Forest
+2022-04-06,19:45,Championship,Matchweek 30,Wed,Home,W,2,0,Coventry City,2.6,1.2,53,28977.0,Joe Worrall,3-4-1-2,Tim Robinson,Match Report,,18,3,15.4,0.0,0,0,2021,Nottingham Forest
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,W,2,0,Birmingham City,1.3,1.0,53,29293.0,Joe Worrall,3-4-1-2,Gavin Ward,Match Report,,13,5,16.6,2.0,0,0,2021,Nottingham Forest
+2022-04-15,12:30,Championship,Matchweek 42,Fri,Away,L,0,1,Luton Town,1.0,0.6,64,10070.0,Lewis Grabban,3-4-1-2,James Linington,Match Report,,11,3,17.8,1.0,0,0,2021,Nottingham Forest
+2022-04-18,20:00,Championship,Matchweek 43,Mon,Home,W,4,0,West Brom,1.6,0.1,69,28926.0,Joe Worrall,3-4-1-2,David Webb,Match Report,,16,5,22.2,1.0,1,1,2021,Nottingham Forest
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,W,1,0,P'borough Utd,1.9,0.6,52,12870.0,Joe Worrall,3-4-1-2,Michael Salisbury,Match Report,,12,4,12.6,0.0,0,0,2021,Nottingham Forest
+2022-04-26,19:45,Championship,Matchweek 39,Tue,Away,W,1,0,Fulham,1.1,2.2,27,19218.0,Joe Worrall,3-4-1-2,Joshua Smith,Match Report,,9,6,15.6,0.0,0,0,2021,Nottingham Forest
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,W,5,1,Swansea City,4.1,1.1,30,28659.0,Joe Worrall,3-4-1-2,Graham Scott,Match Report,,27,16,13.6,0.0,0,0,2021,Nottingham Forest
+2022-05-03,19:00,Championship,Matchweek 33,Tue,Away,L,0,1,Bournemouth,1.2,0.5,41,10563.0,Joe Worrall,3-4-1-2,Stuart Attwell,Match Report,,7,2,14.1,0.0,0,0,2021,Nottingham Forest
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,D,1,1,Hull City,2.9,1.4,61,18399.0,Joe Worrall,3-4-1-2,Simon Hooper,Match Report,,13,3,18.7,0.0,1,1,2021,Nottingham Forest
+2022-05-14,15:00,Championship,Semi-finals,Sat,Away,W,2,1,Sheffield Utd,2.7,1.1,41,30225.0,Joe Worrall,3-4-1-2,Andre Marriner,Match Report,Leg 1 of 2,17,8,14.6,0.0,0,0,2021,Nottingham Forest
+2022-05-17,19:45,Championship,Semi-finals,Tue,Home,L,1 (3),2 (2),Sheffield Utd,1.8,2.8,48,29015.0,Joe Worrall,3-4-1-2,Michael Oliver,Match Report,Leg 2 of 2; Nott'ham Forest won; Nott'ham Forest won on penalty kicks following extra time,13,4,14.6,0.0,0,0,2021,Nottingham Forest
+2022-05-29,16:30,Championship,Final,Sun,Neutral,W,1,0,Huddersfield,0.5,0.4,52,80019.0,Joe Worrall,3-4-1-2,Jonathan Moss,Match Report,,8,2,23.9,0.0,0,0,2021,Nottingham Forest
+2021-08-07,20:00,Championship,Matchweek 1,Sat,Home,L,0,1,Birmingham City,0.9,1.1,74,29043.0,John Egan,4-4-2,Tim Robinson,Match Report,,16,2,21.8,1.0,0,0,2021,Sheffield United
+2021-08-14,20:00,Championship,Matchweek 2,Sat,Away,D,0,0,Swansea City,0.8,0.4,38,15946.0,Billy Sharp,4-2-3-1,Keith Stroud,Match Report,,8,2,14.5,0.0,0,0,2021,Sheffield United
+2021-08-18,20:00,Championship,Matchweek 3,Wed,Away,L,0,4,West Brom,0.8,3.2,65,23113.0,Billy Sharp,4-3-3,Matt Donohue,Match Report,,5,1,11.8,0.0,0,0,2021,Sheffield United
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,L,1,2,Huddersfield,0.8,1.1,70,28036.0,John Egan,3-5-2,Michael Salisbury,Match Report,,16,6,20.6,1.0,0,0,2021,Sheffield United
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,D,0,0,Luton Town,0.7,1.0,67,9774.0,Billy Sharp,3-5-2,Andrew Davies,Match Report,,8,1,16.1,0.0,0,0,2021,Sheffield United
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,W,6,2,P'borough Utd,4.0,1.7,68,27359.0,Billy Sharp,4-2-3-1,Steve Martin,Match Report,,24,9,14.0,0.0,0,0,2021,Sheffield United
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Home,D,2,2,Preston,1.8,1.5,62,25463.0,Billy Sharp,4-2-3-1,Geoff Eltringham,Match Report,,13,6,16.0,1.0,0,0,2021,Sheffield United
+2021-09-18,12:30,Championship,Matchweek 8,Sat,Away,W,3,1,Hull City,2.3,1.5,60,14451.0,Billy Sharp,4-2-3-1,Dean Whitestone,Match Report,,14,7,20.0,0.0,0,1,2021,Sheffield United
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,W,1,0,Derby County,2.7,0.8,68,27905.0,Oliver Norwood,4-2-3-1,David Webb,Match Report,,16,1,17.4,1.0,1,1,2021,Sheffield United
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Away,L,0,2,Middlesbrough,1.3,0.5,64,19390.0,Billy Sharp,4-2-3-1,James Linington,Match Report,,13,4,19.3,1.0,0,0,2021,Sheffield United
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,L,1,2,Bournemouth,1.2,1.9,61,9349.0,Billy Sharp,4-2-3-1,Robert Jones,Match Report,,8,1,14.6,1.0,0,0,2021,Sheffield United
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,W,2,1,Stoke City,2.4,1.1,53,28576.0,Billy Sharp,4-2-3-1,Keith Stroud,Match Report,,16,4,13.8,0.0,0,0,2021,Sheffield United
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Home,L,1,2,Millwall,2.5,1.5,59,25345.0,Billy Sharp,4-2-3-1,Matt Donohue,Match Report,,11,2,17.8,0.0,1,1,2021,Sheffield United
+2021-10-24,12:30,Championship,Matchweek 14,Sun,Away,W,3,2,Barnsley,1.2,0.8,60,15720.0,John Egan,4-2-3-1,Gavin Ward,Match Report,,7,4,15.2,0.0,0,0,2021,Sheffield United
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,L,0,1,Blackpool,1.4,0.3,58,28304.0,John Egan,4-4-1-1,Tony Harrington,Match Report,,13,4,17.4,0.0,0,0,2021,Sheffield United
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Away,D,1,1,Nott'ham Forest,0.6,1.2,56,25238.0,John Egan,4-2-3-1,Leigh Doughty,Match Report,,6,3,15.4,0.0,0,0,2021,Sheffield United
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,L,1,3,Blackburn,1.6,2.5,61,17291.0,John Egan,4-2-3-1,Oliver Langford,Match Report,,9,4,11.9,0.0,0,0,2021,Sheffield United
+2021-11-20,12:30,Championship,Matchweek 18,Sat,Home,D,0,0,Coventry City,1.1,0.6,56,28075.0,Billy Sharp,3-4-3,Michael Salisbury,Match Report,,13,2,18.7,0.0,0,0,2021,Sheffield United
+2021-11-23,20:00,Championship,Matchweek 19,Tue,Away,W,1,0,Reading,1.0,0.5,54,10247.0,John Egan,3-4-3,Andrew Davies,Match Report,,8,2,12.9,1.0,0,0,2021,Sheffield United
+2021-11-28,12:30,Championship,Matchweek 20,Sun,Home,W,2,0,Bristol City,1.8,0.6,64,25615.0,John Egan,3-4-3,Geoff Eltringham,Match Report,,21,5,16.0,1.0,0,0,2021,Sheffield United
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,W,3,2,Cardiff City,2.9,0.9,62,18310.0,Billy Sharp,3-4-3,John Busby,Match Report,,16,8,14.4,1.0,0,0,2021,Sheffield United
+2021-12-20,19:45,Championship,Matchweek 23,Mon,Away,W,1,0,Fulham,0.1,1.1,29,17308.0,Billy Sharp,3-4-1-2,James Linington,Match Report,,2,2,26.7,0.0,0,0,2021,Sheffield United
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,L,0,2,Derby County,0.9,0.4,55,24597.0,Billy Sharp,3-4-1-2,Graham Scott,Match Report,,8,2,13.9,0.0,0,0,2021,Sheffield United
+2022-01-18,19:45,Championship,Matchweek 24,Tue,Away,D,2,2,Preston,2.4,2.2,61,12954.0,Billy Sharp,3-4-1-2,David Webb,Match Report,,17,6,18.7,1.0,1,1,2021,Sheffield United
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,W,2,0,Luton Town,2.3,0.4,65,27780.0,Billy Sharp,3-4-1-2,Steve Martin,Match Report,,25,7,16.1,0.0,0,0,2021,Sheffield United
+2022-01-29,17:30,Championship,Matchweek 29,Sat,Away,W,2,0,P'borough Utd,2.1,0.2,58,10152.0,Billy Sharp,3-4-1-2,Dean Whitestone,Match Report,,20,5,14.2,0.0,0,0,2021,Sheffield United
+2022-02-04,19:45,Championship,Matchweek 30,Fri,Away,W,2,1,Birmingham City,1.3,0.5,53,17194.0,Billy Sharp,3-5-2,Keith Stroud,Match Report,,9,5,14.8,0.0,0,0,2021,Sheffield United
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,W,2,0,West Brom,1.7,0.8,57,26541.0,Billy Sharp,3-4-3,Leigh Doughty,Match Report,,12,5,16.8,0.0,0,0,2021,Sheffield United
+2022-02-12,12:30,Championship,Matchweek 32,Sat,Away,D,0,0,Huddersfield,1.0,0.9,50,17523.0,Billy Sharp,3-4-1-2,James Linington,Match Report,,9,5,13.4,0.0,0,0,2021,Sheffield United
+2022-02-15,19:45,Championship,Matchweek 25,Tue,Home,D,0,0,Hull City,2.0,0.7,70,27601.0,John Egan,3-4-3,Oliver Langford,Match Report,,21,3,16.0,1.0,0,0,2021,Sheffield United
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,W,4,0,Swansea City,1.8,0.2,39,26564.0,Billy Sharp,3-4-3,David Webb,Match Report,,12,6,14.3,2.0,0,0,2021,Sheffield United
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Home,W,1,0,Blackburn,2.0,1.3,51,26495.0,Billy Sharp,3-4-3,Matt Donohue,Match Report,,13,6,14.0,0.0,0,0,2021,Sheffield United
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,L,0,1,Millwall,0.7,0.5,61,14638.0,Billy Sharp,3-4-1-2,Michael Salisbury,Match Report,,8,3,18.4,0.0,0,0,2021,Sheffield United
+2022-03-04,19:45,Championship,Matchweek 36,Fri,Home,D,1,1,Nott'ham Forest,0.8,2.1,50,28841.0,Billy Sharp,3-5-2,Joshua Smith,Match Report,,8,6,15.9,0.0,0,0,2021,Sheffield United
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Home,W,4,1,Middlesbrough,2.9,2.0,45,28994.0,Billy Sharp,3-5-2,Tim Robinson,Match Report,,12,5,14.9,0.0,0,0,2021,Sheffield United
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,L,1,4,Coventry City,1.5,5.4,52,21732.0,Billy Sharp,3-5-2,Jeremy Simpson,Match Report,,12,4,19.0,0.0,0,0,2021,Sheffield United
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Away,D,0,0,Blackpool,0.6,1.1,51,11915.0,Billy Sharp,3-4-3,Geoff Eltringham,Match Report,,7,2,20.8,0.0,0,0,2021,Sheffield United
+2022-03-19,12:30,Championship,Matchweek 39,Sat,Home,W,2,0,Barnsley,2.6,0.9,53,28515.0,Billy Sharp,3-5-2,Steve Martin,Match Report,,12,4,13.2,0.0,0,0,2021,Sheffield United
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,L,0,1,Stoke City,0.9,0.8,57,22631.0,John Egan,3-5-1-1,David Webb,Match Report,,10,1,20.2,0.0,0,0,2021,Sheffield United
+2022-04-05,19:45,Championship,Matchweek 22,Tue,Home,W,1,0,QPR,0.9,1.0,45,26488.0,John Egan,3-5-2,Darren Bond,Match Report,,9,3,15.7,0.0,0,0,2021,Sheffield United
+2022-04-09,12:45,Championship,Matchweek 41,Sat,Home,D,0,0,Bournemouth,1.2,0.4,50,26769.0,John Egan,3-5-2,Dean Whitestone,Match Report,,10,2,16.1,0.0,0,0,2021,Sheffield United
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,L,1,2,Reading,1.8,1.3,68,29125.0,John Egan,3-4-3,Gavin Ward,Match Report,,12,2,14.0,0.0,0,0,2021,Sheffield United
+2022-04-18,17:30,Championship,Matchweek 43,Mon,Away,D,1,1,Bristol City,1.6,1.3,67,18934.0,John Egan,3-5-2,Keith Stroud,Match Report,,16,5,20.1,1.0,0,0,2021,Sheffield United
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,W,1,0,Cardiff City,1.0,0.6,55,26802.0,John Egan,3-4-3,Oliver Langford,Match Report,,7,4,12.9,0.0,0,0,2021,Sheffield United
+2022-04-29,19:45,Championship,Matchweek 45,Fri,Away,W,3,1,QPR,3.0,0.7,54,15824.0,John Egan,3-4-3,Peter Bankes,Match Report,,27,7,12.0,0.0,0,0,2021,Sheffield United
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,4,0,Fulham,1.9,0.7,35,30813.0,John Egan,3-4-1-2,Joshua Smith,Match Report,,10,5,13.5,1.0,0,0,2021,Sheffield United
+2022-05-14,15:00,Championship,Semi-finals,Sat,Home,L,1,2,Nott'ham Forest,1.1,2.7,59,30225.0,John Egan,3-4-1-2,Andre Marriner,Match Report,Leg 1 of 2,15,2,17.6,0.0,0,0,2021,Sheffield United
+2022-05-17,19:45,Championship,Semi-finals,Tue,Away,W,2 (2),1 (3),Nott'ham Forest,2.8,1.8,52,29015.0,John Egan,3-4-1-2,Michael Oliver,Match Report,Leg 2 of 2; Nott'ham Forest won; Nott'ham Forest won on penalty kicks following extra time,20,6,18.8,0.0,0,0,2021,Sheffield United
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,W,3,0,P'borough Utd,2.2,0.2,49,10019.0,Kal Naismith,4-3-3,Andy Woolmer,Match Report,,12,6,15.9,1.0,0,0,2021,Luton Town
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,L,2,3,West Brom,1.9,1.6,54,23283.0,Kal Naismith,4-3-3,Tim Robinson,Match Report,,11,4,17.6,0.0,0,0,2021,Luton Town
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Away,W,1,0,Barnsley,0.9,1.2,31,12999.0,Kal Naismith,3-4-1-2,Oliver Langford,Match Report,,7,4,15.4,0.0,0,0,2021,Luton Town
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,L,0,5,Birmingham City,1.5,3.5,46,10014.0,Kal Naismith,3-4-1-2,John Busby,Match Report,,11,3,14.1,1.0,0,0,2021,Luton Town
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,D,0,0,Sheffield Utd,1.0,0.7,33,9774.0,Kal Naismith,4-2-3-1,Andrew Davies,Match Report,,9,1,17.0,0.0,0,0,2021,Luton Town
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,D,2,2,Blackburn,1.3,1.1,53,11241.0,Kal Naismith,4-2-3-1,Oliver Langford,Match Report,,10,4,17.2,0.0,0,0,2021,Luton Town
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Away,D,1,1,Bristol City,2.8,0.9,51,16878.0,Kal Naismith,3-4-1-2,Jeremy Simpson,Match Report,,18,4,13.4,0.0,0,0,2021,Luton Town
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,D,3,3,Swansea City,3.4,1.3,28,9721.0,Kal Naismith,3-5-2,Tony Harrington,Match Report,,15,4,16.7,2.0,1,1,2021,Luton Town
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,L,1,2,Bournemouth,1.4,0.6,41,9737.0,Kal Naismith,4-3-3,Tim Robinson,Match Report,,9,2,14.9,0.0,0,0,2021,Luton Town
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Home,W,5,0,Coventry City,3.8,1.0,45,9805.0,Sonny Bradley,3-4-1-2,Steve Martin,Match Report,,20,8,15.6,0.0,1,1,2021,Luton Town
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,D,0,0,Huddersfield,1.1,0.3,56,9977.0,Sonny Bradley,3-4-1-2,Leigh Doughty,Match Report,,14,3,19.2,0.0,0,0,2021,Luton Town
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,W,2,0,Millwall,0.7,1.7,42,14227.0,Sonny Bradley,3-4-1-2,Chris Kavanagh,Match Report,,6,2,21.1,0.0,0,0,2021,Luton Town
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Away,D,2,2,Derby County,1.4,0.5,50,20258.0,Sonny Bradley,3-4-1-2,Geoff Eltringham,Match Report,,10,3,12.8,0.0,0,0,2021,Luton Town
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,1,0,Hull City,1.6,0.5,46,9999.0,Sonny Bradley,3-4-3,John Busby,Match Report,,12,4,14.7,0.0,0,0,2021,Luton Town
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,L,0,2,Preston,0.8,1.9,47,11059.0,Sonny Bradley,3-4-1-2,Dean Whitestone,Match Report,,8,4,17.1,0.0,0,0,2021,Luton Town
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Home,W,3,1,Middlesbrough,1.3,1.1,49,9790.0,Sonny Bradley,3-5-2,Tim Robinson,Match Report,,10,3,16.2,0.0,0,0,2021,Luton Town
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,L,0,1,Stoke City,1.2,0.7,55,10068.0,Sonny Bradley,3-5-2,Jonathan Moss,Match Report,,7,2,20.5,0.0,0,0,2021,Luton Town
+2021-11-19,19:45,Championship,Matchweek 18,Fri,Away,L,0,2,QPR,1.3,1.2,48,15062.0,Sonny Bradley,5-3-2,Matt Donohue,Match Report,,16,2,18.0,1.0,0,0,2021,Luton Town
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Away,D,0,0,Nott'ham Forest,1.2,0.4,48,25715.0,Sonny Bradley,5-3-2,Jeremy Simpson,Match Report,,9,1,20.0,0.0,0,1,2021,Luton Town
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,L,1,2,Cardiff City,1.2,1.8,57,9987.0,Sonny Bradley,5-3-2,Oliver Langford,Match Report,,12,1,18.3,1.0,0,0,2021,Luton Town
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,W,3,0,Blackpool,1.6,1.5,35,11366.0,Sonny Bradley,3-4-3,Peter Bankes,Match Report,,12,5,11.2,0.0,0,0,2021,Luton Town
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,D,1,1,Fulham,0.6,1.1,36,9992.0,Sonny Bradley,3-4-3,Thomas Bramall,Match Report,,7,1,15.7,0.0,0,0,2021,Luton Town
+2022-01-15,12:30,Championship,Matchweek 27,Sat,Home,W,3,2,Bournemouth,1.7,1.4,37,9649.0,Sonny Bradley,3-5-2,Leigh Doughty,Match Report,,15,7,20.2,0.0,0,0,2021,Luton Town
+2022-01-19,20:00,Championship,Matchweek 23,Wed,Away,W,2,0,Reading,1.7,0.3,44,9611.0,Sonny Bradley,3-5-2,Tim Robinson,Match Report,,16,4,17.7,0.0,0,0,2021,Luton Town
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,L,0,2,Sheffield Utd,0.4,2.3,35,27780.0,Sonny Bradley,3-5-2,Steve Martin,Match Report,,4,2,20.3,0.0,0,0,2021,Luton Town
+2022-01-25,19:45,Championship,Matchweek 24,Tue,Home,W,2,1,Bristol City,1.4,1.1,41,9202.0,Kal Naismith,3-5-2,Andrew Davies,Match Report,,8,3,12.9,0.0,0,0,2021,Luton Town
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,D,0,0,Blackburn,1.2,0.4,52,9987.0,Kal Naismith,3-5-2,James Linington,Match Report,,8,2,11.4,0.0,0,0,2021,Luton Town
+2022-02-01,19:45,Championship,Matchweek 25,Tue,Away,W,1,0,Swansea City,1.7,1.6,30,16598.0,Kal Naismith,3-5-2,Oliver Langford,Match Report,,13,2,11.6,0.0,0,0,2021,Luton Town
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Home,W,2,1,Barnsley,2.7,0.9,44,9101.0,Kal Naismith,3-5-2,Andrew Davies,Match Report,,7,3,8.4,0.0,1,1,2021,Luton Town
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,L,0,3,Birmingham City,0.6,1.2,58,17292.0,Kal Naismith,3-5-2,Darren Bond,Match Report,,8,2,15.4,0.0,0,0,2021,Luton Town
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,W,2,0,West Brom,0.8,1.7,43,10021.0,Kal Naismith,3-4-1-2,Gavin Ward,Match Report,,6,3,14.3,0.0,0,0,2021,Luton Town
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Away,W,2,1,Stoke City,1.6,0.3,41,18270.0,Kal Naismith,3-4-1-2,John Busby,Match Report,,12,4,15.6,0.0,0,0,2021,Luton Town
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,1,0,Derby County,0.9,0.8,54,10070.0,Kal Naismith,3-1-4-2,Andy Woolmer,Match Report,,8,4,13.2,0.0,0,0,2021,Luton Town
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,L,1,2,Middlesbrough,1.2,1.2,45,23817.0,Kal Naismith,3-4-1-2,Jeremy Simpson,Match Report,,9,5,11.9,0.0,0,0,2021,Luton Town
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Away,W,1,0,Coventry City,0.6,1.0,40,16996.0,Pelly Ruddock Mpanzu,3-4-1-2,Oliver Langford,Match Report,,6,3,19.6,0.0,0,0,2021,Luton Town
+2022-03-13,12:00,Championship,Matchweek 37,Sun,Home,L,1,2,QPR,1.0,1.3,47,10073.0,Kal Naismith,3-4-1-2,Joshua Smith,Match Report,,13,4,18.5,1.0,0,0,2021,Luton Town
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,W,4,0,Preston,1.7,0.8,40,9408.0,Dan Potts,3-4-1-2,Steve Martin,Match Report,,12,5,13.0,0.0,0,0,2021,Luton Town
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Away,W,3,1,Hull City,1.6,1.9,41,16555.0,Dan Potts,3-4-1-2,Tony Harrington,Match Report,,11,5,16.0,2.0,0,0,2021,Luton Town
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,D,2,2,Millwall,0.7,1.1,54,10069.0,Kal Naismith,3-4-1-2,Graham Scott,Match Report,,9,2,21.2,0.0,0,0,2021,Luton Town
+2022-04-05,19:45,Championship,Matchweek 30,Tue,Away,D,1,1,P'borough Utd,1.7,1.8,52,10940.0,Kal Naismith,5-3-2,Thomas Bramall,Match Report,,9,3,13.9,0.0,0,0,2021,Luton Town
+2022-04-11,19:45,Championship,Matchweek 41,Mon,Away,L,0,2,Huddersfield,0.7,1.2,54,18379.0,Sonny Bradley,3-4-1-2,Geoff Eltringham,Match Report,,6,1,19.7,0.0,0,1,2021,Luton Town
+2022-04-15,12:30,Championship,Matchweek 42,Fri,Home,W,1,0,Nott'ham Forest,0.6,1.0,36,10070.0,Sonny Bradley,3-1-4-2,James Linington,Match Report,,7,3,34.6,0.0,1,1,2021,Luton Town
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,W,1,0,Cardiff City,0.6,1.3,38,19381.0,Kal Naismith,3-1-4-2,Andrew Davies,Match Report,,10,3,16.0,0.0,0,0,2021,Luton Town
+2022-04-23,12:30,Championship,Matchweek 44,Sat,Home,D,1,1,Blackpool,0.9,1.7,48,9843.0,Sonny Bradley,3-1-4-2,John Brooks,Match Report,,10,5,16.2,0.0,0,0,2021,Luton Town
+2022-05-02,17:15,Championship,Matchweek 45,Mon,Away,L,0,7,Fulham,0.3,3.0,29,19538.0,Kal Naismith,3-1-4-2,Tim Robinson,Match Report,,5,2,14.2,0.0,0,0,2021,Luton Town
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,1,0,Reading,1.6,0.6,44,10070.0,Sonny Bradley,3-1-4-2,Jeremy Simpson,Match Report,,16,4,16.9,1.0,0,0,2021,Luton Town
+2022-05-13,19:45,Championship,Semi-finals,Fri,Home,D,1,1,Huddersfield,1.0,1.4,49,10005.0,Sonny Bradley,3-1-4-2,Robert Jones,Match Report,Leg 1 of 2,12,3,17.0,1.0,0,0,2021,Luton Town
+2022-05-16,19:45,Championship,Semi-finals,Mon,Away,L,0,1,Huddersfield,1.2,0.8,47,23507.0,Sonny Bradley,3-5-2,Peter Bankes,Match Report,Leg 2 of 2; Huddersfield won,13,6,16.8,0.0,0,0,2021,Luton Town
+2021-08-08,13:30,Championship,Matchweek 1,Sun,Away,D,1,1,Fulham,0.5,1.5,35,16058.0,Jonny Howson,4-1-2-1-2◆,Keith Stroud,Match Report,,7,1,19.4,2.0,0,0,2021,Middlesbrough
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,W,2,1,Bristol City,2.0,1.2,39,22004.0,Jonny Howson,4-3-3,Oliver Langford,Match Report,,13,7,15.0,1.0,0,0,2021,Middlesbrough
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Home,L,2,3,QPR,1.8,0.8,47,22436.0,Jonny Howson,4-2-3-1,Steve Martin,Match Report,,13,5,19.3,0.0,1,1,2021,Middlesbrough
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,D,0,0,Derby County,0.9,0.6,49,16123.0,Paddy McNair,4-1-4-1,Andrew Davies,Match Report,,11,3,15.8,1.0,0,0,2021,Middlesbrough
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,D,1,1,Blackburn,1.8,0.5,61,20542.0,Jonny Howson,3-5-2,Michael Salisbury,Match Report,,12,5,21.2,0.0,0,0,2021,Middlesbrough
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,L,0,2,Coventry City,0.7,1.7,46,18515.0,Jonny Howson,3-5-2,Leigh Doughty,Match Report,,8,5,15.0,0.0,0,0,2021,Middlesbrough
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Away,W,2,0,Nott'ham Forest,2.0,0.9,41,23830.0,Jonny Howson,4-2-3-1,Andy Woolmer,Match Report,,13,6,16.9,1.0,0,0,2021,Middlesbrough
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,L,1,2,Blackpool,1.2,1.5,49,21022.0,Jonny Howson,4-2-3-1,David Webb,Match Report,,9,5,15.9,1.0,0,0,2021,Middlesbrough
+2021-09-25,12:30,Championship,Matchweek 9,Sat,Away,L,0,1,Reading,1.0,1.6,46,12469.0,Jonny Howson,4-2-3-1,Peter Bankes,Match Report,,10,2,12.8,0.0,0,0,2021,Middlesbrough
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Home,W,2,0,Sheffield Utd,0.5,1.3,36,19390.0,Jonny Howson,3-4-1-2,James Linington,Match Report,,9,4,21.5,1.0,0,0,2021,Middlesbrough
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,L,0,2,Hull City,1.5,0.9,55,13696.0,Jonny Howson,3-4-1-2,Andrew Davies,Match Report,,17,4,21.3,1.0,0,0,2021,Middlesbrough
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,W,2,0,P'borough Utd,2.6,0.3,41,19556.0,Jonny Howson,3-4-1-2,John Busby,Match Report,,16,3,18.5,1.0,1,1,2021,Middlesbrough
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Home,W,2,0,Barnsley,2.6,0.9,42,17931.0,Jonny Howson,3-4-1-2,Andy Madley,Match Report,,21,8,16.8,0.0,0,0,2021,Middlesbrough
+2021-10-23,12:30,Championship,Matchweek 14,Sat,Away,W,2,0,Cardiff City,2.8,0.9,49,17513.0,Jonny Howson,3-4-1-2,Jeremy Simpson,Match Report,,20,5,19.8,1.0,1,1,2021,Middlesbrough
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,L,0,2,Birmingham City,0.8,1.0,56,21582.0,Jonny Howson,3-5-2,Joshua Smith,Match Report,,11,3,23.6,1.0,0,0,2021,Middlesbrough
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Away,L,1,3,Luton Town,1.1,1.3,51,9790.0,Jonny Howson,3-5-2,Tim Robinson,Match Report,,9,4,19.9,1.0,0,0,2021,Middlesbrough
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,D,1,1,West Brom,1.2,0.6,31,22596.0,Jonny Howson,3-5-2,Matt Donohue,Match Report,,6,3,9.2,0.0,0,0,2021,Middlesbrough
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,D,1,1,Millwall,1.4,0.4,51,20845.0,Jonny Howson,3-5-2,Oliver Langford,Match Report,,13,7,19.0,1.0,0,0,2021,Middlesbrough
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Home,L,1,2,Preston,1.3,0.6,54,18013.0,Jonny Howson,3-5-2,Andy Woolmer,Match Report,,18,6,18.2,2.0,0,0,2021,Middlesbrough
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,W,2,1,Huddersfield,1.3,0.4,50,19192.0,Jonny Howson,3-5-2,Thomas Bramall,Match Report,,10,6,13.4,0.0,0,0,2021,Middlesbrough
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,W,1,0,Swansea City,1.6,1.4,33,18707.0,Jonny Howson,3-5-2,Andrew Davies,Match Report,,5,2,10.8,0.0,0,0,2021,Middlesbrough
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,D,0,0,Stoke City,0.4,0.4,59,21140.0,Jonny Howson,3-5-2,Michael Salisbury,Match Report,,7,1,16.1,0.0,0,0,2021,Middlesbrough
+2021-12-18,12:30,Championship,Matchweek 23,Sat,Home,W,1,0,Bournemouth,2.9,1.3,42,18323.0,Jonny Howson,3-5-2,Chris Kavanagh,Match Report,,18,6,16.0,0.0,1,1,2021,Middlesbrough
+2021-12-26,15:00,Championship,Matchweek 24,Sun,Home,W,2,0,Nott'ham Forest,2.1,0.7,53,29832.0,Jonny Howson,3-5-2,Joshua Smith,Match Report,,12,6,12.7,0.0,0,0,2021,Middlesbrough
+2021-12-29,19:45,Championship,Matchweek 25,Wed,Away,W,2,1,Blackpool,2.2,1.5,48,13428.0,Paddy McNair,3-5-2,Steve Martin,Match Report,,11,3,13.8,0.0,0,0,2021,Middlesbrough
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,W,2,1,Reading,2.2,0.8,63,21634.0,Jonny Howson,3-5-2,James Linington,Match Report,,10,5,12.7,0.0,0,0,2021,Middlesbrough
+2022-01-24,19:45,Championship,Matchweek 28,Mon,Away,L,0,1,Blackburn,0.9,1.1,67,14670.0,Jonny Howson,3-5-2,Darren England,Match Report,,9,0,12.1,1.0,0,0,2021,Middlesbrough
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,W,1,0,Coventry City,1.3,1.3,38,22940.0,Jonny Howson,3-5-2,Matt Donohue,Match Report,,9,3,13.0,1.0,0,0,2021,Middlesbrough
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,D,2,2,QPR,1.6,1.2,53,14140.0,Jonny Howson,3-5-2,Dean Whitestone,Match Report,,18,5,17.5,0.0,0,0,2021,Middlesbrough
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,W,4,1,Derby County,2.5,0.6,46,26266.0,Jonny Howson,3-5-2,Mike Dean,Match Report,,14,9,15.7,0.0,0,0,2021,Middlesbrough
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,L,1,2,Bristol City,2.2,0.9,63,20148.0,Jonny Howson,3-5-2,Leigh Doughty,Match Report,,21,10,15.2,0.0,0,0,2021,Middlesbrough
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Home,W,2,1,West Brom,1.4,0.7,56,21646.0,Jonny Howson,3-5-2,Michael Salisbury,Match Report,,8,3,12.0,0.0,0,0,2021,Middlesbrough
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,L,2,3,Barnsley,2.8,1.7,67,16107.0,Jonny Howson,3-5-2,James Linington,Match Report,,15,3,13.3,1.0,1,1,2021,Middlesbrough
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,W,2,1,Luton Town,1.2,1.2,55,23817.0,Jonny Howson,3-5-2,Jeremy Simpson,Match Report,,7,2,20.9,0.0,1,1,2021,Middlesbrough
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Away,L,1,4,Sheffield Utd,2.0,2.9,55,28994.0,Jonny Howson,3-5-2,Tim Robinson,Match Report,,7,2,16.8,0.0,0,0,2021,Middlesbrough
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,D,0,0,Millwall,0.7,0.4,53,16734.0,Jonny Howson,3-5-2,Robert Jones,Match Report,,7,4,16.3,1.0,0,0,2021,Middlesbrough
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Away,W,2,0,Birmingham City,1.9,1.0,50,15852.0,Jonny Howson,3-5-2,Darren Bond,Match Report,,9,4,17.9,1.0,0,1,2021,Middlesbrough
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,W,4,0,P'borough Utd,1.5,1.0,58,11755.0,Jonny Howson,3-5-2,Leigh Doughty,Match Report,,11,5,13.5,0.0,0,0,2021,Middlesbrough
+2022-04-06,19:45,Championship,Matchweek 30,Wed,Home,L,0,1,Fulham,1.3,1.1,48,21995.0,Jonny Howson,3-5-2,James Linington,Match Report,,15,2,17.4,1.0,0,0,2021,Middlesbrough
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,L,0,1,Hull City,0.6,0.4,61,24603.0,Jonny Howson,3-5-2,Andy Woolmer,Match Report,,11,4,19.0,0.0,0,0,2021,Middlesbrough
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,D,0,0,Bournemouth,0.3,0.8,49,9903.0,Jonny Howson,3-5-2,Tim Robinson,Match Report,,5,1,16.2,0.0,0,0,2021,Middlesbrough
+2022-04-18,12:30,Championship,Matchweek 43,Mon,Home,L,0,2,Huddersfield,1.1,2.1,68,24230.0,Jonny Howson,3-5-2,Darren England,Match Report,,13,2,18.3,1.0,0,0,2021,Middlesbrough
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,D,1,1,Swansea City,1.6,1.5,26,18246.0,Jonny Howson,3-5-2,David Webb,Match Report,,13,3,17.8,1.0,0,0,2021,Middlesbrough
+2022-04-27,19:45,Championship,Matchweek 39,Wed,Home,W,2,0,Cardiff City,1.3,1.0,46,19727.0,Jonny Howson,3-5-2,Matt Donohue,Match Report,,14,4,18.3,0.0,0,0,2021,Middlesbrough
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,W,3,1,Stoke City,1.3,0.9,42,24942.0,Jonny Howson,3-5-2,Jeremy Simpson,Match Report,,9,2,13.0,0.0,0,0,2021,Middlesbrough
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,L,1,4,Preston,1.3,2.4,50,17691.0,Jonny Howson,3-5-2,Tim Robinson,Match Report,,12,4,17.1,1.0,0,0,2021,Middlesbrough
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,W,2,1,Swansea City,3.5,1.2,28,10260.0,Darragh Lenihan,4-2-3-1,David Webb,Match Report,,20,9,18.3,2.0,1,1,2021,Blackburn Rovers
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,D,1,1,Millwall,0.2,1.8,40,12490.0,Darragh Lenihan,4-2-3-1,Andrew Davies,Match Report,,2,1,9.3,0.0,0,0,2021,Blackburn Rovers
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Away,W,2,1,Nott'ham Forest,0.9,0.3,40,23964.0,Darragh Lenihan,4-2-3-1,Gavin Ward,Match Report,,9,7,14.3,0.0,0,0,2021,Blackburn Rovers
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,L,1,2,West Brom,1.5,3.4,52,11926.0,Darragh Lenihan,4-2-3-1,Tony Harrington,Match Report,,7,2,12.4,0.0,0,0,2021,Blackburn Rovers
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,D,1,1,Middlesbrough,0.5,1.8,39,20542.0,Darragh Lenihan,4-2-3-1,Michael Salisbury,Match Report,,6,1,16.0,0.0,0,0,2021,Blackburn Rovers
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,D,2,2,Luton Town,1.1,1.3,47,11241.0,Darragh Lenihan,4-2-3-1,Oliver Langford,Match Report,,11,4,14.9,0.0,0,0,2021,Blackburn Rovers
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Home,W,2,0,Hull City,1.6,0.9,45,9140.0,Darragh Lenihan,4-2-3-1,John Brooks,Match Report,,18,6,18.7,1.0,0,0,2021,Blackburn Rovers
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,D,0,0,Barnsley,0.4,1.3,41,13640.0,Darragh Lenihan,4-2-3-1,Andy Woolmer,Match Report,,3,2,14.3,0.0,0,0,2021,Blackburn Rovers
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,W,5,1,Cardiff City,3.2,0.9,39,11670.0,Darragh Lenihan,4-2-3-1,Keith Stroud,Match Report,,16,8,16.6,0.0,1,1,2021,Blackburn Rovers
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Away,L,2,3,Huddersfield,1.7,2.0,50,15283.0,Lewis Travis,4-2-3-1,Jeremy Simpson,Match Report,,12,2,18.8,0.0,1,1,2021,Blackburn Rovers
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,L,1,2,Blackpool,1.2,1.3,52,13419.0,Lewis Travis,4-2-3-1,Joshua Smith,Match Report,,16,6,16.2,1.0,0,0,2021,Blackburn Rovers
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,D,2,2,Coventry City,1.1,0.8,42,14110.0,Darragh Lenihan,5-3-2,Matt Donohue,Match Report,,10,5,18.6,0.0,0,0,2021,Blackburn Rovers
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Away,L,0,1,QPR,0.2,1.1,36,11771.0,Darragh Lenihan,3-5-2,David Webb,Match Report,,5,1,29.2,1.0,0,0,2021,Blackburn Rovers
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,2,0,Reading,2.5,0.5,38,10517.0,Darragh Lenihan,4-3-3,Tony Harrington,Match Report,,12,5,15.8,0.0,0,0,2021,Blackburn Rovers
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,W,2,1,Derby County,2.5,1.0,37,22098.0,Darragh Lenihan,4-3-3,Steve Martin,Match Report,,12,5,12.3,0.0,0,0,2021,Blackburn Rovers
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Home,L,0,7,Fulham,0.2,3.1,34,9326.0,Darragh Lenihan,4-3-3,Jarred Gillett,Match Report,,5,2,15.7,0.0,0,0,2021,Blackburn Rovers
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,W,3,1,Sheffield Utd,2.5,1.6,39,17291.0,Darragh Lenihan,4-4-1-1,Oliver Langford,Match Report,,12,6,17.5,1.0,0,0,2021,Blackburn Rovers
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,D,1,1,Bristol City,0.4,1.2,54,18347.0,Darragh Lenihan,4-3-3,John Busby,Match Report,,8,1,21.0,0.0,0,0,2021,Blackburn Rovers
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Home,W,4,0,P'borough Utd,2.2,1.0,51,9038.0,Darragh Lenihan,3-4-1-2,John Brooks,Match Report,,13,7,20.0,1.0,0,0,2021,Blackburn Rovers
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,W,1,0,Stoke City,0.8,0.3,42,21739.0,Darragh Lenihan,3-4-1-2,Tim Robinson,Match Report,,7,2,20.2,0.0,0,0,2021,Blackburn Rovers
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,W,1,0,Preston,0.4,0.9,44,18487.0,Darragh Lenihan,3-4-1-2,Gavin Ward,Match Report,,6,3,16.8,0.0,0,0,2021,Blackburn Rovers
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,W,2,0,Bournemouth,1.9,1.6,33,10064.0,Darragh Lenihan,3-4-1-2,Simon Hooper,Match Report,,11,5,16.0,0.0,0,0,2021,Blackburn Rovers
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Home,W,4,0,Birmingham City,4.3,0.8,46,12148.0,Darragh Lenihan,3-4-1-2,Geoff Eltringham,Match Report,,15,4,14.4,0.0,1,1,2021,Blackburn Rovers
+2021-12-29,19:45,Championship,Matchweek 25,Wed,Home,W,2,1,Barnsley,1.4,0.4,42,14228.0,Darragh Lenihan,3-4-1-2,Dean Whitestone,Match Report,,14,5,18.8,0.0,0,0,2021,Blackburn Rovers
+2022-01-02,14:00,Championship,Matchweek 26,Sun,Home,D,0,0,Huddersfield,1.0,0.4,49,16313.0,Darragh Lenihan,3-4-3,Keith Stroud,Match Report,,11,1,17.1,1.0,0,0,2021,Blackburn Rovers
+2022-01-15,12:30,Championship,Matchweek 27,Sat,Away,W,1,0,Cardiff City,0.1,0.8,34,,Darragh Lenihan,3-4-1-2,Matt Donohue,Match Report,,4,2,24.7,0.0,0,0,2021,Blackburn Rovers
+2022-01-19,19:45,Championship,Matchweek 24,Wed,Away,L,0,2,Hull City,1.4,2.1,52,13950.0,Darragh Lenihan,3-4-3,Thomas Bramall,Match Report,,15,3,18.4,0.0,0,0,2021,Blackburn Rovers
+2022-01-24,19:45,Championship,Matchweek 28,Mon,Home,W,1,0,Middlesbrough,1.1,0.9,33,14670.0,Darragh Lenihan,3-4-1-2,Darren England,Match Report,,15,3,18.4,1.0,0,0,2021,Blackburn Rovers
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,D,0,0,Luton Town,0.4,1.2,48,9987.0,Darragh Lenihan,3-4-1-2,James Linington,Match Report,,7,2,19.3,1.0,0,0,2021,Blackburn Rovers
+2022-02-05,17:30,Championship,Matchweek 30,Sat,Away,L,0,1,Swansea City,1.4,0.4,52,16933.0,Darragh Lenihan,3-4-3,Tim Robinson,Match Report,,17,4,13.7,0.0,0,0,2021,Blackburn Rovers
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,L,0,2,Nott'ham Forest,1.1,2.5,57,13869.0,Darragh Lenihan,4-4-1-1,Joshua Smith,Match Report,,13,7,18.5,1.0,0,0,2021,Blackburn Rovers
+2022-02-14,20:00,Championship,Matchweek 32,Mon,Away,D,0,0,West Brom,0.8,1.1,46,20680.0,Lewis Travis,3-4-1-2,John Brooks,Match Report,,10,3,17.6,1.0,0,0,2021,Blackburn Rovers
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Away,L,0,1,Sheffield Utd,1.3,2.0,49,26495.0,Darragh Lenihan,3-4-3,Matt Donohue,Match Report,,10,3,25.0,1.0,0,1,2021,Blackburn Rovers
+2022-02-26,12:30,Championship,Matchweek 35,Sat,Home,W,1,0,QPR,1.3,1.0,45,14293.0,Darragh Lenihan,3-4-3,Jeremy Simpson,Match Report,,11,7,18.5,2.0,0,0,2021,Blackburn Rovers
+2022-03-05,12:30,Championship,Matchweek 36,Sat,Away,L,0,2,Fulham,1.0,1.4,38,19343.0,Darragh Lenihan,3-4-3,David Webb,Match Report,,4,1,17.0,0.0,0,0,2021,Blackburn Rovers
+2022-03-08,19:45,Championship,Matchweek 33,Tue,Home,D,0,0,Millwall,1.1,0.0,56,12874.0,Darragh Lenihan,3-4-1-2,Dean Whitestone,Match Report,,12,3,17.4,0.0,0,0,2021,Blackburn Rovers
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,L,0,1,Bristol City,1.9,0.7,53,13567.0,Darragh Lenihan,3-4-3,Gavin Ward,Match Report,,13,6,21.8,1.0,0,1,2021,Blackburn Rovers
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Home,W,3,1,Derby County,2.0,1.5,42,12406.0,Darragh Lenihan,3-4-1-2,Tony Harrington,Match Report,,12,5,17.5,0.0,0,0,2021,Blackburn Rovers
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Away,L,0,1,Reading,1.1,1.0,59,12805.0,Darragh Lenihan,3-4-1-2,James Linington,Match Report,,16,5,15.7,0.0,0,0,2021,Blackburn Rovers
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,D,2,2,Coventry City,0.8,0.8,48,19939.0,Lewis Travis,5-3-2,Peter Bankes,Match Report,,11,4,17.2,0.0,0,0,2021,Blackburn Rovers
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,D,1,1,Blackpool,0.9,1.5,54,17806.0,Darragh Lenihan,3-4-1-2,Matt Donohue,Match Report,,10,2,15.9,0.0,0,0,2021,Blackburn Rovers
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,L,1,2,P'borough Utd,0.8,2.0,46,9426.0,Darragh Lenihan,3-4-1-2,Chris Kavanagh,Match Report,,13,2,17.4,2.0,0,0,2021,Blackburn Rovers
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,L,0,1,Stoke City,1.0,1.1,48,30428.0,Darragh Lenihan,3-4-1-2,Geoff Eltringham,Match Report,,13,4,16.5,0.0,0,0,2021,Blackburn Rovers
+2022-04-25,19:30,Championship,Matchweek 44,Mon,Away,W,4,1,Preston,1.6,0.9,46,15229.0,Darragh Lenihan,4-2-3-1,Jeremy Simpson,Match Report,,12,6,17.6,0.0,0,0,2021,Blackburn Rovers
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,L,0,3,Bournemouth,0.8,2.7,61,21396.0,Darragh Lenihan,4-2-3-1,Robert Jones,Match Report,,9,2,12.7,0.0,0,0,2021,Blackburn Rovers
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,W,2,1,Birmingham City,1.4,1.0,50,18659.0,Lewis Travis,4-2-3-1,Andrew Davies,Match Report,,14,7,18.8,0.0,0,0,2021,Blackburn Rovers
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,D,1,1,QPR,0.8,0.5,42,16127.0,Shaun Hutchinson,3-5-2,Oliver Langford,Match Report,,10,3,20.7,0.0,0,0,2021,Millwall
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,D,1,1,Blackburn,1.8,0.2,60,12490.0,Jake Cooper,3-5-2,Andrew Davies,Match Report,,15,2,16.9,1.0,0,0,2021,Millwall
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Home,L,1,2,Fulham,0.6,2.7,36,12700.0,Jake Cooper,3-4-1-2,Geoff Eltringham,Match Report,,7,2,18.7,0.0,0,0,2021,Millwall
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,L,1,3,Cardiff City,1.6,2.9,49,18168.0,Jake Cooper,3-4-1-2,James Linington,Match Report,,12,5,16.6,0.0,0,0,2021,Millwall
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,W,2,1,Blackpool,1.7,1.2,68,11049.0,Jake Cooper,3-4-3,Gavin Ward,Match Report,,18,7,16.9,2.0,0,0,2021,Millwall
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,D,1,1,West Brom,1.1,2.0,45,23142.0,Jake Cooper,3-4-3,Andy Woolmer,Match Report,,13,4,16.1,0.0,0,0,2021,Millwall
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Away,D,0,0,Swansea City,1.0,1.3,37,16007.0,Jake Cooper,3-4-3,John Busby,Match Report,,10,4,17.3,0.0,0,0,2021,Millwall
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,D,1,1,Coventry City,1.1,2.0,42,12516.0,Jake Cooper,3-4-3,Keith Stroud,Match Report,,17,4,15.9,0.0,0,0,2021,Millwall
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,D,1,1,Nott'ham Forest,1.1,0.7,46,25589.0,Shaun Hutchinson,3-4-3,Jeremy Simpson,Match Report,,12,2,13.7,0.0,0,0,2021,Millwall
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Home,W,1,0,Bristol City,1.6,0.9,48,11839.0,Shaun Hutchinson,3-4-1-2,Dean Whitestone,Match Report,,10,2,19.2,0.0,1,1,2021,Millwall
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,W,1,0,Barnsley,1.9,1.0,56,11888.0,Shaun Hutchinson,3-4-3,David Webb,Match Report,,17,7,15.3,0.0,0,0,2021,Millwall
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,L,0,2,Luton Town,1.7,0.7,58,14227.0,Shaun Hutchinson,3-4-3,Chris Kavanagh,Match Report,,12,4,15.3,1.0,0,1,2021,Millwall
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Away,W,2,1,Sheffield Utd,1.5,2.5,41,25345.0,Shaun Hutchinson,3-4-3,Matt Donohue,Match Report,,12,5,17.8,0.0,0,0,2021,Millwall
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,2,1,Stoke City,2.0,1.6,43,12896.0,Shaun Hutchinson,3-4-3,Andrew Davies,Match Report,,8,4,16.1,0.0,0,0,2021,Millwall
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,L,0,1,Huddersfield,0.3,1.1,44,15397.0,Shaun Hutchinson,3-4-3,Geoff Eltringham,Match Report,,4,1,13.2,0.0,0,0,2021,Millwall
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Home,W,1,0,Reading,2.2,0.6,44,11004.0,Shaun Hutchinson,4-3-3,Gavin Ward,Match Report,,17,5,18.9,1.0,0,0,2021,Millwall
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,D,1,1,Derby County,1.4,1.0,48,14372.0,Jake Cooper,3-4-3,Tim Robinson,Match Report,,14,3,15.5,0.0,0,0,2021,Millwall
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,D,1,1,Middlesbrough,0.4,1.4,49,20845.0,Shaun Hutchinson,3-4-3,Oliver Langford,Match Report,,6,1,21.2,0.0,0,0,2021,Millwall
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Home,D,1,1,Bournemouth,0.7,1.1,49,12237.0,Shaun Hutchinson,3-4-3,Dean Whitestone,Match Report,,8,1,15.4,0.0,0,0,2021,Millwall
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,L,1,2,Hull City,1.4,1.6,59,10613.0,Shaun Hutchinson,4-2-3-1,Joshua Smith,Match Report,,11,5,14.2,0.0,0,0,2021,Millwall
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,W,3,1,Birmingham City,1.8,1.5,51,14324.0,Shaun Hutchinson,3-4-1-2,Andy Woolmer,Match Report,,19,9,13.8,0.0,0,0,2021,Millwall
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,L,1,2,P'borough Utd,1.7,2.1,37,9140.0,Shaun Hutchinson,3-4-1-2,Leigh Doughty,Match Report,,15,3,15.9,1.0,0,0,2021,Millwall
+2021-12-29,19:45,Championship,Matchweek 25,Wed,Away,W,1,0,Coventry City,0.9,1.1,44,18500.0,Alex Pearce,3-4-1-2,Geoff Eltringham,Match Report,,9,2,14.5,0.0,0,0,2021,Millwall
+2022-01-02,13:00,Championship,Matchweek 26,Sun,Away,L,2,3,Bristol City,1.7,1.7,42,18735.0,Alex Pearce,3-4-1-2,Simon Hooper,Match Report,,10,2,22.4,1.0,1,1,2021,Millwall
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,L,0,1,Nott'ham Forest,1.5,3.2,50,13297.0,Shaun Hutchinson,3-4-3,Peter Bankes,Match Report,,13,5,16.0,0.0,0,0,2021,Millwall
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,L,0,1,Blackpool,0.5,1.9,52,10696.0,Shaun Hutchinson,3-5-2,David Webb,Match Report,,9,3,15.7,0.0,0,0,2021,Millwall
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,W,2,0,West Brom,1.7,0.6,51,12855.0,Shaun Hutchinson,3-4-3,Joshua Smith,Match Report,,9,3,11.7,0.0,0,0,2021,Millwall
+2022-02-01,19:45,Championship,Matchweek 23,Tue,Home,D,0,0,Preston,0.5,0.9,50,10183.0,Shaun Hutchinson,3-4-3,Kevin Friend,Match Report,,7,2,25.4,1.0,0,0,2021,Millwall
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Away,L,0,3,Fulham,1.0,3.2,44,16606.0,Alex Pearce,3-4-1-2,Matt Donohue,Match Report,,8,2,15.8,0.0,0,0,2021,Millwall
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,W,2,1,Cardiff City,1.3,2.0,62,12710.0,Shaun Hutchinson,3-4-1-2,Steve Martin,Match Report,,12,3,18.0,0.0,0,0,2021,Millwall
+2022-02-15,19:45,Championship,Matchweek 30,Tue,Home,W,2,0,QPR,1.3,0.6,38,12710.0,Shaun Hutchinson,3-4-1-2,James Linington,Match Report,,13,8,17.2,0.0,0,0,2021,Millwall
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Away,W,2,1,Derby County,1.1,0.9,35,23943.0,Shaun Hutchinson,3-4-1-2,Jeremy Simpson,Match Report,,8,4,16.7,1.0,0,0,2021,Millwall
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,1,0,Sheffield Utd,0.5,0.7,39,14638.0,Shaun Hutchinson,3-4-1-2,Michael Salisbury,Match Report,,6,2,18.2,1.0,0,0,2021,Millwall
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,W,1,0,Reading,0.5,0.7,46,14169.0,Jake Cooper,3-4-1-2,Andy Woolmer,Match Report,,7,2,18.1,2.0,0,0,2021,Millwall
+2022-03-08,19:45,Championship,Matchweek 33,Tue,Away,D,0,0,Blackburn,0.0,1.1,44,12874.0,Jake Cooper,3-4-1-2,Dean Whitestone,Match Report,,0,0,,0.0,0,0,2021,Millwall
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,D,0,0,Middlesbrough,0.4,0.7,47,16734.0,Jake Cooper,3-4-1-2,Robert Jones,Match Report,,10,2,17.3,0.0,0,0,2021,Millwall
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,W,2,0,Huddersfield,2.2,1.0,46,10792.0,Jake Cooper,3-4-3,James Linington,Match Report,,19,8,14.6,0.0,0,0,2021,Millwall
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Away,L,0,2,Stoke City,1.3,1.4,53,20526.0,Jake Cooper,3-4-1-2,John Brooks,Match Report,,6,1,18.7,1.0,0,1,2021,Millwall
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,D,2,2,Luton Town,1.1,0.7,46,10069.0,Jake Cooper,3-4-1-2,Graham Scott,Match Report,,10,4,19.7,1.0,0,0,2021,Millwall
+2022-04-05,19:45,Championship,Matchweek 24,Tue,Home,L,0,1,Swansea City,1.3,1.4,32,11670.0,Jake Cooper,3-4-1-2,Andrew Davies,Match Report,,13,2,13.8,0.0,0,0,2021,Millwall
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,W,4,1,Barnsley,2.3,0.9,47,13231.0,Jake Cooper,3-4-1-2,Oliver Langford,Match Report,,15,10,13.1,0.0,0,0,2021,Millwall
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,D,1,1,Preston,1.5,1.5,46,11979.0,Jake Cooper,3-4-1-2,Thomas Bramall,Match Report,,16,7,16.3,0.0,0,0,2021,Millwall
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,W,2,1,Hull City,1.9,0.9,44,12776.0,Jake Cooper,3-4-3,Dean Whitestone,Match Report,,17,8,19.1,1.0,0,0,2021,Millwall
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,D,2,2,Birmingham City,2.1,2.3,55,17206.0,Shaun Hutchinson,3-4-3,Leigh Doughty,Match Report,,12,6,16.0,1.0,1,1,2021,Millwall
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,W,3,0,P'borough Utd,1.8,1.5,48,16705.0,Shaun Hutchinson,3-4-3,Geoff Eltringham,Match Report,,18,4,13.6,0.0,0,0,2021,Millwall
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,L,0,1,Bournemouth,0.5,2.6,40,10244.0,Shaun Hutchinson,3-4-3,Andre Marriner,Match Report,,8,3,20.0,0.0,0,0,2021,Millwall
+2021-08-06,19:45,Championship,Matchweek 1,Fri,Away,D,2,2,Bournemouth,2.1,0.7,44,9254.0,Jake Livermore,3-4-3,Dean Whitestone,Match Report,,15,5,10.9,0.0,0,0,2021,West Bromwich Albion
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,W,3,2,Luton Town,1.6,1.9,46,23283.0,Jake Livermore,3-4-3,Tim Robinson,Match Report,,18,6,18.1,1.0,0,0,2021,West Bromwich Albion
+2021-08-18,20:00,Championship,Matchweek 3,Wed,Home,W,4,0,Sheffield Utd,3.2,0.8,35,23113.0,Jake Livermore,5-3-2,Matt Donohue,Match Report,,12,4,10.3,0.0,0,0,2021,West Bromwich Albion
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,W,2,1,Blackburn,3.4,1.5,48,11926.0,Jake Livermore,3-4-3,Tony Harrington,Match Report,,23,11,15.8,1.0,0,0,2021,West Bromwich Albion
+2021-08-28,20:00,Championship,Matchweek 5,Sat,Away,W,1,0,P'borough Utd,2.5,0.2,53,10163.0,Jake Livermore,3-4-3,James Linington,Match Report,,19,3,15.2,0.0,0,0,2021,West Bromwich Albion
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,D,1,1,Millwall,2.0,1.1,55,23142.0,Jake Livermore,3-4-3,Andy Woolmer,Match Report,,10,1,12.9,0.0,0,1,2021,West Bromwich Albion
+2021-09-14,20:00,Championship,Matchweek 7,Tue,Home,D,0,0,Derby County,2.4,0.1,62,21636.0,Jake Livermore,3-4-3,Kevin Friend,Match Report,,25,8,14.4,1.0,0,0,2021,West Bromwich Albion
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,D,1,1,Preston,0.9,0.7,61,13850.0,Jake Livermore,3-4-3,Andrew Davies,Match Report,,12,3,17.7,0.0,0,0,2021,West Bromwich Albion
+2021-09-24,20:00,Championship,Matchweek 9,Fri,Home,W,2,1,QPR,1.8,0.3,52,21825.0,Jake Livermore,3-4-3,James Linington,Match Report,,18,7,18.1,1.0,0,0,2021,West Bromwich Albion
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Away,W,4,0,Cardiff City,0.9,0.4,59,17363.0,Jake Livermore,3-4-3,Graham Scott,Match Report,,11,6,21.4,0.0,0,0,2021,West Bromwich Albion
+2021-10-01,19:45,Championship,Matchweek 11,Fri,Away,L,0,1,Stoke City,1.1,2.2,45,22703.0,Jake Livermore,3-4-3,Tim Robinson,Match Report,,11,2,18.4,0.0,0,0,2021,West Bromwich Albion
+2021-10-15,20:00,Championship,Matchweek 12,Fri,Home,W,1,0,Birmingham City,0.7,0.9,65,24870.0,Jake Livermore,3-4-3,Jeremy Simpson,Match Report,,11,3,21.5,0.0,0,0,2021,West Bromwich Albion
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Away,L,1,2,Swansea City,1.1,1.3,33,16694.0,Jake Livermore,3-4-3,Simon Hooper,Match Report,,10,6,18.9,0.0,0,0,2021,West Bromwich Albion
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,3,0,Bristol City,3.2,0.5,54,23845.0,Kyle Bartley,3-4-3,Joshua Smith,Match Report,,23,9,15.8,0.0,0,0,2021,West Bromwich Albion
+2021-10-30,12:30,Championship,Matchweek 15,Sat,Away,L,0,3,Fulham,1.4,3.0,47,18103.0,Jake Livermore,3-4-3,Michael Salisbury,Match Report,,11,3,11.9,0.0,0,0,2021,West Bromwich Albion
+2021-11-03,20:00,Championship,Matchweek 16,Wed,Home,W,1,0,Hull City,2.6,1.0,67,19659.0,Jake Livermore,3-4-3,Dean Whitestone,Match Report,,17,5,13.6,0.0,0,0,2021,West Bromwich Albion
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,D,1,1,Middlesbrough,0.6,1.2,69,22596.0,Sam Johnstone,3-4-3,Matt Donohue,Match Report,,9,4,17.8,1.0,0,0,2021,West Bromwich Albion
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,L,0,1,Huddersfield,1.7,1.0,64,17297.0,Jake Livermore,3-4-3,Tim Robinson,Match Report,,20,2,17.6,0.0,0,0,2021,West Bromwich Albion
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Away,D,0,0,Blackpool,3.0,1.8,51,11517.0,Kyle Bartley,3-4-3,Jarred Gillett,Match Report,,25,3,13.6,0.0,0,0,2021,West Bromwich Albion
+2021-11-26,20:00,Championship,Matchweek 20,Fri,Home,D,0,0,Nott'ham Forest,1.7,0.7,44,22424.0,Kyle Bartley,3-4-3,Gavin Ward,Match Report,,16,3,20.5,1.0,0,0,2021,West Bromwich Albion
+2021-12-04,12:30,Championship,Matchweek 21,Sat,Away,W,2,1,Coventry City,1.2,0.9,35,23755.0,Kyle Bartley,3-4-3,Keith Stroud,Match Report,,10,4,16.0,0.0,0,0,2021,West Bromwich Albion
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,W,1,0,Reading,3.1,0.5,56,11109.0,Jake Livermore,3-4-3,David Webb,Match Report,,25,10,16.6,0.0,0,0,2021,West Bromwich Albion
+2021-12-17,19:45,Championship,Matchweek 23,Fri,Away,D,0,0,Barnsley,1.8,0.1,58,12734.0,Jake Livermore,3-4-3,Tim Robinson,Match Report,,16,2,13.9,1.0,0,0,2021,West Bromwich Albion
+2021-12-27,15:00,Championship,Matchweek 24,Mon,Away,L,0,1,Derby County,1.7,0.1,61,24846.0,Jake Livermore,3-4-3,James Linington,Match Report,,19,5,17.2,1.0,0,0,2021,West Bromwich Albion
+2022-01-02,14:00,Championship,Matchweek 26,Sun,Home,D,1,1,Cardiff City,1.1,0.3,54,22925.0,Jake Livermore,3-4-3,Thomas Bramall,Match Report,,13,3,19.1,2.0,0,0,2021,West Bromwich Albion
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,L,0,1,QPR,0.8,1.0,47,16018.0,Jake Livermore,3-4-3,Simon Hooper,Match Report,,12,2,23.3,1.0,0,0,2021,West Bromwich Albion
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,W,3,0,P'borough Utd,3.3,0.1,64,21251.0,Jake Livermore,3-4-3,Jeremy Simpson,Match Report,,27,6,14.8,0.0,0,0,2021,West Bromwich Albion
+2022-01-26,20:00,Championship,Matchweek 25,Wed,Home,L,0,2,Preston,0.3,2.2,55,20776.0,Jake Livermore,3-4-3,Keith Stroud,Match Report,,8,0,25.9,2.0,0,0,2021,West Bromwich Albion
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,L,0,2,Millwall,0.6,1.7,49,12855.0,Jake Livermore,3-4-3,Joshua Smith,Match Report,,7,3,15.3,0.0,0,0,2021,West Bromwich Albion
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,L,0,2,Sheffield Utd,0.8,1.7,43,26541.0,Jake Livermore,4-2-3-1,Leigh Doughty,Match Report,,13,3,25.0,0.0,0,0,2021,West Bromwich Albion
+2022-02-14,20:00,Championship,Matchweek 32,Mon,Home,D,0,0,Blackburn,1.1,0.8,54,20680.0,Sam Johnstone,4-2-3-1,John Brooks,Match Report,,13,2,16.4,1.0,0,0,2021,West Bromwich Albion
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,L,0,2,Luton Town,1.7,0.8,57,10021.0,Kyle Bartley,3-4-3,Gavin Ward,Match Report,,16,5,16.0,0.0,0,0,2021,West Bromwich Albion
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Away,L,1,2,Middlesbrough,0.7,1.4,44,21646.0,Kyle Bartley,4-2-3-1,Michael Salisbury,Match Report,,8,2,12.4,0.0,0,0,2021,West Bromwich Albion
+2022-02-28,20:00,Championship,Matchweek 35,Mon,Home,L,0,2,Swansea City,0.9,1.2,41,21357.0,Kyle Bartley,4-3-2-1,Dean Whitestone,Match Report,,12,1,13.9,0.0,0,0,2021,West Bromwich Albion
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,W,2,0,Hull City,1.6,0.9,45,13643.0,Jake Livermore,3-5-2,James Linington,Match Report,,6,4,13.6,0.0,1,1,2021,West Bromwich Albion
+2022-03-11,20:00,Championship,Matchweek 37,Fri,Home,D,2,2,Huddersfield,2.0,1.6,49,20846.0,Jake Livermore,3-5-2,Matt Donohue,Match Report,,12,3,14.8,0.0,1,1,2021,West Bromwich Albion
+2022-03-15,20:00,Championship,Matchweek 38,Tue,Home,W,1,0,Fulham,1.5,0.7,36,20079.0,Jake Livermore,3-5-2,Kevin Friend,Match Report,,9,5,11.4,0.0,0,0,2021,West Bromwich Albion
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Away,D,2,2,Bristol City,1.2,0.9,62,20586.0,Jake Livermore,3-5-2,Leigh Doughty,Match Report,,6,1,14.0,0.0,1,1,2021,West Bromwich Albion
+2022-04-03,15:00,Championship,Matchweek 40,Sun,Away,L,0,1,Birmingham City,0.6,0.9,57,17936.0,Jake Livermore,3-5-2,Dean Whitestone,Match Report,,8,0,16.3,0.0,0,0,2021,West Bromwich Albion
+2022-04-06,20:00,Championship,Matchweek 30,Wed,Home,W,2,0,Bournemouth,0.6,1.1,33,20501.0,Jake Livermore,3-5-2,Keith Stroud,Match Report,,11,4,18.3,0.0,0,0,2021,West Bromwich Albion
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,L,1,3,Stoke City,1.6,1.5,58,22761.0,Jake Livermore,3-5-2,Andrew Davies,Match Report,,15,3,16.8,0.0,0,0,2021,West Bromwich Albion
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,W,2,1,Blackpool,1.8,0.8,52,21717.0,Jake Livermore,3-4-1-2,Jeremy Simpson,Match Report,,17,5,15.1,0.0,0,0,2021,West Bromwich Albion
+2022-04-18,20:00,Championship,Matchweek 43,Mon,Away,L,0,4,Nott'ham Forest,0.1,1.6,31,28926.0,Jake Livermore,3-5-2,David Webb,Match Report,,1,0,14.3,0.0,0,0,2021,West Bromwich Albion
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,D,0,0,Coventry City,1.9,0.7,48,22160.0,Jake Livermore,3-4-1-2,Steve Martin,Match Report,,11,1,16.4,0.0,0,1,2021,West Bromwich Albion
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,W,1,0,Reading,1.5,0.5,52,15509.0,Jake Livermore,4-4-2,Matt Donohue,Match Report,,14,4,21.3,0.0,0,0,2021,West Bromwich Albion
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,4,0,Barnsley,4.5,0.3,65,21515.0,Jake Livermore,4-4-2,Leigh Doughty,Match Report,,15,4,14.3,0.0,1,2,2021,West Bromwich Albion
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,D,1,1,Millwall,0.5,0.8,58,16127.0,Stefan Johansen,3-4-1-2,Oliver Langford,Match Report,,11,4,24.2,1.0,0,0,2021,Queens Park Rangers
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,W,3,0,Hull City,1.6,1.0,54,10728.0,Stefan Johansen,3-4-1-2,Matt Donohue,Match Report,,14,8,18.2,0.0,0,0,2021,Queens Park Rangers
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Away,W,3,2,Middlesbrough,0.8,1.8,53,22436.0,Stefan Johansen,3-4-1-2,Steve Martin,Match Report,,7,5,16.5,0.0,0,0,2021,Queens Park Rangers
+2021-08-21,12:30,Championship,Matchweek 4,Sat,Home,D,2,2,Barnsley,1.8,1.5,65,11882.0,Stefan Johansen,3-4-3,Gavin Ward,Match Report,,13,6,16.7,1.0,0,0,2021,Queens Park Rangers
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,W,2,0,Coventry City,0.9,1.3,61,14774.0,Stefan Johansen,3-4-3,Dean Whitestone,Match Report,,13,5,20.7,1.0,0,0,2021,Queens Park Rangers
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,D,3,3,Reading,2.6,1.5,61,14928.0,Stefan Johansen,3-4-1-2,Geoff Eltringham,Match Report,,23,5,15.5,1.0,0,0,2021,Queens Park Rangers
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Away,L,1,2,Bournemouth,1.3,1.5,59,10495.0,Stefan Johansen,3-4-1-2,Keith Stroud,Match Report,,15,6,14.9,1.0,0,0,2021,Queens Park Rangers
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,L,1,2,Bristol City,2.4,1.0,62,14922.0,Stefan Johansen,3-1-4-2,Leigh Doughty,Match Report,,26,11,15.3,0.0,0,0,2021,Queens Park Rangers
+2021-09-24,20:00,Championship,Matchweek 9,Fri,Away,L,1,2,West Brom,0.3,1.8,48,21825.0,Stefan Johansen,3-4-3,James Linington,Match Report,,5,4,19.8,0.0,0,0,2021,Queens Park Rangers
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Home,W,2,0,Birmingham City,1.2,1.7,51,12257.0,Yoann Barbet,3-4-1-2,Michael Salisbury,Match Report,,12,5,18.5,0.0,0,0,2021,Queens Park Rangers
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,W,3,2,Preston,2.4,1.5,56,13624.0,Stefan Johansen,3-4-1-2,Jeremy Simpson,Match Report,,19,9,18.1,0.0,0,0,2021,Queens Park Rangers
+2021-10-16,12:30,Championship,Matchweek 12,Sat,Away,L,1,4,Fulham,1.1,2.0,53,18371.0,Stefan Johansen,3-4-3,Oliver Langford,Match Report,,7,1,18.5,0.0,0,0,2021,Queens Park Rangers
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Home,W,1,0,Blackburn,1.1,0.2,64,11771.0,Yoann Barbet,3-4-3,David Webb,Match Report,,16,4,19.0,1.0,0,0,2021,Queens Park Rangers
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,1,2,P'borough Utd,1.3,1.8,58,12035.0,Stefan Johansen,3-4-1-2,Jarred Gillett,Match Report,,14,6,17.4,0.0,0,0,2021,Queens Park Rangers
+2021-10-29,19:45,Championship,Matchweek 15,Fri,Home,D,1,1,Nott'ham Forest,1.2,0.6,41,15089.0,Stefan Johansen,3-4-3,Andrew Davies,Match Report,,13,4,18.3,0.0,0,0,2021,Queens Park Rangers
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Away,W,1,0,Cardiff City,1.0,0.5,47,16882.0,Stefan Johansen,3-4-1-2,Andy Woolmer,Match Report,,8,4,22.6,0.0,0,0,2021,Queens Park Rangers
+2021-11-06,17:30,Championship,Matchweek 17,Sat,Away,D,1,1,Blackpool,0.5,1.6,48,11769.0,Yoann Barbet,3-4-3,Joshua Smith,Match Report,,5,1,17.6,0.0,0,0,2021,Queens Park Rangers
+2021-11-19,19:45,Championship,Matchweek 18,Fri,Home,W,2,0,Luton Town,1.2,1.3,52,15062.0,Stefan Johansen,3-4-3,Matt Donohue,Match Report,,8,2,18.3,0.0,0,0,2021,Queens Park Rangers
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Home,W,1,0,Huddersfield,2.0,1.2,59,11591.0,Stefan Johansen,3-4-1-2,Graham Scott,Match Report,,22,5,17.0,0.0,0,0,2021,Queens Park Rangers
+2021-11-29,19:45,Championship,Matchweek 20,Mon,Away,W,2,1,Derby County,1.7,0.6,54,20003.0,Stefan Johansen,3-4-1-2,Jeremy Simpson,Match Report,,10,4,12.6,0.0,0,0,2021,Queens Park Rangers
+2021-12-05,14:30,Championship,Matchweek 21,Sun,Home,L,0,2,Stoke City,3.0,2.2,65,13968.0,Stefan Johansen,3-4-3,Tony Harrington,Match Report,,23,8,17.5,1.0,0,1,2021,Queens Park Rangers
+2021-12-27,17:30,Championship,Matchweek 24,Mon,Home,L,0,1,Bournemouth,0.3,2.2,56,16308.0,Stefan Johansen,3-4-3,Keith Stroud,Match Report,,8,2,21.4,1.0,0,0,2021,Queens Park Rangers
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Away,W,2,1,Bristol City,1.5,1.4,55,17157.0,Stefan Johansen,3-4-3,Andrew Davies,Match Report,,10,3,20.9,0.0,1,1,2021,Queens Park Rangers
+2022-01-02,14:00,Championship,Matchweek 26,Sun,Away,W,2,1,Birmingham City,0.7,1.1,41,18279.0,Lee Wallace,3-5-2,Matt Donohue,Match Report,,6,5,12.0,0.0,0,0,2021,Queens Park Rangers
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,W,1,0,West Brom,1.0,0.8,53,16018.0,Stefan Johansen,3-4-1-2,Simon Hooper,Match Report,,9,4,16.3,1.0,0,0,2021,Queens Park Rangers
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,W,2,1,Coventry City,1.4,1.6,42,20942.0,Lee Wallace,3-4-1-2,Andy Woolmer,Match Report,,8,3,14.6,1.0,0,0,2021,Queens Park Rangers
+2022-01-25,19:45,Championship,Matchweek 23,Tue,Home,D,0,0,Swansea City,0.5,0.9,43,12770.0,Stefan Johansen,3-3-3-1,Andrew Davies,Match Report,,6,2,18.6,1.0,0,0,2021,Queens Park Rangers
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,W,4,0,Reading,1.5,1.1,46,16057.0,Stefan Johansen,3-4-3,Jeremy Simpson,Match Report,,16,8,18.4,0.0,0,0,2021,Queens Park Rangers
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,D,2,2,Middlesbrough,1.2,1.6,47,14140.0,Stefan Johansen,3-4-3,Dean Whitestone,Match Report,,7,4,23.8,0.0,0,0,2021,Queens Park Rangers
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,L,0,1,Barnsley,0.7,1.1,63,12476.0,David Marshall,3-4-1-2,Michael Salisbury,Match Report,,12,3,17.5,0.0,0,0,2021,Queens Park Rangers
+2022-02-15,19:45,Championship,Matchweek 30,Tue,Away,L,0,2,Millwall,0.6,1.3,62,12710.0,Stefan Johansen,3-4-1-2,James Linington,Match Report,,10,2,20.5,0.0,0,0,2021,Queens Park Rangers
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,D,1,1,Hull City,1.1,0.7,68,14945.0,Yoann Barbet,3-4-1-2,Tim Robinson,Match Report,,13,4,22.8,0.0,0,0,2021,Queens Park Rangers
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Home,W,2,1,Blackpool,1.1,1.2,52,11984.0,Stefan Johansen,3-4-3,Gavin Ward,Match Report,,8,5,16.9,1.0,0,0,2021,Queens Park Rangers
+2022-02-26,12:30,Championship,Matchweek 35,Sat,Away,L,0,1,Blackburn,1.0,1.3,55,14293.0,Stefan Johansen,3-4-3,Jeremy Simpson,Match Report,,7,2,17.3,0.0,0,0,2021,Queens Park Rangers
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,L,1,2,Cardiff City,1.7,0.8,71,16170.0,Lee Wallace,3-4-3,Michael Salisbury,Match Report,,18,3,21.3,1.0,0,0,2021,Queens Park Rangers
+2022-03-13,12:00,Championship,Matchweek 37,Sun,Away,W,2,1,Luton Town,1.3,1.0,53,10073.0,Stefan Johansen,3-4-3,Joshua Smith,Match Report,,4,2,17.6,0.0,1,1,2021,Queens Park Rangers
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Away,L,1,3,Nott'ham Forest,1.1,2.4,41,27872.0,Lee Wallace,3-5-2,Peter Bankes,Match Report,,6,1,14.1,1.0,0,0,2021,Queens Park Rangers
+2022-03-20,12:30,Championship,Matchweek 39,Sun,Home,L,1,3,P'borough Utd,1.5,1.9,59,13753.0,Robert Dickie,3-4-3,David Webb,Match Report,,13,1,17.3,0.0,0,0,2021,Queens Park Rangers
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,L,0,2,Fulham,0.6,2.2,48,17648.0,Stefan Johansen,3-4-3,Gavin Ward,Match Report,,8,2,21.0,0.0,0,0,2021,Queens Park Rangers
+2022-04-05,19:45,Championship,Matchweek 22,Tue,Away,L,0,1,Sheffield Utd,1.0,0.9,55,26488.0,Lee Wallace,3-4-1-2,Darren Bond,Match Report,,7,1,16.6,1.0,0,0,2021,Queens Park Rangers
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,L,1,2,Preston,2.4,3.1,52,10873.0,,4-4-2,Tony Harrington,Match Report,,14,6,17.1,0.0,1,1,2021,Queens Park Rangers
+2022-04-15,17:30,Championship,Matchweek 42,Fri,Away,D,2,2,Huddersfield,1.9,1.0,52,19636.0,Yoann Barbet,4-2-2-2,Leigh Doughty,Match Report,,11,3,12.2,0.0,0,0,2021,Queens Park Rangers
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,W,1,0,Derby County,1.1,1.0,45,15298.0,Jimmy Dunne,4-2-2-2,Joshua Smith,Match Report,,14,5,23.7,1.0,0,0,2021,Queens Park Rangers
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,L,0,1,Stoke City,0.6,1.5,55,19251.0,Jimmy Dunne,4-2-2-2,Andy Woolmer,Match Report,,10,0,18.4,0.0,0,0,2021,Queens Park Rangers
+2022-04-29,19:45,Championship,Matchweek 45,Fri,Home,L,1,3,Sheffield Utd,0.7,3.0,46,15824.0,Stefan Johansen,3-5-2,Peter Bankes,Match Report,,8,2,14.9,0.0,0,0,2021,Queens Park Rangers
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,W,1,0,Swansea City,1.2,1.2,40,18608.0,Yoann Barbet,3-5-2,Steve Martin,Match Report,,7,3,19.8,0.0,0,0,2021,Queens Park Rangers
+2021-08-08,16:30,Championship,Matchweek 1,Sun,Home,W,2,1,Nott'ham Forest,1.4,1.1,62,20843.0,Kyle McFadzean,3-4-1-2,James Linington,Match Report,,12,6,19.9,1.0,0,0,2021,Coventry City
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,L,0,1,Barnsley,2.0,0.6,62,16961.0,Kyle McFadzean,3-4-1-2,John Busby,Match Report,,11,1,16.7,1.0,0,1,2021,Coventry City
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Away,W,1,0,Blackpool,3.0,1.5,52,11608.0,Kyle McFadzean,3-4-3,Keith Stroud,Match Report,,19,5,17.0,0.0,0,0,2021,Coventry City
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,W,2,1,Reading,2.4,1.1,57,16464.0,Kyle McFadzean,3-4-1-2,David Webb,Match Report,,25,7,16.8,0.0,0,0,2021,Coventry City
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,L,0,2,QPR,1.3,0.9,39,14774.0,Kyle McFadzean,3-4-1-2,Dean Whitestone,Match Report,,15,4,20.0,0.0,0,0,2021,Coventry City
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,W,2,0,Middlesbrough,1.7,0.7,54,18515.0,Kyle McFadzean,3-4-1-2,Leigh Doughty,Match Report,,12,6,13.8,2.0,0,0,2021,Coventry City
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Home,W,1,0,Cardiff City,0.9,0.8,51,16372.0,Kyle McFadzean,3-4-1-2,Michael Salisbury,Match Report,,11,4,19.6,1.0,0,0,2021,Coventry City
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,D,1,1,Millwall,2.0,1.1,58,12516.0,Kyle McFadzean,3-4-1-2,Keith Stroud,Match Report,,16,3,15.0,0.0,0,0,2021,Coventry City
+2021-09-24,19:45,Championship,Matchweek 9,Fri,Home,W,3,0,P'borough Utd,2.7,0.4,45,20652.0,Kyle McFadzean,3-4-1-2,Geoff Eltringham,Match Report,,16,5,16.9,1.0,0,0,2021,Coventry City
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,L,0,5,Luton Town,1.0,3.8,55,9805.0,Kyle McFadzean,3-4-1-2,Steve Martin,Match Report,,6,1,15.8,0.0,0,0,2021,Coventry City
+2021-10-02,12:30,Championship,Matchweek 11,Sat,Home,W,4,1,Fulham,1.7,0.9,41,18497.0,Liam Kelly,3-4-1-2,Gavin Ward,Match Report,,13,4,18.4,0.0,1,1,2021,Coventry City
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,D,2,2,Blackburn,0.8,1.1,58,14110.0,Liam Kelly,3-4-1-2,Matt Donohue,Match Report,,9,4,20.5,0.0,0,0,2021,Coventry City
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Away,L,1,2,Preston,0.6,0.9,50,10837.0,Liam Kelly,3-4-1-2,Darren England,Match Report,,8,3,21.8,2.0,0,0,2021,Coventry City
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,D,1,1,Derby County,1.4,0.4,51,23829.0,Kyle McFadzean,3-4-1-2,Dean Whitestone,Match Report,,10,2,19.9,1.0,1,1,2021,Coventry City
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,W,1,0,Hull City,1.2,0.7,51,11901.0,Kyle McFadzean,3-4-1-2,David Webb,Match Report,,11,3,18.2,1.0,0,0,2021,Coventry City
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Home,L,1,2,Swansea City,0.6,1.1,46,16514.0,Kyle McFadzean,3-4-1-2,Andrew Davies,Match Report,,11,4,18.4,0.0,0,0,2021,Coventry City
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,W,3,2,Bristol City,2.3,2.0,59,19855.0,Kyle McFadzean,3-4-1-2,Jeremy Simpson,Match Report,,16,5,17.3,0.0,1,1,2021,Coventry City
+2021-11-20,12:30,Championship,Matchweek 18,Sat,Away,D,0,0,Sheffield Utd,0.6,1.1,44,28075.0,Kyle McFadzean,3-4-3,Michael Salisbury,Match Report,,9,4,23.8,1.0,0,0,2021,Coventry City
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Home,D,0,0,Birmingham City,0.9,0.5,63,22676.0,Liam Kelly,3-4-1-2,Leigh Doughty,Match Report,,13,5,21.0,1.0,0,0,2021,Coventry City
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,D,2,2,Bournemouth,0.9,1.7,44,11094.0,Liam Kelly,3-4-3,David Coote,Match Report,,9,6,16.5,1.0,0,0,2021,Coventry City
+2021-12-04,12:30,Championship,Matchweek 21,Sat,Home,L,1,2,West Brom,0.9,1.2,65,23755.0,Kyle McFadzean,3-4-1-2,Keith Stroud,Match Report,,12,3,21.6,1.0,0,0,2021,Coventry City
+2021-12-11,12:30,Championship,Matchweek 22,Sat,Away,D,1,1,Huddersfield,2.0,0.8,65,16493.0,Liam Kelly,3-4-3,Joshua Smith,Match Report,,22,12,18.3,0.0,0,0,2021,Coventry City
+2021-12-29,19:45,Championship,Matchweek 25,Wed,Home,L,0,1,Millwall,1.1,0.9,56,18500.0,Liam Kelly,3-4-1-2,Geoff Eltringham,Match Report,,14,2,16.3,0.0,0,0,2021,Coventry City
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,W,4,1,P'borough Utd,3.0,0.8,51,10282.0,Matthew Godden,3-4-3,Keith Stroud,Match Report,,22,9,17.2,0.0,0,0,2021,Coventry City
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,L,1,2,QPR,1.6,1.4,58,20942.0,Kyle McFadzean,3-4-3,Andy Woolmer,Match Report,,21,7,17.0,0.0,0,0,2021,Coventry City
+2022-01-25,19:45,Championship,Matchweek 23,Tue,Home,W,1,0,Stoke City,1.7,0.3,45,16860.0,Kyle McFadzean,3-4-3,John Brooks,Match Report,,14,4,15.9,0.0,0,0,2021,Coventry City
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,L,0,1,Middlesbrough,1.3,1.3,62,22940.0,Kyle McFadzean,3-4-3,Matt Donohue,Match Report,,15,5,14.6,0.0,0,0,2021,Coventry City
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Home,D,1,1,Blackpool,1.9,0.8,59,15752.0,Dominic Hyam,3-4-3,Andre Marriner,Match Report,,20,4,18.7,2.0,0,0,2021,Coventry City
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,W,3,2,Reading,1.5,1.2,53,12873.0,Dominic Hyam,3-4-3,David Webb,Match Report,,13,4,17.7,1.0,0,0,2021,Coventry City
+2022-02-15,19:45,Championship,Matchweek 24,Tue,Away,L,0,2,Cardiff City,1.1,0.7,64,18660.0,Kyle McFadzean,3-4-3,John Busby,Match Report,,11,3,19.7,0.0,0,0,2021,Coventry City
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,W,1,0,Barnsley,1.7,0.3,58,17104.0,Kyle McFadzean,3-4-1-2,Joshua Smith,Match Report,,19,7,16.8,1.0,0,0,2021,Coventry City
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Away,W,2,1,Bristol City,1.7,1.7,42,19192.0,Kyle McFadzean,3-4-3,Dean Whitestone,Match Report,,12,4,20.0,0.0,0,0,2021,Coventry City
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,D,1,1,Preston,0.7,2.1,52,19743.0,Dominic Hyam,3-4-1-2,Keith Stroud,Match Report,,10,3,17.8,0.0,0,0,2021,Coventry City
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,L,1,3,Swansea City,1.7,0.9,48,18405.0,Kyle McFadzean,3-4-3,Geoff Eltringham,Match Report,,12,4,15.4,0.0,0,0,2021,Coventry City
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Home,L,0,1,Luton Town,1.0,0.6,60,16996.0,Kyle McFadzean,3-4-1-2,Oliver Langford,Match Report,,12,3,18.8,0.0,0,0,2021,Coventry City
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,W,4,1,Sheffield Utd,5.4,1.5,48,21732.0,Kyle McFadzean,3-4-1-2,Jeremy Simpson,Match Report,,27,14,14.1,0.0,0,0,2021,Coventry City
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,L,0,2,Hull City,1.7,0.9,63,15587.0,Matthew Godden,3-4-1-2,John Busby,Match Report,,19,4,15.3,0.0,0,0,2021,Coventry City
+2022-03-19,12:30,Championship,Matchweek 39,Sat,Away,D,1,1,Derby County,1.6,1.7,46,24264.0,Matthew Godden,3-4-3,Darren Bond,Match Report,,13,6,16.2,0.0,0,0,2021,Coventry City
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,D,2,2,Blackburn,0.8,0.8,52,19939.0,Matthew Godden,3-4-1-2,Peter Bankes,Match Report,,11,4,20.9,2.0,0,0,2021,Coventry City
+2022-04-06,19:45,Championship,Matchweek 30,Wed,Away,L,0,2,Nott'ham Forest,1.2,2.6,47,28977.0,Dominic Hyam,3-5-1-1,Tim Robinson,Match Report,,13,5,21.6,1.0,0,0,2021,Coventry City
+2022-04-10,15:00,Championship,Matchweek 41,Sun,Away,W,3,1,Fulham,2.9,2.4,36,19401.0,Dominic Hyam,3-5-1-1,Keith Stroud,Match Report,,18,3,14.2,0.0,0,0,2021,Coventry City
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,W,4,2,Birmingham City,2.7,1.5,53,17634.0,Dominic Hyam,3-5-1-1,Oliver Langford,Match Report,,13,6,12.4,0.0,0,0,2021,Coventry City
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,L,0,3,Bournemouth,0.8,1.2,57,24492.0,Dominic Hyam,3-5-1-1,Matt Donohue,Match Report,,10,4,19.9,0.0,0,0,2021,Coventry City
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,D,0,0,West Brom,0.7,1.9,52,22160.0,Kyle McFadzean,3-5-1-1,Steve Martin,Match Report,,10,3,18.0,1.0,0,0,2021,Coventry City
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,L,1,2,Huddersfield,2.6,2.5,60,23828.0,Kyle McFadzean,3-4-1-2,Tony Harrington,Match Report,,22,9,20.8,0.0,0,0,2021,Coventry City
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,D,1,1,Stoke City,1.9,0.7,57,23086.0,Liam Kelly,3-4-3,Gavin Ward,Match Report,,18,4,16.0,0.0,0,0,2021,Coventry City
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,L,1,4,Hull City,0.9,1.4,47,12452.0,Alan Browne,3-5-2,Gavin Ward,Match Report,,7,4,14.2,0.0,0,0,2021,Preston North End
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,L,1,2,Reading,1.6,1.7,56,12156.0,Alan Browne,3-5-2,Joshua Smith,Match Report,,12,4,17.6,1.0,1,1,2021,Preston North End
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Away,L,0,1,Huddersfield,0.7,0.4,52,15278.0,Alan Browne,3-5-2,James Linington,Match Report,,8,1,18.8,1.0,0,0,2021,Preston North End
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,W,1,0,P'borough Utd,1.6,1.5,43,9952.0,Daniel Johnson,3-5-2,Dean Whitestone,Match Report,,16,7,16.8,0.0,0,0,2021,Preston North End
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,W,3,1,Swansea City,0.9,0.7,41,10180.0,Daniel Johnson,3-4-1-2,Thomas Bramall,Match Report,,11,6,17.8,2.0,0,0,2021,Preston North End
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,D,0,0,Bristol City,1.3,0.7,50,17967.0,Daniel Johnson,3-4-1-2,Tim Robinson,Match Report,,10,2,14.7,0.0,0,0,2021,Preston North End
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Away,D,2,2,Sheffield Utd,1.5,1.8,38,25463.0,Daniel Johnson,3-4-1-2,Geoff Eltringham,Match Report,,9,4,16.9,0.0,0,0,2021,Preston North End
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,D,1,1,West Brom,0.7,0.9,39,13850.0,Daniel Johnson,3-4-1-2,Andrew Davies,Match Report,,8,2,15.0,0.0,0,0,2021,Preston North End
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,D,0,0,Birmingham City,0.7,0.5,50,14925.0,Daniel Johnson,3-4-1-2,Matt Donohue,Match Report,,9,2,17.7,0.0,0,0,2021,Preston North End
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Home,D,1,1,Stoke City,0.5,2.1,41,10930.0,Daniel Johnson,3-4-1-2,John Brooks,Match Report,,9,2,21.6,1.0,0,0,2021,Preston North End
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,L,2,3,QPR,1.5,2.4,44,13624.0,Daniel Johnson,3-4-1-2,Jeremy Simpson,Match Report,,11,5,19.0,0.0,0,0,2021,Preston North End
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,D,0,0,Derby County,1.0,0.9,38,18092.0,Alan Browne,3-4-1-2,Joshua Smith,Match Report,,8,3,11.4,0.0,0,0,2021,Preston North End
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Home,W,2,1,Coventry City,0.9,0.6,50,10837.0,Alan Browne,3-4-1-2,Darren England,Match Report,,16,4,19.0,1.0,0,0,2021,Preston North End
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,0,2,Blackpool,1.0,1.1,52,13946.0,Alan Browne,3-4-1-2,Tim Robinson,Match Report,,9,2,16.2,0.0,0,0,2021,Preston North End
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,W,2,0,Luton Town,1.9,0.8,53,11059.0,Alan Browne,3-4-1-2,Dean Whitestone,Match Report,,13,4,18.6,1.0,1,1,2021,Preston North End
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Away,W,2,1,Bournemouth,0.9,1.1,38,9345.0,Alan Browne,3-4-1-2,David Webb,Match Report,,8,3,16.6,0.0,0,0,2021,Preston North End
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,L,0,3,Nott'ham Forest,0.4,1.6,60,27129.0,Daniel Johnson,3-4-1-2,Simon Hooper,Match Report,,4,2,23.0,0.0,0,0,2021,Preston North End
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,L,1,2,Cardiff City,1.1,2.4,56,10749.0,Alan Browne,3-4-1-2,Leigh Doughty,Match Report,,12,5,15.7,1.0,0,0,2021,Preston North End
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Away,W,2,1,Middlesbrough,0.6,1.3,46,18013.0,Alan Browne,3-4-1-2,Andy Woolmer,Match Report,,7,2,15.4,0.0,0,0,2021,Preston North End
+2021-11-27,12:30,Championship,Matchweek 20,Sat,Home,D,1,1,Fulham,1.7,0.8,48,9838.0,Alan Browne,3-4-1-2,Chris Kavanagh,Match Report,,15,4,18.5,1.0,0,0,2021,Preston North End
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,L,0,1,Blackburn,0.9,0.4,56,18487.0,Alan Browne,3-4-1-2,Gavin Ward,Match Report,,10,1,17.1,0.0,0,0,2021,Preston North End
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,W,2,1,Barnsley,1.7,1.4,59,11106.0,Alan Browne,3-4-1-2,Keith Stroud,Match Report,,16,4,18.2,0.0,0,0,2021,Preston North End
+2022-01-03,15:00,Championship,Matchweek 26,Mon,Away,W,2,1,Stoke City,0.7,1.3,54,20002.0,Alan Browne,3-4-1-2,Jeremy Simpson,Match Report,,6,3,17.1,0.0,0,0,2021,Preston North End
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,D,1,1,Birmingham City,1.1,1.8,54,12821.0,Alan Browne,3-4-1-2,Andrew Davies,Match Report,,16,5,20.7,1.0,0,0,2021,Preston North End
+2022-01-18,19:45,Championship,Matchweek 24,Tue,Home,D,2,2,Sheffield Utd,2.2,2.4,39,12954.0,Alan Browne,3-4-1-2,David Webb,Match Report,,12,8,15.7,0.0,0,0,2021,Preston North End
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,L,0,1,Swansea City,1.0,0.6,44,16842.0,Alan Browne,3-4-1-2,Joshua Smith,Match Report,,9,1,17.8,0.0,0,0,2021,Preston North End
+2022-01-26,20:00,Championship,Matchweek 25,Wed,Away,W,2,0,West Brom,2.2,0.3,45,20776.0,Alan Browne,3-4-1-2,Keith Stroud,Match Report,,10,3,15.8,1.0,0,0,2021,Preston North End
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,D,2,2,Bristol City,0.9,2.0,57,11936.0,Alan Browne,3-4-1-2,John Busby,Match Report,,10,4,19.0,0.0,0,0,2021,Preston North End
+2022-02-01,19:45,Championship,Matchweek 23,Tue,Away,D,0,0,Millwall,0.9,0.5,50,10183.0,Greg Cunningham,3-4-1-2,Kevin Friend,Match Report,,3,1,35.0,0.0,0,1,2021,Preston North End
+2022-02-05,15:00,Championship,Matchweek 30,Sat,Away,W,1,0,Hull City,1.3,0.8,51,14273.0,Alan Browne,3-5-2,Darren Bond,Match Report,,7,4,14.0,0.0,0,0,2021,Preston North End
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,D,0,0,Huddersfield,1.6,0.3,55,11120.0,Alan Browne,3-5-2,Robert Jones,Match Report,,16,4,16.1,0.0,0,0,2021,Preston North End
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,W,1,0,P'borough Utd,0.7,1.7,57,9072.0,Alan Browne,3-4-1-2,Tim Robinson,Match Report,,7,2,14.1,0.0,0,0,2021,Preston North End
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,L,2,3,Reading,1.9,2.1,59,12817.0,Alan Browne,3-4-1-2,John Busby,Match Report,,18,2,15.9,0.0,0,0,2021,Preston North End
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Home,D,0,0,Nott'ham Forest,1.5,0.6,52,12598.0,Alan Browne,3-4-1-2,Geoff Eltringham,Match Report,,15,4,17.8,1.0,0,0,2021,Preston North End
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,D,1,1,Coventry City,2.1,0.7,48,19743.0,Alan Browne,3-4-1-2,Keith Stroud,Match Report,,13,5,19.2,0.0,1,1,2021,Preston North End
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,W,2,1,Bournemouth,0.7,1.2,40,12173.0,Alan Browne,3-4-1-2,Matt Donohue,Match Report,,13,5,19.6,0.0,0,0,2021,Preston North End
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,D,0,0,Cardiff City,1.1,0.5,57,19743.0,Alan Browne,3-5-2,James Linington,Match Report,,9,3,17.9,1.0,0,0,2021,Preston North End
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Away,L,0,4,Luton Town,0.8,1.7,60,9408.0,Alan Browne,3-5-2,Steve Martin,Match Report,,10,2,18.2,0.0,0,0,2021,Preston North End
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,L,0,1,Derby County,0.6,1.8,47,23600.0,Alan Browne,3-4-3,Geoff Eltringham,Match Report,,12,1,17.0,0.0,0,0,2021,Preston North End
+2022-04-05,19:45,Championship,Matchweek 39,Tue,Home,W,1,0,Blackpool,1.1,0.9,46,18740.0,Alan Browne,3-1-4-2,David Webb,Match Report,,12,2,15.4,0.0,0,0,2021,Preston North End
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,W,2,1,QPR,3.1,2.4,48,10873.0,Alan Browne,3-1-4-2,Tony Harrington,Match Report,,21,6,14.0,0.0,0,0,2021,Preston North End
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,D,1,1,Millwall,1.5,1.5,54,11979.0,Alan Browne,3-1-4-2,Thomas Bramall,Match Report,,17,5,19.2,0.0,0,0,2021,Preston North End
+2022-04-19,19:45,Championship,Matchweek 43,Tue,Away,L,0,3,Fulham,0.8,1.8,39,11760.0,Daniel Johnson,3-1-4-2,Leigh Doughty,Match Report,,8,2,15.8,1.0,0,0,2021,Preston North End
+2022-04-25,19:30,Championship,Matchweek 44,Mon,Home,L,1,4,Blackburn,0.9,1.6,54,15229.0,Alan Browne,3-1-4-2,Jeremy Simpson,Match Report,,11,3,19.5,1.0,0,0,2021,Preston North End
+2022-04-30,12:30,Championship,Matchweek 45,Sat,Away,W,3,1,Barnsley,2.3,1.4,69,3090.0,Alan Browne,3-1-4-2,David Webb,Match Report,,19,8,16.6,0.0,0,0,2021,Preston North End
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,4,1,Middlesbrough,2.4,1.3,50,17691.0,Alan Browne,3-1-4-2,Tim Robinson,Match Report,,14,9,15.4,1.0,1,1,2021,Preston North End
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,W,3,2,Reading,2.0,1.0,46,9068.0,Joe Allen,5-3-2,Matt Donohue,Match Report,,18,6,14.2,0.0,0,0,2021,Stoke City
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,D,0,0,Birmingham City,0.5,0.7,55,10189.0,Joe Allen,5-3-2,Gavin Ward,Match Report,,8,2,17.7,0.0,0,0,2021,Stoke City
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Away,W,3,1,Swansea City,1.7,0.6,36,15927.0,Joe Allen,3-5-2,Joshua Smith,Match Report,,12,5,10.8,0.0,0,0,2021,Stoke City
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,W,1,0,Nott'ham Forest,1.0,0.1,58,21346.0,Joe Allen,3-5-2,Oliver Langford,Match Report,,11,5,16.6,0.0,0,0,2021,Stoke City
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,L,0,3,Fulham,1.0,4.7,50,16791.0,Joe Allen,3-5-2,Jarred Gillett,Match Report,,11,3,14.9,0.0,0,0,2021,Stoke City
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,W,2,1,Huddersfield,0.8,1.3,55,20447.0,Harry Souttar,3-5-2,Joshua Smith,Match Report,,6,2,11.5,0.0,0,0,2021,Stoke City
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Home,D,1,1,Barnsley,2.4,0.8,59,17832.0,Joe Allen,3-5-2,Leigh Doughty,Match Report,,11,6,11.8,0.0,0,1,2021,Stoke City
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,L,1,2,Derby County,1.2,2.1,67,20545.0,Harry Souttar,3-5-2,Jeremy Simpson,Match Report,,13,5,19.9,0.0,0,0,2021,Stoke City
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,W,2,0,Hull City,1.0,1.0,50,20124.0,Harry Souttar,3-5-2,Thomas Bramall,Match Report,,10,5,20.0,2.0,0,0,2021,Stoke City
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Away,D,1,1,Preston,2.1,0.5,59,10930.0,Harry Souttar,3-4-3,John Brooks,Match Report,,21,5,18.0,0.0,0,0,2021,Stoke City
+2021-10-01,19:45,Championship,Matchweek 11,Fri,Home,W,1,0,West Brom,2.2,1.1,55,22703.0,Joe Allen,3-4-3,Tim Robinson,Match Report,,10,4,20.2,2.0,0,1,2021,Stoke City
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,L,1,2,Sheffield Utd,1.1,2.4,47,28576.0,Joe Allen,3-4-3,Keith Stroud,Match Report,,12,3,16.6,0.0,0,0,2021,Stoke City
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Home,L,0,1,Bournemouth,1.7,1.2,48,18427.0,Joe Allen,3-5-2,Dean Whitestone,Match Report,,13,2,14.5,1.0,0,0,2021,Stoke City
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,1,2,Millwall,1.6,2.0,57,12896.0,Joe Allen,3-5-2,Andrew Davies,Match Report,,14,3,15.7,0.0,0,0,2021,Stoke City
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,D,3,3,Cardiff City,0.9,1.2,59,21413.0,Joe Allen,3-5-2,John Brooks,Match Report,,11,4,19.9,1.0,0,0,2021,Stoke City
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Away,W,1,0,Blackpool,1.7,0.8,48,12297.0,Joe Allen,3-5-2,John Busby,Match Report,,11,4,19.6,0.0,0,0,2021,Stoke City
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,W,1,0,Luton Town,0.7,1.2,45,10068.0,Joe Allen,3-5-2,Jonathan Moss,Match Report,,5,1,12.1,0.0,0,0,2021,Stoke City
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,W,2,0,P'borough Utd,0.7,0.7,38,21285.0,Joe Allen,3-5-2,Geoff Eltringham,Match Report,,7,3,22.7,0.0,0,0,2021,Stoke City
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,L,0,1,Bristol City,1.5,0.7,64,16949.0,Joe Allen,3-5-2,Oliver Langford,Match Report,,13,4,17.4,1.0,0,0,2021,Stoke City
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,L,0,1,Blackburn,0.3,0.8,58,21739.0,James Chester,3-4-1-2,Tim Robinson,Match Report,,7,4,23.9,0.0,0,0,2021,Stoke City
+2021-12-05,14:30,Championship,Matchweek 21,Sun,Away,W,2,0,QPR,2.2,3.0,35,13968.0,Joe Allen,5-3-2,Tony Harrington,Match Report,,17,5,18.7,0.0,0,0,2021,Stoke City
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,D,0,0,Middlesbrough,0.4,0.4,41,21140.0,Joe Allen,3-5-2,Michael Salisbury,Match Report,,9,1,17.5,0.0,0,0,2021,Stoke City
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Home,L,1,2,Derby County,0.4,1.1,56,22235.0,Joe Allen,3-5-2,Matt Donohue,Match Report,,7,1,19.7,0.0,0,0,2021,Stoke City
+2022-01-03,15:00,Championship,Matchweek 26,Mon,Home,L,1,2,Preston,1.3,0.7,46,20002.0,Joe Allen,3-5-2,Jeremy Simpson,Match Report,,14,2,16.7,0.0,0,0,2021,Stoke City
+2022-01-16,12:00,Championship,Matchweek 27,Sun,Away,W,2,0,Hull City,2.3,0.4,45,11067.0,Joe Allen,3-5-2,Joshua Smith,Match Report,,22,9,16.0,0.0,0,0,2021,Stoke City
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,L,2,3,Fulham,0.6,1.4,49,21749.0,Joe Allen,3-5-2,Dean Whitestone,Match Report,,6,3,18.1,0.0,0,0,2021,Stoke City
+2022-01-25,19:45,Championship,Matchweek 23,Tue,Away,L,0,1,Coventry City,0.3,1.7,55,16860.0,James Chester,3-5-2,John Brooks,Match Report,,7,0,23.4,0.0,0,0,2021,Stoke City
+2022-01-28,19:45,Championship,Matchweek 29,Fri,Away,D,1,1,Huddersfield,1.0,1.3,57,16342.0,Lewis Baker,4-2-3-1,Gavin Ward,Match Report,,16,8,19.3,0.0,0,0,2021,Stoke City
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Home,W,3,0,Swansea City,2.7,0.3,60,17720.0,Joe Allen,4-3-3,Jeremy Simpson,Match Report,,21,6,15.5,1.0,1,1,2021,Stoke City
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,D,2,2,Nott'ham Forest,2.8,1.6,62,28990.0,Joe Allen,4-3-3,Leigh Doughty,Match Report,,19,6,20.0,2.0,1,1,2021,Stoke City
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,D,2,2,Birmingham City,1.0,0.9,71,23502.0,Joe Allen,4-3-3,Andrew Davies,Match Report,,10,3,23.2,0.0,0,0,2021,Stoke City
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Home,L,1,2,Luton Town,0.3,1.6,59,18270.0,Joe Allen,4-3-3,John Busby,Match Report,,5,2,20.7,0.0,0,0,2021,Stoke City
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,L,1,2,Bournemouth,0.7,2.7,33,9613.0,Joe Allen,3-5-2,Tim Robinson,Match Report,,8,3,16.0,0.0,0,0,2021,Stoke City
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,L,0,1,Blackpool,1.1,1.3,54,26384.0,Lewis Baker,3-5-2,Tony Harrington,Match Report,,10,2,21.2,0.0,0,0,2021,Stoke City
+2022-03-08,19:45,Championship,Matchweek 24,Tue,Away,D,1,1,Barnsley,0.9,0.4,58,12512.0,Joe Allen,3-5-2,Leigh Doughty,Match Report,,12,2,18.2,0.0,0,0,2021,Stoke City
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,D,2,2,P'borough Utd,2.2,1.2,60,9060.0,Joe Allen,3-5-2,Dean Whitestone,Match Report,,13,1,16.7,0.0,1,1,2021,Stoke City
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Away,L,1,2,Cardiff City,0.8,1.8,59,17184.0,Joe Allen,4-3-3,Andy Woolmer,Match Report,,7,4,17.9,0.0,0,0,2021,Stoke City
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Home,W,2,0,Millwall,1.4,1.3,47,20526.0,Joe Allen,4-3-3,John Brooks,Match Report,,15,2,17.2,0.0,0,0,2021,Stoke City
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,W,1,0,Sheffield Utd,0.8,0.9,43,22631.0,Joe Allen,4-2-3-1,David Webb,Match Report,,9,1,17.9,0.0,0,0,2021,Stoke City
+2022-04-05,20:00,Championship,Matchweek 30,Tue,Away,L,1,2,Reading,1.0,1.7,59,9928.0,Joe Allen,4-2-3-1,Dean Whitestone,Match Report,,12,3,20.5,0.0,0,0,2021,Stoke City
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,W,3,1,West Brom,1.5,1.6,42,22761.0,Joe Allen,3-5-2,Andrew Davies,Match Report,,13,4,17.4,0.0,0,0,2021,Stoke City
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,L,0,1,Bristol City,1.4,0.8,55,20298.0,Joe Allen,3-5-2,Matt Donohue,Match Report,,12,3,16.3,1.0,0,0,2021,Stoke City
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,W,1,0,Blackburn,1.1,1.0,52,30428.0,Joe Allen,3-1-4-2,Geoff Eltringham,Match Report,,7,2,15.3,0.0,0,0,2021,Stoke City
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,W,1,0,QPR,1.5,0.6,45,19251.0,Joe Allen,3-1-4-2,Andy Woolmer,Match Report,,15,6,14.4,0.0,0,0,2021,Stoke City
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,L,1,3,Middlesbrough,0.9,1.3,58,24942.0,Joe Allen,3-1-4-2,Jeremy Simpson,Match Report,,10,3,17.3,1.0,0,0,2021,Stoke City
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,D,1,1,Coventry City,0.7,1.9,43,23086.0,Joe Allen,3-1-4-2,Gavin Ward,Match Report,,9,2,20.1,0.0,0,0,2021,Stoke City
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,L,1,2,Blackburn,1.2,3.5,72,10260.0,Matt Grimes,3-4-1-2,David Webb,Match Report,,7,4,17.3,1.0,0,0,2021,Swansea City
+2021-08-14,20:00,Championship,Matchweek 2,Sat,Home,D,0,0,Sheffield Utd,0.4,0.8,62,15946.0,Matt Grimes,3-4-3,Keith Stroud,Match Report,,8,1,24.6,0.0,0,0,2021,Swansea City
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Home,L,1,3,Stoke City,0.6,1.7,64,15927.0,Matt Grimes,3-4-3,Joshua Smith,Match Report,,9,3,17.2,0.0,0,0,2021,Swansea City
+2021-08-20,19:45,Championship,Matchweek 4,Fri,Away,W,1,0,Bristol City,0.8,1.8,53,20139.0,Matt Grimes,3-4-3,Geoff Eltringham,Match Report,,8,4,19.9,1.0,0,0,2021,Swansea City
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,L,1,3,Preston,0.7,0.9,59,10180.0,Matt Grimes,3-4-3,Thomas Bramall,Match Report,,5,2,14.9,0.0,0,0,2021,Swansea City
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,D,0,0,Hull City,1.0,0.1,68,16317.0,Matt Grimes,3-4-3,Keith Stroud,Match Report,,16,4,22.9,1.0,0,0,2021,Swansea City
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Home,D,0,0,Millwall,1.3,1.0,63,16007.0,Matt Grimes,3-4-3,John Busby,Match Report,,12,4,17.9,2.0,0,0,2021,Swansea City
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,D,3,3,Luton Town,1.3,3.4,72,9721.0,Matt Grimes,3-4-3,Tony Harrington,Match Report,,15,3,20.0,1.0,0,0,2021,Swansea City
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,W,1,0,Huddersfield,1.0,0.3,53,17091.0,Matt Grimes,3-4-3,Gavin Ward,Match Report,,7,6,16.5,0.0,0,0,2021,Swansea City
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,L,1,3,Fulham,1.1,1.2,62,16113.0,Matt Grimes,3-4-3,Joshua Smith,Match Report,,7,1,17.8,0.0,0,0,2021,Swansea City
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,D,0,0,Derby County,1.1,0.5,75,21640.0,Matt Grimes,3-4-3,Andy Madley,Match Report,,15,2,16.6,0.0,0,0,2021,Swansea City
+2021-10-17,12:00,Championship,Matchweek 12,Sun,Home,W,3,0,Cardiff City,2.5,1.2,73,19288.0,Matt Grimes,3-4-3,James Linington,Match Report,,12,7,14.9,0.0,0,0,2021,Swansea City
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Home,W,2,1,West Brom,1.3,1.1,67,16694.0,Matt Grimes,3-4-3,Simon Hooper,Match Report,,9,3,19.0,1.0,0,0,2021,Swansea City
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,1,2,Birmingham City,1.6,1.8,71,16132.0,Matt Grimes,3-4-3,Oliver Langford,Match Report,,7,1,15.9,0.0,0,0,2021,Swansea City
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,W,3,0,P'borough Utd,2.5,0.3,67,16639.0,Matt Grimes,3-4-3,Matt Donohue,Match Report,,13,5,19.7,1.0,0,0,2021,Swansea City
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Away,W,2,1,Coventry City,1.1,0.6,54,16514.0,Matt Grimes,3-4-3,Andrew Davies,Match Report,,9,4,17.2,1.0,0,0,2021,Swansea City
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,L,0,4,Bournemouth,0.2,3.2,60,9725.0,Matt Grimes,3-4-3,Tony Harrington,Match Report,,7,4,24.5,1.0,0,0,2021,Swansea City
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,D,1,1,Blackpool,0.3,0.5,59,16886.0,Matt Grimes,3-4-3,Keith Stroud,Match Report,,5,2,24.1,0.0,0,0,2021,Swansea City
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,W,2,0,Barnsley,1.1,0.2,79,11342.0,Matt Grimes,3-4-3,David Webb,Match Report,,6,3,11.6,0.0,0,0,2021,Swansea City
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,L,2,3,Reading,1.6,1.2,73,16980.0,Matt Grimes,3-4-3,Tony Harrington,Match Report,,19,10,21.0,1.0,0,0,2021,Swansea City
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,L,0,1,Middlesbrough,1.4,1.6,67,18707.0,Matt Grimes,3-4-3,Andrew Davies,Match Report,,15,4,18.7,1.0,0,0,2021,Swansea City
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,L,1,4,Nott'ham Forest,1.1,1.6,74,17659.0,Matt Grimes,3-4-3,Matt Donohue,Match Report,,12,4,20.6,1.0,0,0,2021,Swansea City
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,D,1,1,Huddersfield,1.1,2.1,69,20535.0,Matt Grimes,3-4-3,David Webb,Match Report,,18,11,18.2,0.0,0,0,2021,Swansea City
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,W,1,0,Preston,0.6,1.0,56,16842.0,Matt Grimes,3-4-3,Joshua Smith,Match Report,,10,4,22.3,0.0,0,0,2021,Swansea City
+2022-01-25,19:45,Championship,Matchweek 23,Tue,Away,D,0,0,QPR,0.9,0.5,57,12770.0,Matt Grimes,3-4-3,Andrew Davies,Match Report,,12,5,17.8,0.0,0,0,2021,Swansea City
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,L,0,2,Hull City,1.6,0.8,65,13101.0,Matt Grimes,3-4-3,Leigh Doughty,Match Report,,15,5,19.4,1.0,0,0,2021,Swansea City
+2022-02-01,19:45,Championship,Matchweek 25,Tue,Home,L,0,1,Luton Town,1.6,1.7,70,16598.0,Matt Grimes,3-4-3,Oliver Langford,Match Report,,16,4,18.2,1.0,0,0,2021,Swansea City
+2022-02-05,17:30,Championship,Matchweek 30,Sat,Home,W,1,0,Blackburn,0.4,1.4,48,16933.0,Matt Grimes,3-1-4-2,Tim Robinson,Match Report,,4,2,29.7,0.0,0,0,2021,Swansea City
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Away,L,0,3,Stoke City,0.3,2.7,40,17720.0,Matt Grimes,3-5-1-1,Jeremy Simpson,Match Report,,3,1,19.5,0.0,0,0,2021,Swansea City
+2022-02-13,13:00,Championship,Matchweek 32,Sun,Home,W,3,1,Bristol City,2.9,1.3,70,19162.0,Matt Grimes,3-4-3,Keith Stroud,Match Report,,16,6,16.6,1.0,0,0,2021,Swansea City
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,L,0,4,Sheffield Utd,0.2,1.8,61,26564.0,Matt Grimes,3-4-3,David Webb,Match Report,,6,2,29.7,1.0,0,0,2021,Swansea City
+2022-02-28,20:00,Championship,Matchweek 35,Mon,Away,W,2,0,West Brom,1.2,0.9,59,21357.0,Matt Grimes,3-4-3,Dean Whitestone,Match Report,,15,4,17.3,0.0,0,0,2021,Swansea City
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,W,3,1,Coventry City,0.9,1.7,52,18405.0,Matt Grimes,3-4-3,Geoff Eltringham,Match Report,,8,3,17.2,0.0,0,0,2021,Swansea City
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Home,L,1,5,Fulham,0.3,1.7,38,17012.0,Matt Grimes,4-4-1-1,Jarred Gillett,Match Report,,5,3,20.0,0.0,0,0,2021,Swansea City
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,L,0,1,Blackpool,0.5,1.4,76,12344.0,Matt Grimes,4-2-3-1,Steve Martin,Match Report,,8,1,22.6,0.0,0,0,2021,Swansea City
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Away,W,3,2,P'borough Utd,2.6,1.1,70,6832.0,Matt Grimes,3-1-4-2,Oliver Langford,Match Report,,17,9,17.0,0.0,0,0,2021,Swansea City
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Home,D,0,0,Birmingham City,0.6,2.7,64,18620.0,Matt Grimes,3-1-4-2,Jeremy Simpson,Match Report,,9,4,19.4,0.0,0,0,2021,Swansea City
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,W,4,0,Cardiff City,1.7,0.6,58,27280.0,Matt Grimes,3-4-3,Joshua Smith,Match Report,,12,4,18.6,0.0,0,0,2021,Swansea City
+2022-04-05,19:45,Championship,Matchweek 24,Tue,Away,W,1,0,Millwall,1.4,1.3,68,11670.0,Matt Grimes,3-4-3,Andrew Davies,Match Report,,14,5,18.8,0.0,0,0,2021,Swansea City
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,W,2,1,Derby County,0.9,1.4,54,18374.0,Matt Grimes,3-4-3,Tim Robinson,Match Report,,10,3,18.4,0.0,0,0,2021,Swansea City
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,D,1,1,Barnsley,1.5,1.6,74,17923.0,Matt Grimes,3-4-3,Andy Woolmer,Match Report,,17,6,19.4,0.0,0,0,2021,Swansea City
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,D,4,4,Reading,1.6,2.7,63,14145.0,Matt Grimes,3-4-3,Kevin Friend,Match Report,,10,4,18.5,0.0,1,1,2021,Swansea City
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,D,1,1,Middlesbrough,1.5,1.6,74,18246.0,Matt Grimes,3-4-3,David Webb,Match Report,,19,4,18.4,1.0,0,0,2021,Swansea City
+2022-04-26,19:45,Championship,Matchweek 34,Tue,Home,D,3,3,Bournemouth,0.6,3.8,48,17780.0,Matt Grimes,4-2-3-1,Darren Bond,Match Report,,5,3,18.8,0.0,0,0,2021,Swansea City
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,L,1,5,Nott'ham Forest,1.1,4.1,70,28659.0,Matt Grimes,4-2-3-1,Graham Scott,Match Report,,12,3,22.6,0.0,0,0,2021,Swansea City
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,L,0,1,QPR,1.2,1.2,60,18608.0,Matt Grimes,4-2-3-1,Steve Martin,Match Report,,11,6,18.9,0.0,0,0,2021,Swansea City
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,D,1,1,Bristol City,0.5,1.2,49,18729.0,Chris Maxwell,4-4-2,Andrew Davies,Match Report,,7,1,17.7,0.0,0,0,2021,Blackpool
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,L,0,2,Cardiff City,0.7,3.1,62,11393.0,Chris Maxwell,4-4-2,Andy Woolmer,Match Report,,8,2,18.8,1.0,0,0,2021,Blackpool
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Home,L,0,1,Coventry City,1.5,3.0,48,11608.0,Chris Maxwell,4-4-2,Keith Stroud,Match Report,,12,4,15.5,1.0,0,0,2021,Blackpool
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,D,2,2,Bournemouth,2.0,1.4,39,9187.0,Chris Maxwell,4-4-2,Steve Martin,Match Report,,10,4,19.1,1.0,1,1,2021,Blackpool
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,L,1,2,Millwall,1.2,1.7,32,11049.0,Chris Maxwell,4-4-2,Gavin Ward,Match Report,,10,3,21.7,0.0,0,0,2021,Blackpool
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,W,1,0,Fulham,0.5,1.4,31,11268.0,Chris Maxwell,4-4-2,John Busby,Match Report,,8,1,22.8,1.0,0,0,2021,Blackpool
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Home,L,0,3,Huddersfield,1.0,0.8,43,11277.0,Chris Maxwell,4-4-2,Thomas Bramall,Match Report,,15,3,17.3,1.0,0,0,2021,Blackpool
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,W,2,1,Middlesbrough,1.5,1.2,51,21022.0,Chris Maxwell,4-4-2,David Webb,Match Report,,11,1,15.3,0.0,0,0,2021,Blackpool
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,W,1,0,Barnsley,1.5,1.1,41,12698.0,Chris Maxwell,4-4-2,Steve Martin,Match Report,,13,6,15.7,0.0,0,0,2021,Blackpool
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Away,D,1,1,Hull City,0.8,1.4,38,10189.0,Chris Maxwell,4-4-2,Matt Donohue,Match Report,,10,3,18.3,0.0,0,0,2021,Blackpool
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,W,2,1,Blackburn,1.3,1.2,48,13419.0,Chris Maxwell,4-4-2,Joshua Smith,Match Report,,8,3,18.6,0.0,0,0,2021,Blackpool
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,L,1,2,Nott'ham Forest,1.0,2.1,53,27946.0,Marvin Ekpiteta,4-4-2,Kevin Friend,Match Report,,6,1,14.9,0.0,0,0,2021,Blackpool
+2021-10-20,20:00,Championship,Matchweek 13,Wed,Away,W,3,2,Reading,2.5,1.1,55,13756.0,Marvin Ekpiteta,4-4-2,Jeremy Simpson,Match Report,,17,9,20.3,3.0,1,1,2021,Blackpool
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,2,0,Preston,1.1,1.0,48,13946.0,Marvin Ekpiteta,4-4-2,Tim Robinson,Match Report,,11,2,16.1,0.0,0,0,2021,Blackpool
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,W,1,0,Sheffield Utd,0.3,1.4,42,28304.0,Marvin Ekpiteta,4-4-2,Tony Harrington,Match Report,,5,2,18.0,0.0,0,0,2021,Blackpool
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Home,L,0,1,Stoke City,0.8,1.7,52,12297.0,Marvin Ekpiteta,4-2-3-1,John Busby,Match Report,,9,1,21.2,0.0,0,0,2021,Blackpool
+2021-11-06,17:30,Championship,Matchweek 17,Sat,Home,D,1,1,QPR,1.6,0.5,52,11769.0,Marvin Ekpiteta,4-4-2,Joshua Smith,Match Report,,9,0,16.1,0.0,1,1,2021,Blackpool
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,D,1,1,Swansea City,0.5,0.3,41,16886.0,Marvin Ekpiteta,5-4-1,Keith Stroud,Match Report,,8,2,19.2,0.0,0,0,2021,Blackpool
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Home,D,0,0,West Brom,1.8,3.0,49,11517.0,Marvin Ekpiteta,4-4-2,Jarred Gillett,Match Report,,13,4,13.4,0.0,0,0,2021,Blackpool
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,L,0,1,Birmingham City,0.5,1.3,55,17686.0,Marvin Ekpiteta,4-2-3-1,Matt Donohue,Match Report,,8,1,18.6,1.0,0,0,2021,Blackpool
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,L,0,3,Luton Town,1.5,1.6,65,11366.0,Marvin Ekpiteta,4-2-3-1,Peter Bankes,Match Report,,16,6,18.3,0.0,0,0,2021,Blackpool
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,L,0,1,Derby County,0.4,1.5,48,21663.0,Chris Maxwell,4-2-3-1,Andy Woolmer,Match Report,,6,2,16.1,0.0,0,0,2021,Blackpool
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Home,W,3,1,P'borough Utd,2.0,0.7,40,9745.0,Marvin Ekpiteta,4-4-2,David Webb,Match Report,,15,8,13.3,0.0,0,0,2021,Blackpool
+2021-12-26,15:00,Championship,Matchweek 24,Sun,Away,L,2,3,Huddersfield,1.2,1.3,40,18968.0,Marvin Ekpiteta,4-4-2,Jeremy Simpson,Match Report,,10,3,15.4,0.0,0,0,2021,Blackpool
+2021-12-29,19:45,Championship,Matchweek 25,Wed,Home,L,1,2,Middlesbrough,1.5,2.2,52,13428.0,Marvin Ekpiteta,5-3-2,Steve Martin,Match Report,,12,2,12.9,0.0,0,0,2021,Blackpool
+2022-01-01,15:00,Championship,Matchweek 26,Sat,Home,W,1,0,Hull City,1.4,1.8,48,11300.0,Marvin Ekpiteta,4-4-2,Dean Whitestone,Match Report,,7,2,15.9,0.0,1,1,2021,Blackpool
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,W,1,0,Millwall,1.9,0.5,48,10696.0,Marvin Ekpiteta,4-4-2,David Webb,Match Report,,14,5,15.2,0.0,0,0,2021,Blackpool
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,D,1,1,Fulham,0.7,2.5,27,19092.0,Marvin Ekpiteta,5-4-1,Peter Bankes,Match Report,,10,4,18.6,1.0,0,0,2021,Blackpool
+2022-02-05,15:00,Championship,Matchweek 30,Sat,Home,W,3,1,Bristol City,1.3,1.2,39,11026.0,Richard Keogh,4-4-2,James Linington,Match Report,,7,5,10.3,0.0,0,0,2021,Blackpool
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Away,D,1,1,Coventry City,0.8,1.9,41,15752.0,Marvin Ekpiteta,4-4-2,Andre Marriner,Match Report,,9,4,16.9,0.0,0,0,2021,Blackpool
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,L,1,2,Bournemouth,1.1,1.9,31,11141.0,Marvin Ekpiteta,4-4-2,Dean Whitestone,Match Report,,15,7,18.2,0.0,0,0,2021,Blackpool
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,D,1,1,Cardiff City,0.6,1.6,45,19025.0,Marvin Ekpiteta,4-4-2,Darren Bond,Match Report,,6,2,18.8,0.0,0,0,2021,Blackpool
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Away,L,1,2,QPR,1.2,1.1,48,11984.0,Kenneth Dougall,5-4-1,Gavin Ward,Match Report,,7,2,15.1,0.0,0,0,2021,Blackpool
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,4,1,Reading,1.9,1.4,42,10954.0,Marvin Ekpiteta,4-4-2,Peter Bankes,Match Report,,15,8,13.0,0.0,0,0,2021,Blackpool
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,W,1,0,Stoke City,1.3,1.1,46,26384.0,Marvin Ekpiteta,4-4-2,Tony Harrington,Match Report,,9,3,12.5,0.0,0,0,2021,Blackpool
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,W,1,0,Swansea City,1.4,0.5,24,12344.0,Marvin Ekpiteta,5-4-1,Steve Martin,Match Report,,11,4,14.1,0.0,0,0,2021,Blackpool
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,D,0,0,Sheffield Utd,1.1,0.6,49,11915.0,Marvin Ekpiteta,5-4-1,Geoff Eltringham,Match Report,,10,2,14.1,0.0,0,0,2021,Blackpool
+2022-04-02,12:30,Championship,Matchweek 40,Sat,Home,L,1,4,Nott'ham Forest,1.6,1.7,49,13986.0,Marvin Ekpiteta,4-4-2,Jarred Gillett,Match Report,,18,5,14.8,0.0,0,0,2021,Blackpool
+2022-04-05,19:45,Championship,Matchweek 39,Tue,Away,L,0,1,Preston,0.9,1.1,54,18740.0,Marvin Ekpiteta,4-2-3-1,David Webb,Match Report,,8,0,17.3,1.0,0,0,2021,Blackpool
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,D,1,1,Blackburn,1.5,0.9,46,17806.0,Chris Maxwell,4-4-2,Matt Donohue,Match Report,,17,3,16.2,0.0,0,0,2021,Blackpool
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,L,1,2,West Brom,0.8,1.8,48,21717.0,Chris Maxwell,4-4-2,Jeremy Simpson,Match Report,,11,4,19.2,1.0,0,0,2021,Blackpool
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,W,6,1,Birmingham City,2.6,1.2,58,13993.0,Chris Maxwell,4-4-2,Tim Robinson,Match Report,,15,7,13.5,1.0,1,1,2021,Blackpool
+2022-04-23,12:30,Championship,Matchweek 44,Sat,Away,D,1,1,Luton Town,1.7,0.9,52,9843.0,Chris Maxwell,4-4-2,John Brooks,Match Report,,13,1,17.6,1.0,1,1,2021,Blackpool
+2022-04-26,19:45,Championship,Matchweek 27,Tue,Away,W,2,0,Barnsley,1.1,0.4,52,12256.0,Chris Maxwell,4-4-2,John Busby,Match Report,,11,4,13.9,0.0,0,0,2021,Blackpool
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,L,0,2,Derby County,2.3,1.3,54,15298.0,Chris Maxwell,4-4-2,Andrew Davies,Match Report,,16,2,16.3,0.0,0,1,2021,Blackpool
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,L,0,5,P'borough Utd,0.6,3.0,47,9118.0,Chris Maxwell,4-4-2,Andy Woolmer,Match Report,,10,3,17.3,1.0,0,0,2021,Blackpool
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,D,1,1,Blackpool,1.2,0.5,51,18729.0,Daniel Bentley,4-2-3-1,Andrew Davies,Match Report,,11,2,14.7,0.0,0,0,2021,Bristol City
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,L,1,2,Middlesbrough,1.2,2.0,61,22004.0,Daniel Bentley,4-2-3-1,Oliver Langford,Match Report,,10,2,14.2,1.0,0,0,2021,Bristol City
+2021-08-17,20:00,Championship,Matchweek 3,Tue,Away,W,3,2,Reading,1.6,0.9,33,14207.0,Daniel Bentley,4-2-3-1,Andy Woolmer,Match Report,,8,5,11.2,0.0,0,0,2021,Bristol City
+2021-08-20,19:45,Championship,Matchweek 4,Fri,Home,L,0,1,Swansea City,1.8,0.8,47,20139.0,Daniel Bentley,4-2-3-1,Geoff Eltringham,Match Report,,15,5,15.4,0.0,0,0,2021,Bristol City
+2021-08-28,12:30,Championship,Matchweek 5,Sat,Away,W,2,1,Cardiff City,0.7,1.1,39,20891.0,Daniel Bentley,4-4-2,David Webb,Match Report,,9,5,14.8,0.0,0,0,2021,Bristol City
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,D,0,0,Preston,0.7,1.3,50,17967.0,Daniel Bentley,4-4-2,Tim Robinson,Match Report,,10,3,21.7,1.0,0,0,2021,Bristol City
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Home,D,1,1,Luton Town,0.9,2.8,49,16878.0,Daniel Bentley,4-4-2,Jeremy Simpson,Match Report,,13,2,14.7,0.0,0,0,2021,Bristol City
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,W,2,1,QPR,1.0,2.4,38,14922.0,Daniel Bentley,3-4-1-2,Leigh Doughty,Match Report,,9,3,17.1,1.0,0,0,2021,Bristol City
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,D,1,1,Fulham,1.3,2.8,37,19326.0,Daniel Bentley,4-4-2,Simon Hooper,Match Report,,14,5,19.5,1.0,0,0,2021,Bristol City
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,L,0,1,Millwall,0.9,1.6,52,11839.0,Daniel Bentley,3-5-2,Dean Whitestone,Match Report,,10,1,13.2,0.0,0,0,2021,Bristol City
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,W,3,2,P'borough Utd,1.8,1.2,41,8560.0,Daniel Bentley,4-2-3-1,David Coote,Match Report,,15,6,13.9,0.0,0,0,2021,Bristol City
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,L,0,2,Bournemouth,1.0,2.5,28,20828.0,Daniel Bentley,4-4-2,Gavin Ward,Match Report,,5,2,11.5,0.0,0,0,2021,Bristol City
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Home,L,1,2,Nott'ham Forest,2.2,2.6,34,24691.0,Daniel Bentley,3-1-4-2,Steve Martin,Match Report,,9,2,17.3,0.0,0,0,2021,Bristol City
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,0,3,West Brom,0.5,3.2,46,23845.0,Daniel Bentley,3-1-4-2,Joshua Smith,Match Report,,7,2,14.1,0.0,0,0,2021,Bristol City
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,W,2,1,Barnsley,1.3,2.7,44,19897.0,Daniel Bentley,4-3-1-2,Thomas Bramall,Match Report,,12,4,19.3,0.0,0,0,2021,Bristol City
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Away,L,0,3,Birmingham City,0.8,1.3,59,16143.0,Daniel Bentley,3-5-2,Simon Hooper,Match Report,,8,1,18.1,0.0,0,0,2021,Bristol City
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,L,2,3,Coventry City,2.0,2.3,41,19855.0,Daniel Bentley,4-4-1-1,Jeremy Simpson,Match Report,,7,4,19.5,0.0,1,1,2021,Bristol City
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,D,1,1,Blackburn,1.2,0.4,46,18347.0,Daniel Bentley,3-5-2,John Busby,Match Report,,12,4,16.1,0.0,0,0,2021,Bristol City
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Home,W,1,0,Stoke City,0.7,1.5,36,16949.0,Daniel Bentley,3-5-2,Oliver Langford,Match Report,,8,2,13.3,0.0,0,0,2021,Bristol City
+2021-11-28,12:30,Championship,Matchweek 20,Sun,Away,L,0,2,Sheffield Utd,0.6,1.8,36,25615.0,Daniel Bentley,3-5-2,Geoff Eltringham,Match Report,,7,2,18.6,0.0,0,0,2021,Bristol City
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,W,1,0,Derby County,1.3,0.6,34,18732.0,Daniel Bentley,3-4-1-2,Graham Scott,Match Report,,8,2,14.4,0.0,0,0,2021,Bristol City
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,D,2,2,Hull City,0.9,1.5,50,10446.0,Daniel Bentley,3-4-1-2,Gavin Ward,Match Report,,10,3,15.4,0.0,0,0,2021,Bristol City
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Home,L,2,3,Huddersfield,1.9,2.2,55,18169.0,Daniel Bentley,3-4-1-2,Dean Whitestone,Match Report,,17,6,16.5,0.0,0,0,2021,Bristol City
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Home,L,1,2,QPR,1.4,1.5,45,17157.0,Matty James,4-2-3-1,Andrew Davies,Match Report,,11,3,14.5,0.0,0,0,2021,Bristol City
+2022-01-02,13:00,Championship,Matchweek 26,Sun,Home,W,3,2,Millwall,1.7,1.7,58,18735.0,Matty James,4-1-4-1,Simon Hooper,Match Report,,12,7,17.3,0.0,0,0,2021,Bristol City
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,L,2,6,Fulham,0.9,2.5,38,17810.0,Andy King,3-4-1-2,Tim Robinson,Match Report,,8,5,14.6,0.0,0,0,2021,Bristol City
+2022-01-22,12:30,Championship,Matchweek 28,Sat,Home,W,3,2,Cardiff City,2.1,1.2,48,21435.0,Andy King,3-4-3,Gavin Ward,Match Report,,12,5,15.4,0.0,0,0,2021,Bristol City
+2022-01-25,19:45,Championship,Matchweek 24,Tue,Away,L,1,2,Luton Town,1.1,1.4,59,9202.0,Andreas Weimann,3-4-1-2,Andrew Davies,Match Report,,12,3,17.2,0.0,0,0,2021,Bristol City
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,D,2,2,Preston,2.0,0.9,43,11936.0,Andreas Weimann,3-4-3,John Busby,Match Report,,12,3,14.8,0.0,0,0,2021,Bristol City
+2022-02-05,15:00,Championship,Matchweek 30,Sat,Away,L,1,3,Blackpool,1.2,1.3,61,11026.0,Andreas Weimann,3-4-3,James Linington,Match Report,,9,4,16.1,1.0,0,0,2021,Bristol City
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,W,2,1,Reading,1.3,2.4,47,17798.0,Andreas Weimann,3-4-1-2,Oliver Langford,Match Report,,10,4,15.4,0.0,0,0,2021,Bristol City
+2022-02-13,13:00,Championship,Matchweek 32,Sun,Away,L,1,3,Swansea City,1.3,2.9,30,19162.0,Andreas Weimann,3-4-1-2,Keith Stroud,Match Report,,10,3,17.6,0.0,0,0,2021,Bristol City
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,W,2,1,Middlesbrough,0.9,2.2,37,20148.0,Daniel Bentley,3-4-1-2,Leigh Doughty,Match Report,,5,4,14.6,0.0,0,0,2021,Bristol City
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Home,L,1,2,Coventry City,1.7,1.7,58,19192.0,Daniel Bentley,4-1-2-1-2◆,Dean Whitestone,Match Report,,13,4,16.0,0.0,0,0,2021,Bristol City
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,L,0,2,Nott'ham Forest,0.4,1.5,46,28506.0,Daniel Bentley,4-1-2-1-2◆,Darren Bond,Match Report,,5,1,14.0,0.0,0,0,2021,Bristol City
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,L,1,2,Birmingham City,1.4,0.6,58,21942.0,Daniel Bentley,4-3-1-2,Thomas Bramall,Match Report,,11,4,12.9,0.0,0,0,2021,Bristol City
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,W,1,0,Blackburn,0.7,1.9,47,13567.0,Daniel Bentley,5-3-2,Gavin Ward,Match Report,,8,3,17.7,0.0,0,0,2021,Bristol City
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Away,L,0,2,Barnsley,1.4,1.1,56,11322.0,Daniel Bentley,5-3-2,David Webb,Match Report,,16,2,15.1,0.0,0,0,2021,Bristol City
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Home,D,2,2,West Brom,0.9,1.2,38,20586.0,Daniel Bentley,3-4-1-2,Leigh Doughty,Match Report,,8,3,13.2,0.0,0,0,2021,Bristol City
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,L,2,3,Bournemouth,1.5,3.2,33,9937.0,Daniel Bentley,3-4-1-2,Steve Martin,Match Report,,6,3,15.2,0.0,0,0,2021,Bristol City
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,D,1,1,P'borough Utd,2.6,1.6,53,19052.0,Daniel Bentley,3-4-1-2,John Brooks,Match Report,,20,2,13.6,1.0,0,0,2021,Bristol City
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,W,1,0,Stoke City,0.8,1.4,45,20298.0,Daniel Bentley,3-5-2,Matt Donohue,Match Report,,6,4,14.0,0.0,0,0,2021,Bristol City
+2022-04-18,17:30,Championship,Matchweek 43,Mon,Home,D,1,1,Sheffield Utd,1.3,1.6,33,18934.0,Daniel Bentley,3-5-2,Keith Stroud,Match Report,,7,3,14.0,0.0,0,0,2021,Bristol City
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,W,3,1,Derby County,2.2,1.4,34,22753.0,Daniel Bentley,3-4-1-2,Thomas Bramall,Match Report,,18,7,19.4,0.0,0,0,2021,Bristol City
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,W,5,0,Hull City,2.2,0.5,49,21799.0,Daniel Bentley,3-4-1-2,Ben Toner,Match Report,,12,7,17.5,0.0,0,0,2021,Bristol City
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,L,0,2,Huddersfield,0.8,2.1,50,17797.0,Daniel Bentley,3-4-1-2,David Webb,Match Report,,11,3,17.5,0.0,0,0,2021,Bristol City
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,D,1,1,Barnsley,1.8,0.6,45,17431.0,Aden Flint,3-4-3,Steve Martin,Match Report,,10,6,15.8,0.0,0,0,2021,Cardiff City
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,W,2,0,Blackpool,3.1,0.7,38,11393.0,Sean Morrison,3-4-3,Andy Woolmer,Match Report,,17,8,11.5,0.0,0,0,2021,Cardiff City
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Away,D,2,2,P'borough Utd,1.6,1.2,44,8534.0,Sean Morrison,3-4-3,Thomas Bramall,Match Report,,9,3,9.7,0.0,0,0,2021,Cardiff City
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,W,3,1,Millwall,2.9,1.6,51,18168.0,Sean Morrison,3-4-3,James Linington,Match Report,,16,4,13.5,0.0,0,0,2021,Cardiff City
+2021-08-28,12:30,Championship,Matchweek 5,Sat,Home,L,1,2,Bristol City,1.1,0.7,61,20891.0,Sean Morrison,5-4-1,David Webb,Match Report,,12,4,16.8,0.0,0,0,2021,Cardiff City
+2021-09-12,14:30,Championship,Matchweek 6,Sun,Away,W,2,1,Nott'ham Forest,1.6,1.0,47,24153.0,Sean Morrison,4-1-3-2,Dean Whitestone,Match Report,,22,5,15.5,1.0,0,0,2021,Cardiff City
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Away,L,0,1,Coventry City,0.8,0.9,49,16372.0,Sean Morrison,5-4-1,Michael Salisbury,Match Report,,10,1,14.8,0.0,0,0,2021,Cardiff City
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,L,0,1,Bournemouth,0.6,1.2,37,19090.0,Sean Morrison,5-4-1,Joshua Smith,Match Report,,6,2,13.5,0.0,0,0,2021,Cardiff City
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,L,1,5,Blackburn,0.9,3.2,61,11670.0,Sean Morrison,3-4-3,Keith Stroud,Match Report,,11,4,11.8,0.0,0,0,2021,Cardiff City
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Home,L,0,4,West Brom,0.4,0.9,41,17363.0,Sean Morrison,3-4-1-2,Graham Scott,Match Report,,6,0,14.9,1.0,0,0,2021,Cardiff City
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,L,0,1,Reading,2.6,0.2,50,18400.0,Aden Flint,4-2-3-1,Thomas Bramall,Match Report,,27,5,15.1,1.0,0,0,2021,Cardiff City
+2021-10-17,12:00,Championship,Matchweek 12,Sun,Away,L,0,3,Swansea City,1.2,2.5,27,19288.0,Sean Morrison,5-4-1,James Linington,Match Report,,10,3,15.0,1.0,0,0,2021,Cardiff City
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Away,L,0,2,Fulham,1.2,2.5,34,15789.0,Aden Flint,4-2-3-1,Tim Robinson,Match Report,,15,2,16.5,0.0,0,0,2021,Cardiff City
+2021-10-23,12:30,Championship,Matchweek 14,Sat,Home,L,0,2,Middlesbrough,0.9,2.8,51,17513.0,Aden Flint,4-2-3-1,Jeremy Simpson,Match Report,,9,1,13.2,0.0,0,0,2021,Cardiff City
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,D,3,3,Stoke City,1.2,0.9,41,21413.0,Sean Morrison,3-4-3,John Brooks,Match Report,,9,5,17.4,1.0,0,0,2021,Cardiff City
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Home,L,0,1,QPR,0.5,1.0,53,16882.0,Sean Morrison,3-4-3,Andy Woolmer,Match Report,,9,3,23.9,0.0,0,0,2021,Cardiff City
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,W,2,1,Huddersfield,1.0,1.9,57,17355.0,Joe Ralls,3-4-3,David Webb,Match Report,,15,5,19.2,0.0,0,0,2021,Cardiff City
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,W,2,1,Preston,2.4,1.1,44,10749.0,Marlon Pack,3-4-3,Leigh Doughty,Match Report,,14,3,15.8,0.0,0,0,2021,Cardiff City
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Home,L,0,1,Hull City,1.1,1.6,62,17180.0,Marlon Pack,3-4-3,Thomas Bramall,Match Report,,13,5,14.2,0.0,0,0,2021,Cardiff City
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,W,2,1,Luton Town,1.8,1.2,43,9987.0,Sean Morrison,3-4-3,Oliver Langford,Match Report,,9,4,16.5,0.0,0,0,2021,Cardiff City
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,L,2,3,Sheffield Utd,0.9,2.9,38,18310.0,Sean Morrison,3-4-3,John Busby,Match Report,,7,5,11.7,0.0,0,0,2021,Cardiff City
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,D,2,2,Birmingham City,1.8,2.2,58,17840.0,Joe Ralls,3-4-3,Jeremy Simpson,Match Report,,16,7,14.0,1.0,0,0,2021,Cardiff City
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Away,L,0,3,Bournemouth,0.8,3.2,29,8942.0,Joe Ralls,3-4-3,James Linington,Match Report,,6,3,23.7,0.0,0,0,2021,Cardiff City
+2022-01-02,14:00,Championship,Matchweek 26,Sun,Away,D,1,1,West Brom,0.3,1.1,46,22925.0,Joe Ralls,3-5-2,Thomas Bramall,Match Report,,6,1,17.9,0.0,0,0,2021,Cardiff City
+2022-01-15,12:30,Championship,Matchweek 27,Sat,Home,L,0,1,Blackburn,0.8,0.1,66,,Joe Ralls,5-3-2,Matt Donohue,Match Report,,11,3,14.2,0.0,0,0,2021,Cardiff City
+2022-01-22,12:30,Championship,Matchweek 28,Sat,Away,L,2,3,Bristol City,1.2,2.1,52,21435.0,Joe Ralls,3-5-2,Gavin Ward,Match Report,,16,5,16.3,1.0,0,0,2021,Cardiff City
+2022-01-30,16:00,Championship,Matchweek 29,Sun,Home,W,2,1,Nott'ham Forest,1.5,0.6,32,18866.0,Sean Morrison,5-3-2,David Webb,Match Report,,10,4,18.1,0.0,0,0,2021,Cardiff City
+2022-02-02,19:45,Championship,Matchweek 30,Wed,Away,W,1,0,Barnsley,0.5,0.7,40,11432.0,Sean Morrison,5-3-2,Geoff Eltringham,Match Report,,5,1,19.1,0.0,0,0,2021,Cardiff City
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,W,4,0,P'borough Utd,2.4,0.4,32,17297.0,Joe Ralls,5-3-2,Kevin Friend,Match Report,,14,4,15.1,0.0,0,0,2021,Cardiff City
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,L,1,2,Millwall,2.0,1.3,38,12710.0,Joe Ralls,5-3-2,Steve Martin,Match Report,,17,5,17.1,0.0,0,0,2021,Cardiff City
+2022-02-15,19:45,Championship,Matchweek 24,Tue,Home,W,2,0,Coventry City,0.7,1.1,36,18660.0,Aden Flint,5-3-2,John Busby,Match Report,,8,6,17.2,0.0,0,0,2021,Cardiff City
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,D,1,1,Blackpool,1.6,0.6,55,19025.0,Aden Flint,5-3-2,Darren Bond,Match Report,,11,2,17.0,0.0,0,0,2021,Cardiff City
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Away,L,1,2,Huddersfield,1.1,0.9,26,20167.0,Aden Flint,5-3-2,Oliver Langford,Match Report,,10,7,15.8,0.0,0,0,2021,Cardiff City
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,L,0,1,Fulham,0.6,1.0,35,18928.0,Joe Ralls,5-3-2,Leigh Doughty,Match Report,,9,4,21.5,1.0,0,0,2021,Cardiff City
+2022-03-01,19:45,Championship,Matchweek 23,Tue,Home,W,1,0,Derby County,1.1,0.9,36,18767.0,Joe Ralls,5-3-2,Andrew Davies,Match Report,,14,4,22.1,1.0,0,0,2021,Cardiff City
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,W,2,1,QPR,0.8,1.7,29,16170.0,Joe Ralls,3-5-2,Michael Salisbury,Match Report,,11,4,21.3,1.0,0,0,2021,Cardiff City
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,D,0,0,Preston,0.5,1.1,43,19743.0,Joe Ralls,5-3-2,James Linington,Match Report,,9,3,17.4,0.0,0,0,2021,Cardiff City
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,W,2,1,Stoke City,1.8,0.8,41,17184.0,Joe Ralls,5-3-2,Andy Woolmer,Match Report,,12,6,14.2,0.0,0,0,2021,Cardiff City
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,L,0,4,Swansea City,0.6,1.7,42,27280.0,Joe Ralls,5-3-2,Joshua Smith,Match Report,,10,2,16.3,0.0,0,0,2021,Cardiff City
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,W,2,1,Reading,1.1,1.0,57,19039.0,Joe Ralls,4-2-3-1,Michael Salisbury,Match Report,,7,3,15.9,0.0,0,0,2021,Cardiff City
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,L,1,2,Hull City,1.9,1.9,55,15685.0,Aden Flint,3-4-3,Steve Martin,Match Report,,11,4,19.0,0.0,0,0,2021,Cardiff City
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,L,0,1,Luton Town,1.3,0.6,62,19381.0,Curtis Nelson,4-2-3-1,Andrew Davies,Match Report,,13,3,15.4,0.0,0,0,2021,Cardiff City
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,L,0,1,Sheffield Utd,0.6,1.0,45,26802.0,Joe Ralls,3-4-1-2,Oliver Langford,Match Report,,5,1,18.2,0.0,0,0,2021,Cardiff City
+2022-04-27,19:45,Championship,Matchweek 39,Wed,Away,L,0,2,Middlesbrough,1.0,1.3,54,19727.0,Curtis Nelson,4-3-1-2,Matt Donohue,Match Report,,8,4,14.9,0.0,0,0,2021,Cardiff City
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,D,1,1,Birmingham City,1.7,0.7,63,21395.0,Curtis Nelson,5-3-2,John Busby,Match Report,,11,4,20.1,1.0,1,1,2021,Cardiff City
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,W,1,0,Derby County,0.9,1.1,32,29402.0,Aden Flint,5-3-2,Keith Stroud,Match Report,,3,1,21.6,0.0,0,0,2021,Cardiff City
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,W,4,1,Preston,1.4,0.9,53,12452.0,Richard Smallwood,4-2-3-1,Gavin Ward,Match Report,,16,5,20.2,0.0,0,0,2021,Hull City
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,L,0,3,QPR,1.0,1.6,46,10728.0,Richard Smallwood,4-2-3-1,Matt Donohue,Match Report,,12,3,15.6,0.0,0,0,2021,Hull City
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Home,L,0,1,Derby County,0.6,1.4,50,10451.0,Richard Smallwood,4-2-3-1,Dean Whitestone,Match Report,,9,2,20.2,0.0,0,0,2021,Hull City
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,L,0,2,Fulham,0.5,1.4,38,16189.0,Richard Smallwood,4-2-3-1,Tim Robinson,Match Report,,8,3,22.8,1.0,0,0,2021,Hull City
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,D,0,0,Bournemouth,0.3,1.7,43,10199.0,Lewie Coyle,4-2-3-1,Geoff Eltringham,Match Report,,3,0,12.3,0.0,0,0,2021,Hull City
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,D,0,0,Swansea City,0.1,1.0,32,16317.0,Lewie Coyle,4-2-3-1,Keith Stroud,Match Report,,4,1,26.3,0.0,0,0,2021,Hull City
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Away,L,0,2,Blackburn,0.9,1.6,55,9140.0,Richard Smallwood,4-2-3-1,John Brooks,Match Report,,16,4,21.7,0.0,0,0,2021,Hull City
+2021-09-18,12:30,Championship,Matchweek 8,Sat,Home,L,1,3,Sheffield Utd,1.5,2.3,40,14451.0,Richard Smallwood,4-2-3-1,Dean Whitestone,Match Report,,10,5,17.9,0.0,0,0,2021,Hull City
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,L,0,2,Stoke City,1.0,1.0,50,20124.0,Richard Smallwood,4-3-3,Thomas Bramall,Match Report,,12,4,19.7,0.0,0,0,2021,Hull City
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Home,D,1,1,Blackpool,1.4,0.8,62,10189.0,Lewie Coyle,4-2-3-1,Matt Donohue,Match Report,,15,3,17.6,0.0,0,0,2021,Hull City
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,W,2,0,Middlesbrough,0.9,1.5,45,13696.0,Richard Smallwood,3-4-1-2,Andrew Davies,Match Report,,9,2,19.1,1.0,0,0,2021,Hull City
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,L,0,2,Huddersfield,0.5,1.2,59,17510.0,Richard Smallwood,4-2-3-1,Robert Jones,Match Report,,9,2,18.0,1.0,0,0,2021,Hull City
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Home,L,1,2,P'borough Utd,2.8,0.8,53,10245.0,Lewie Coyle,4-2-3-1,Leigh Doughty,Match Report,,17,4,14.6,0.0,0,1,2021,Hull City
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,0,1,Luton Town,0.5,1.6,54,9999.0,Richard Smallwood,4-2-3-1,John Busby,Match Report,,10,1,20.8,1.0,0,0,2021,Hull City
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,L,0,1,Coventry City,0.7,1.2,49,11901.0,Richard Smallwood,4-1-2-1-2◆,David Webb,Match Report,,13,4,19.2,0.0,0,0,2021,Hull City
+2021-11-03,20:00,Championship,Matchweek 16,Wed,Away,L,0,1,West Brom,1.0,2.6,33,19659.0,Richard Smallwood,4-2-3-1,Dean Whitestone,Match Report,,9,1,17.9,0.0,0,0,2021,Hull City
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,W,2,0,Barnsley,2.1,1.2,47,13003.0,Richard Smallwood,4-2-3-1,Steve Martin,Match Report,,19,4,17.4,0.0,0,0,2021,Hull City
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,W,2,0,Birmingham City,2.4,0.6,50,12409.0,Richard Smallwood,3-4-1-2,Tony Harrington,Match Report,,18,5,15.0,0.0,0,0,2021,Hull City
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,W,1,0,Cardiff City,1.6,1.1,38,17180.0,Richard Smallwood,3-4-1-2,Thomas Bramall,Match Report,,6,1,10.9,0.0,0,0,2021,Hull City
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,W,2,1,Millwall,1.6,1.4,41,10613.0,Richard Smallwood,3-4-1-2,Joshua Smith,Match Report,,10,3,16.0,0.0,0,0,2021,Hull City
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,D,1,1,Reading,1.2,1.4,44,11827.0,Richard Smallwood,3-4-1-2,Steve Martin,Match Report,,11,2,16.8,0.0,0,0,2021,Hull City
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,D,2,2,Bristol City,1.5,0.9,50,10446.0,Richard Smallwood,3-4-1-2,Gavin Ward,Match Report,,13,5,17.9,0.0,0,0,2021,Hull City
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Away,L,1,2,Nott'ham Forest,0.7,1.7,47,26513.0,Richard Smallwood,3-4-1-2,John Busby,Match Report,,11,2,16.0,1.0,0,0,2021,Hull City
+2022-01-01,15:00,Championship,Matchweek 26,Sat,Away,L,0,1,Blackpool,1.8,1.4,52,11300.0,Richard Smallwood,3-4-1-2,Dean Whitestone,Match Report,,14,6,19.3,0.0,0,0,2021,Hull City
+2022-01-16,12:00,Championship,Matchweek 27,Sun,Home,L,0,2,Stoke City,0.4,2.3,55,11067.0,George Honeyman,3-4-1-2,Joshua Smith,Match Report,,5,1,15.6,0.0,0,0,2021,Hull City
+2022-01-19,19:45,Championship,Matchweek 24,Wed,Home,W,2,0,Blackburn,2.1,1.4,48,13950.0,Richard Smallwood,3-4-1-2,Thomas Bramall,Match Report,,14,5,14.7,1.0,0,0,2021,Hull City
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,W,1,0,Bournemouth,0.5,1.7,32,8823.0,Richard Smallwood,3-4-1-2,Matt Donohue,Match Report,,6,4,20.7,0.0,0,0,2021,Hull City
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,W,2,0,Swansea City,0.8,1.6,35,13101.0,Richard Smallwood,3-4-1-2,Leigh Doughty,Match Report,,5,2,17.8,0.0,0,0,2021,Hull City
+2022-02-05,15:00,Championship,Matchweek 30,Sat,Home,L,0,1,Preston,0.8,1.3,49,14273.0,Richard Smallwood,3-4-3,Darren Bond,Match Report,,10,2,14.0,0.0,0,0,2021,Hull City
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Away,L,1,3,Derby County,0.9,1.1,55,22595.0,George Honeyman,3-4-1-2,Geoff Eltringham,Match Report,,9,2,13.4,0.0,0,0,2021,Hull City
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,L,0,1,Fulham,0.3,1.3,48,13022.0,Richard Smallwood,4-4-1-1,Andy Woolmer,Match Report,,8,2,20.1,0.0,0,0,2021,Hull City
+2022-02-15,19:45,Championship,Matchweek 25,Tue,Away,D,0,0,Sheffield Utd,0.7,2.0,30,27601.0,Richard Smallwood,4-4-1-1,Oliver Langford,Match Report,,8,1,21.1,1.0,0,0,2021,Hull City
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,D,1,1,QPR,0.7,1.1,32,14945.0,Richard Smallwood,4-2-3-1,Tim Robinson,Match Report,,6,2,14.6,0.0,0,0,2021,Hull City
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Home,L,0,2,Barnsley,1.0,0.7,62,16421.0,Richard Smallwood,4-2-3-1,Steve Martin,Match Report,,6,3,12.7,0.0,0,0,2021,Hull City
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,W,3,0,P'borough Utd,1.4,0.2,41,9463.0,Richard Smallwood,3-4-3,Tony Harrington,Match Report,,11,6,18.1,2.0,0,0,2021,Hull City
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,L,0,2,West Brom,0.9,1.6,55,13643.0,Richard Smallwood,3-4-3,James Linington,Match Report,,13,2,16.7,0.0,0,0,2021,Hull City
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,D,0,0,Birmingham City,0.8,0.9,49,17231.0,Richard Smallwood,3-4-3,Michael Salisbury,Match Report,,8,2,15.7,0.0,0,0,2021,Hull City
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Away,W,2,0,Coventry City,0.9,1.7,37,15587.0,Richard Smallwood,3-4-3,John Busby,Match Report,,12,6,18.3,0.0,0,0,2021,Hull City
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Home,L,1,3,Luton Town,1.9,1.6,59,16555.0,Richard Smallwood,3-4-3,Tony Harrington,Match Report,,15,4,16.5,1.0,0,0,2021,Hull City
+2022-04-01,19:45,Championship,Matchweek 40,Fri,Home,L,0,1,Huddersfield,0.6,2.7,46,12764.0,Richard Smallwood,3-4-3,Jeremy Simpson,Match Report,,6,1,17.6,1.0,0,0,2021,Hull City
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,W,1,0,Middlesbrough,0.4,0.6,39,24603.0,Richard Smallwood,3-4-3,Andy Woolmer,Match Report,,5,2,20.4,0.0,0,0,2021,Hull City
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,W,2,1,Cardiff City,1.9,1.9,45,15685.0,Richard Smallwood,3-4-3,Steve Martin,Match Report,,8,3,13.5,0.0,0,0,2021,Hull City
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,L,1,2,Millwall,0.9,1.9,56,12776.0,Richard Smallwood,3-4-3,Dean Whitestone,Match Report,,9,4,16.7,0.0,0,0,2021,Hull City
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,W,3,0,Reading,1.5,1.6,51,12211.0,Richard Smallwood,3-4-3,Tim Robinson,Match Report,,9,3,11.6,0.0,0,0,2021,Hull City
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,L,0,5,Bristol City,0.5,2.2,51,21799.0,Richard Smallwood,3-4-3,Ben Toner,Match Report,,12,5,23.2,0.0,0,0,2021,Hull City
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,D,1,1,Nott'ham Forest,1.4,2.9,39,18399.0,Richard Smallwood,3-4-3,Simon Hooper,Match Report,,7,3,12.6,0.0,0,0,2021,Hull City
+2021-08-07,20:00,Championship,Matchweek 1,Sat,Away,W,1,0,Sheffield Utd,1.1,0.9,26,29043.0,Harlee Dean,3-5-2,Tim Robinson,Match Report,,9,2,14.1,0.0,0,0,2021,Birmingham City
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,D,0,0,Stoke City,0.7,0.5,45,10189.0,Harlee Dean,4-1-2-1-2◆,Gavin Ward,Match Report,,9,2,13.5,0.0,0,0,2021,Birmingham City
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Home,L,0,2,Bournemouth,0.6,0.6,36,9922.0,Harlee Dean,3-4-3,Andrew Davies,Match Report,,9,3,18.9,0.0,0,0,2021,Birmingham City
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,W,5,0,Luton Town,3.5,1.5,54,10014.0,Harlee Dean,3-4-3,John Busby,Match Report,,20,8,12.5,0.0,0,0,2021,Birmingham City
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,D,1,1,Barnsley,2.5,0.3,51,13950.0,Harlee Dean,3-4-3,Matt Donohue,Match Report,,14,4,12.9,0.0,0,0,2021,Birmingham City
+2021-09-10,20:00,Championship,Matchweek 6,Fri,Home,W,2,0,Derby County,2.0,0.5,34,14912.0,Harlee Dean,3-4-3,Gavin Ward,Match Report,,13,4,14.4,0.0,0,0,2021,Birmingham City
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Home,L,1,4,Fulham,1.8,2.9,51,14562.0,Harlee Dean,3-4-3,David Webb,Match Report,,17,6,17.3,1.0,1,1,2021,Birmingham City
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,L,0,3,P'borough Utd,1.7,1.3,41,12199.0,Harlee Dean,4-4-2,Jarred Gillett,Match Report,,13,2,13.5,0.0,0,0,2021,Birmingham City
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,D,0,0,Preston,0.5,0.7,50,14925.0,Harlee Dean,3-4-1-2,Matt Donohue,Match Report,,6,2,13.3,0.0,0,0,2021,Birmingham City
+2021-09-28,19:45,Championship,Matchweek 10,Tue,Away,L,0,2,QPR,1.7,1.2,49,12257.0,Harlee Dean,3-4-1-2,Michael Salisbury,Match Report,,13,0,16.9,0.0,0,0,2021,Birmingham City
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,L,0,3,Nott'ham Forest,2.1,1.1,52,15148.0,Harlee Dean,3-4-1-2,Keith Stroud,Match Report,,18,8,14.9,1.0,0,0,2021,Birmingham City
+2021-10-15,20:00,Championship,Matchweek 12,Fri,Away,L,0,1,West Brom,0.9,0.7,35,24870.0,Lukas Jutkiewicz,3-4-3,Jeremy Simpson,Match Report,,10,1,18.0,0.0,0,0,2021,Birmingham City
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Away,D,0,0,Huddersfield,0.5,0.9,34,15618.0,Lukas Jutkiewicz,3-5-2,Andy Woolmer,Match Report,,6,2,12.8,0.0,0,0,2021,Birmingham City
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,2,1,Swansea City,1.8,1.6,29,16132.0,Troy Deeney,3-4-3,Oliver Langford,Match Report,,15,6,16.4,1.0,0,0,2021,Birmingham City
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,W,2,0,Middlesbrough,1.0,0.8,44,21582.0,Troy Deeney,3-4-3,Joshua Smith,Match Report,,8,3,15.5,0.0,0,0,2021,Birmingham City
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Home,W,3,0,Bristol City,1.3,0.8,41,16143.0,Troy Deeney,3-4-1-2,Simon Hooper,Match Report,,14,3,19.6,1.0,0,0,2021,Birmingham City
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,L,1,2,Reading,1.4,1.3,38,17535.0,Harlee Dean,3-4-1-2,Thomas Bramall,Match Report,,17,2,19.2,0.0,0,0,2021,Birmingham City
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,L,0,2,Hull City,0.6,2.4,50,12409.0,Harlee Dean,3-4-1-2,Tony Harrington,Match Report,,8,5,22.6,1.0,0,0,2021,Birmingham City
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Away,D,0,0,Coventry City,0.5,0.9,37,22676.0,Harlee Dean,3-4-1-2,Leigh Doughty,Match Report,,6,1,18.1,0.0,0,0,2021,Birmingham City
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,W,1,0,Blackpool,1.3,0.5,45,17686.0,Troy Deeney,3-5-2,Matt Donohue,Match Report,,9,3,18.4,0.0,0,0,2021,Birmingham City
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,L,1,3,Millwall,1.5,1.8,49,14324.0,Troy Deeney,3-5-2,Andy Woolmer,Match Report,,16,3,17.7,0.0,0,0,2021,Birmingham City
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,D,2,2,Cardiff City,2.2,1.8,42,17840.0,Troy Deeney,3-4-1-2,Jeremy Simpson,Match Report,,12,4,14.8,1.0,0,0,2021,Birmingham City
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Away,L,0,4,Blackburn,0.8,4.3,54,12148.0,Troy Deeney,3-5-2,Geoff Eltringham,Match Report,,8,2,20.5,2.0,0,0,2021,Birmingham City
+2022-01-02,14:00,Championship,Matchweek 26,Sun,Home,L,1,2,QPR,1.1,0.7,59,18279.0,Troy Deeney,3-5-2,Matt Donohue,Match Report,,8,1,15.6,1.0,0,0,2021,Birmingham City
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,D,1,1,Preston,1.8,1.1,46,12821.0,Lukas Jutkiewicz,3-5-2,Andrew Davies,Match Report,,16,2,15.9,0.0,0,0,2021,Birmingham City
+2022-01-18,19:45,Championship,Matchweek 24,Tue,Away,L,2,6,Fulham,0.8,1.8,39,16491.0,Lukas Jutkiewicz,5-3-2,Gavin Ward,Match Report,,14,6,21.7,1.0,0,0,2021,Birmingham City
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,W,2,1,Barnsley,2.0,0.7,49,15742.0,Lukas Jutkiewicz,4-3-3,Tony Harrington,Match Report,,11,5,14.6,0.0,0,0,2021,Birmingham City
+2022-01-25,19:45,Championship,Matchweek 25,Tue,Home,D,2,2,P'borough Utd,1.4,1.8,50,16380.0,Lukas Jutkiewicz,4-2-3-1,Oliver Langford,Match Report,,12,3,15.0,1.0,0,0,2021,Birmingham City
+2022-01-30,13:30,Championship,Matchweek 29,Sun,Away,D,2,2,Derby County,1.9,1.9,39,32211.0,Marc Roberts,4-3-1-2,John Brooks,Match Report,,13,4,18.4,0.0,0,0,2021,Birmingham City
+2022-02-04,19:45,Championship,Matchweek 30,Fri,Home,L,1,2,Sheffield Utd,0.5,1.3,47,17194.0,Marc Roberts,4-1-3-2,Keith Stroud,Match Report,,7,2,15.9,0.0,0,0,2021,Birmingham City
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,L,1,3,Bournemouth,1.2,1.3,47,8708.0,Gary Gardner,3-4-1-2,James Linington,Match Report,,10,5,16.1,0.0,0,0,2021,Birmingham City
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,W,3,0,Luton Town,1.2,0.6,42,17292.0,Gary Gardner,3-4-1-2,Darren Bond,Match Report,,9,5,16.9,0.0,0,0,2021,Birmingham City
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,D,2,2,Stoke City,0.9,1.0,29,23502.0,Gary Gardner,4-3-3,Andrew Davies,Match Report,,8,3,18.7,0.0,0,0,2021,Birmingham City
+2022-02-22,20:00,Championship,Matchweek 34,Tue,Away,L,1,2,Reading,1.2,1.7,54,12073.0,Gary Gardner,4-3-3,Simon Hooper,Match Report,,16,7,21.1,0.0,0,0,2021,Birmingham City
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,L,0,2,Huddersfield,0.4,1.6,59,17318.0,Gary Gardner,4-4-2,David Webb,Match Report,,11,2,22.2,0.0,0,0,2021,Birmingham City
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,W,2,1,Bristol City,0.6,1.4,42,21942.0,Gary Gardner,5-3-2,Thomas Bramall,Match Report,,13,6,21.5,0.0,0,0,2021,Birmingham City
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,D,0,0,Hull City,0.9,0.8,51,17231.0,Gary Gardner,3-5-2,Michael Salisbury,Match Report,,13,1,15.5,0.0,0,0,2021,Birmingham City
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Home,L,0,2,Middlesbrough,1.0,1.9,50,15852.0,Gary Gardner,3-5-2,Darren Bond,Match Report,,8,0,13.7,0.0,0,0,2021,Birmingham City
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Away,D,0,0,Swansea City,2.7,0.6,36,18620.0,Gary Gardner,3-5-2,Jeremy Simpson,Match Report,,16,4,13.4,0.0,0,0,2021,Birmingham City
+2022-04-03,15:00,Championship,Matchweek 40,Sun,Home,W,1,0,West Brom,0.9,0.6,43,17936.0,Gary Gardner,3-4-3,Dean Whitestone,Match Report,,2,1,24.7,0.0,1,1,2021,Birmingham City
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,L,0,2,Nott'ham Forest,1.0,1.3,47,29293.0,Gary Gardner,3-5-2,Gavin Ward,Match Report,,7,2,11.7,0.0,0,0,2021,Birmingham City
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,L,2,4,Coventry City,1.5,2.7,47,17634.0,Gary Gardner,3-4-1-2,Oliver Langford,Match Report,,12,2,18.1,1.0,0,0,2021,Birmingham City
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,L,1,6,Blackpool,1.2,2.6,42,13993.0,Troy Deeney,4-4-2,Tim Robinson,Match Report,,11,6,18.2,0.0,0,0,2021,Birmingham City
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,D,2,2,Millwall,2.3,2.1,45,17206.0,Gary Gardner,3-4-1-2,Leigh Doughty,Match Report,,14,2,19.9,1.0,1,1,2021,Birmingham City
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,D,1,1,Cardiff City,0.7,1.7,37,21395.0,Gary Gardner,3-4-1-2,John Busby,Match Report,,13,4,17.9,1.0,0,0,2021,Birmingham City
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,L,1,2,Blackburn,1.0,1.4,50,18659.0,Marc Roberts,4-1-4-1,Andrew Davies,Match Report,,14,5,17.9,1.0,0,0,2021,Birmingham City
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,L,2,3,Stoke City,1.0,2.0,54,9068.0,Liam Moore,4-2-3-1,Matt Donohue,Match Report,,11,5,17.1,1.0,0,0,2021,Reading
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,W,2,1,Preston,1.7,1.6,44,12156.0,Liam Moore,4-2-3-1,Joshua Smith,Match Report,,12,2,18.0,1.0,0,0,2021,Reading
+2021-08-17,20:00,Championship,Matchweek 3,Tue,Home,L,2,3,Bristol City,0.9,1.6,67,14207.0,Liam Moore,4-2-3-1,Andy Woolmer,Match Report,,11,3,18.5,0.0,0,0,2021,Reading
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,L,1,2,Coventry City,1.1,2.4,43,16464.0,Liam Moore,4-2-3-1,David Webb,Match Report,,6,1,22.9,1.0,1,1,2021,Reading
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,L,0,4,Huddersfield,0.6,2.6,49,14613.0,Liam Moore,4-2-3-1,Leigh Doughty,Match Report,,7,1,16.4,0.0,0,0,2021,Reading
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,D,3,3,QPR,1.5,2.6,39,14928.0,Liam Moore,4-2-3-1,Geoff Eltringham,Match Report,,12,4,18.0,1.0,0,0,2021,Reading
+2021-09-14,20:00,Championship,Matchweek 7,Tue,Home,W,3,1,P'borough Utd,0.6,0.6,48,11411.0,Liam Moore,4-2-3-1,Tim Robinson,Match Report,,12,6,23.9,1.0,0,0,2021,Reading
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,W,2,1,Fulham,1.3,3.0,35,18901.0,Michael Morrison,4-2-3-1,Steve Martin,Match Report,,8,4,17.3,1.0,0,0,2021,Reading
+2021-09-25,12:30,Championship,Matchweek 9,Sat,Home,W,1,0,Middlesbrough,1.6,1.0,54,12469.0,Andy Yiadom,4-2-3-1,Peter Bankes,Match Report,,13,5,21.1,2.0,0,0,2021,Reading
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,L,0,1,Derby County,1.0,1.3,54,18769.0,Andy Yiadom,4-2-3-1,John Busby,Match Report,,16,7,19.7,0.0,0,0,2021,Reading
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,W,1,0,Cardiff City,0.2,2.6,50,18400.0,Liam Moore,4-2-3-1,Thomas Bramall,Match Report,,2,1,16.4,0.0,0,0,2021,Reading
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,W,1,0,Barnsley,1.1,1.2,48,12199.0,Liam Moore,4-2-3-1,Andrew Davies,Match Report,,10,6,22.0,1.0,0,0,2021,Reading
+2021-10-20,20:00,Championship,Matchweek 13,Wed,Home,L,2,3,Blackpool,1.1,2.5,45,13756.0,Liam Moore,4-2-3-1,Jeremy Simpson,Match Report,,4,3,17.6,0.0,0,0,2021,Reading
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,L,0,2,Blackburn,0.5,2.5,62,10517.0,Liam Moore,4-3-3,Tony Harrington,Match Report,,12,2,21.6,1.0,0,0,2021,Reading
+2021-10-30,20:00,Championship,Matchweek 15,Sat,Home,L,0,2,Bournemouth,1.0,1.0,49,13551.0,Liam Moore,4-2-3-1,Oliver Langford,Match Report,,9,1,17.1,0.0,0,0,2021,Reading
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Away,L,0,1,Millwall,0.6,2.2,56,11004.0,Liam Moore,3-5-1-1,Gavin Ward,Match Report,,9,0,18.7,1.0,0,0,2021,Reading
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,W,2,1,Birmingham City,1.3,1.4,62,17535.0,Liam Moore,3-5-1-1,Thomas Bramall,Match Report,,14,5,17.0,1.0,0,0,2021,Reading
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Home,D,1,1,Nott'ham Forest,1.1,1.2,57,14907.0,Liam Moore,4-1-4-1,Andy Woolmer,Match Report,,12,6,19.3,0.0,0,0,2021,Reading
+2021-11-23,20:00,Championship,Matchweek 19,Tue,Home,L,0,1,Sheffield Utd,0.5,1.0,46,10247.0,Liam Moore,4-1-4-1,Andrew Davies,Match Report,,6,2,16.2,0.0,0,0,2021,Reading
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,W,3,2,Swansea City,1.2,1.6,27,16980.0,Andy Yiadom,4-1-4-1,Tony Harrington,Match Report,,9,6,17.4,1.0,0,0,2021,Reading
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,D,1,1,Hull City,1.4,1.2,56,11827.0,Andy Yiadom,4-1-4-1,Steve Martin,Match Report,,18,7,19.8,0.0,0,0,2021,Reading
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,L,0,1,West Brom,0.5,3.1,44,11109.0,Liam Moore,3-4-3,David Webb,Match Report,,4,0,20.3,0.0,0,0,2021,Reading
+2022-01-03,15:00,Championship,Matchweek 26,Mon,Home,D,2,2,Derby County,0.6,0.9,30,12512.0,Josh Laurent,4-2-3-1,John Busby,Match Report,,9,3,15.6,0.0,0,0,2021,Reading
+2022-01-11,20:00,Championship,Matchweek 25,Tue,Home,L,0,7,Fulham,0.3,4.7,33,11472.0,Josh Laurent,4-2-3-1,Tony Harrington,Match Report,,3,1,20.3,0.0,0,0,2021,Reading
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,L,1,2,Middlesbrough,0.8,2.2,37,21634.0,Josh Laurent,4-2-3-1,James Linington,Match Report,,10,4,19.2,1.0,0,0,2021,Reading
+2022-01-19,20:00,Championship,Matchweek 23,Wed,Home,L,0,2,Luton Town,0.3,1.7,56,9611.0,Michael Morrison,4-2-3-1,Tim Robinson,Match Report,,8,4,19.1,0.0,0,0,2021,Reading
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,L,3,4,Huddersfield,1.8,1.6,52,10796.0,Michael Morrison,4-2-3-1,Robert Jones,Match Report,,14,4,15.5,0.0,0,0,2021,Reading
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,L,0,4,QPR,1.1,1.5,54,16057.0,Michael Morrison,4-2-3-1,Jeremy Simpson,Match Report,,18,3,20.3,4.0,0,0,2021,Reading
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,L,1,2,Bristol City,2.4,1.3,53,17798.0,Michael Morrison,4-2-3-1,Oliver Langford,Match Report,,17,3,18.4,0.0,1,1,2021,Reading
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,L,2,3,Coventry City,1.2,1.5,47,12873.0,Michael Morrison,4-2-3-1,David Webb,Match Report,,12,4,19.9,1.0,0,0,2021,Reading
+2022-02-16,19:45,Championship,Matchweek 24,Wed,Away,D,0,0,P'borough Utd,0.8,1.0,46,11520.0,Michael Morrison,4-2-3-1,Matt Donohue,Match Report,,8,4,18.5,1.0,0,0,2021,Reading
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,W,3,2,Preston,2.1,1.9,41,12817.0,Michael Morrison,4-2-3-1,John Busby,Match Report,,13,9,13.6,2.0,0,0,2021,Reading
+2022-02-22,20:00,Championship,Matchweek 34,Tue,Home,W,2,1,Birmingham City,1.7,1.2,46,12073.0,Michael Morrison,4-2-3-1,Simon Hooper,Match Report,,8,2,20.0,1.0,1,1,2021,Reading
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,L,1,4,Blackpool,1.4,1.9,58,10954.0,Michael Morrison,4-2-3-1,Peter Bankes,Match Report,,15,3,19.5,2.0,0,0,2021,Reading
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,L,0,1,Millwall,0.7,0.5,54,14169.0,Michael Morrison,4-2-3-1,Andy Woolmer,Match Report,,11,3,22.6,1.0,0,0,2021,Reading
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,L,0,4,Nott'ham Forest,0.8,0.9,39,28128.0,Michael Morrison,4-2-3-1,Thomas Bramall,Match Report,,7,3,13.4,0.0,0,0,2021,Reading
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Away,D,1,1,Bournemouth,0.5,0.9,51,9085.0,Michael Morrison,4-2-3-1,Leigh Doughty,Match Report,,8,3,19.8,0.0,0,0,2021,Reading
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Home,W,1,0,Blackburn,1.0,1.1,41,12805.0,Michael Morrison,4-2-3-1,James Linington,Match Report,,8,6,16.2,0.0,0,0,2021,Reading
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Away,D,1,1,Barnsley,1.1,0.4,62,14149.0,Michael Morrison,4-2-3-1,David Webb,Match Report,,13,4,14.3,0.0,0,0,2021,Reading
+2022-04-05,20:00,Championship,Matchweek 30,Tue,Home,W,2,1,Stoke City,1.7,1.0,41,9928.0,Michael Morrison,4-2-3-1,Dean Whitestone,Match Report,,9,3,11.2,0.0,0,0,2021,Reading
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,L,1,2,Cardiff City,1.0,1.1,43,19039.0,Michael Morrison,4-2-3-1,Michael Salisbury,Match Report,,10,2,16.2,0.0,0,0,2021,Reading
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,W,2,1,Sheffield Utd,1.3,1.8,32,29125.0,Michael Morrison,4-4-2,Gavin Ward,Match Report,,8,3,16.8,0.0,0,0,2021,Reading
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,D,4,4,Swansea City,2.7,1.6,37,14145.0,Michael Morrison,4-4-2,Kevin Friend,Match Report,,9,4,14.2,0.0,1,1,2021,Reading
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,L,0,3,Hull City,1.6,1.5,49,12211.0,Michael Morrison,4-4-2,Tim Robinson,Match Report,,13,4,12.9,0.0,0,0,2021,Reading
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,L,0,1,West Brom,0.5,1.5,48,15509.0,Michael Morrison,4-4-2,Matt Donohue,Match Report,,6,0,14.4,0.0,0,0,2021,Reading
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,L,0,1,Luton Town,0.6,1.6,56,10070.0,Michael Morrison,4-2-3-1,Jeremy Simpson,Match Report,,8,2,19.0,0.0,0,0,2021,Reading
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,L,0,3,Luton Town,0.2,2.2,51,10019.0,Mark Beevers,4-4-2,Andy Woolmer,Match Report,,4,1,20.4,0.0,0,0,2021,Peterborough United
+2021-08-14,12:30,Championship,Matchweek 2,Sat,Home,W,2,1,Derby County,1.1,0.5,44,10477.0,Mark Beevers,3-4-1-2,David Webb,Match Report,,13,4,19.0,2.0,0,0,2021,Peterborough United
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Home,D,2,2,Cardiff City,1.2,1.6,56,8534.0,Mark Beevers,3-4-1-2,Thomas Bramall,Match Report,,8,3,13.8,0.0,0,0,2021,Peterborough United
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,L,0,1,Preston,1.5,1.6,57,9952.0,Nathan Thompson,3-4-1-2,Dean Whitestone,Match Report,,9,1,16.4,1.0,0,0,2021,Peterborough United
+2021-08-28,20:00,Championship,Matchweek 5,Sat,Home,L,0,1,West Brom,0.2,2.5,47,10163.0,Nathan Thompson,3-4-1-2,James Linington,Match Report,,5,1,22.4,0.0,0,0,2021,Peterborough United
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,L,2,6,Sheffield Utd,1.7,4.0,32,27359.0,Frankie Kent,3-4-1-2,Steve Martin,Match Report,,6,4,17.2,0.0,1,1,2021,Peterborough United
+2021-09-14,20:00,Championship,Matchweek 7,Tue,Away,L,1,3,Reading,0.6,0.6,52,11411.0,Nathan Thompson,4-4-2,Tim Robinson,Match Report,,6,3,19.9,1.0,0,0,2021,Peterborough United
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,W,3,0,Birmingham City,1.3,1.7,59,12199.0,Nathan Thompson,4-3-3,Jarred Gillett,Match Report,,8,1,24.8,0.0,1,1,2021,Peterborough United
+2021-09-24,19:45,Championship,Matchweek 9,Fri,Away,L,0,3,Coventry City,0.4,2.7,55,20652.0,Nathan Thompson,4-2-3-1,Geoff Eltringham,Match Report,,8,2,22.6,0.0,0,0,2021,Peterborough United
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Home,D,0,0,Bournemouth,0.1,1.5,39,8971.0,Nathan Thompson,4-4-1-1,Andy Woolmer,Match Report,,4,1,29.3,1.0,0,0,2021,Peterborough United
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,L,2,3,Bristol City,1.2,1.8,59,8560.0,Nathan Thompson,4-4-2,David Coote,Match Report,,15,3,19.3,1.0,0,0,2021,Peterborough United
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,L,0,2,Middlesbrough,0.3,2.6,59,19556.0,Mark Beevers,5-4-1,John Busby,Match Report,,6,0,23.3,0.0,0,0,2021,Peterborough United
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Away,W,2,1,Hull City,0.8,2.8,47,10245.0,Mark Beevers,3-4-3,Leigh Doughty,Match Report,,9,5,21.8,1.0,0,0,2021,Peterborough United
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,2,1,QPR,1.8,1.3,42,12035.0,Mark Beevers,3-4-3,Jarred Gillett,Match Report,,12,5,15.5,1.0,0,0,2021,Peterborough United
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,L,0,3,Swansea City,0.3,2.5,33,16639.0,Mark Beevers,3-4-3,Matt Donohue,Match Report,,2,1,15.1,0.0,0,0,2021,Peterborough United
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Home,D,1,1,Huddersfield,1.2,1.3,52,7983.0,Mark Beevers,3-4-3,Keith Stroud,Match Report,,9,5,16.0,0.0,0,0,2021,Peterborough United
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,L,0,1,Fulham,1.4,1.3,36,11214.0,Mark Beevers,4-4-2,Dean Whitestone,Match Report,,12,5,17.5,2.0,0,0,2021,Peterborough United
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,L,0,2,Stoke City,0.7,0.7,62,21285.0,Mark Beevers,3-4-1-2,Geoff Eltringham,Match Report,,14,1,19.1,1.0,0,0,2021,Peterborough United
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,L,0,4,Blackburn,1.0,2.2,49,9038.0,Mark Beevers,3-4-1-2,John Brooks,Match Report,,7,2,17.2,1.0,0,0,2021,Peterborough United
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,D,0,0,Barnsley,0.9,0.6,61,12264.0,Nathan Thompson,3-4-1-2,John Busby,Match Report,,12,2,18.4,2.0,0,0,2021,Peterborough United
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,L,0,2,Nott'ham Forest,0.9,2.0,45,28308.0,Nathan Thompson,3-4-1-2,Thomas Bramall,Match Report,,10,2,22.3,2.0,0,0,2021,Peterborough United
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,W,2,1,Millwall,2.1,1.7,63,9140.0,Oliver Norburn,4-1-2-1-2◆,Leigh Doughty,Match Report,,21,7,18.5,2.0,0,0,2021,Peterborough United
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Away,L,1,3,Blackpool,0.7,2.0,60,9745.0,Oliver Norburn,4-3-1-2,David Webb,Match Report,,9,1,24.2,0.0,0,0,2021,Peterborough United
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,L,1,4,Coventry City,0.8,3.0,49,10282.0,Oliver Norburn,4-3-1-2,Keith Stroud,Match Report,,9,4,21.4,0.0,0,0,2021,Peterborough United
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,L,0,3,West Brom,0.1,3.3,36,21251.0,Oliver Norburn,3-4-1-2,Jeremy Simpson,Match Report,,1,0,8.2,0.0,0,0,2021,Peterborough United
+2022-01-25,19:45,Championship,Matchweek 25,Tue,Away,D,2,2,Birmingham City,1.8,1.4,50,16380.0,Oliver Norburn,3-4-1-2,Oliver Langford,Match Report,,9,3,21.3,0.0,1,1,2021,Peterborough United
+2022-01-29,17:30,Championship,Matchweek 29,Sat,Home,L,0,2,Sheffield Utd,0.2,2.1,42,10152.0,Nathan Thompson,3-4-1-2,Dean Whitestone,Match Report,,3,2,24.7,0.0,0,0,2021,Peterborough United
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,L,0,4,Cardiff City,0.4,2.4,68,17297.0,Oliver Norburn,3-4-1-2,Kevin Friend,Match Report,,5,1,21.6,2.0,0,0,2021,Peterborough United
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,L,0,1,Preston,1.7,0.7,43,9072.0,Oliver Norburn,4-3-3,Tim Robinson,Match Report,,16,6,19.7,2.0,0,0,2021,Peterborough United
+2022-02-16,19:45,Championship,Matchweek 24,Wed,Home,D,0,0,Reading,1.0,0.8,54,11520.0,Oliver Norburn,4-3-3,Matt Donohue,Match Report,,16,8,21.2,1.0,0,0,2021,Peterborough United
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,L,0,1,Derby County,0.2,2.2,35,30251.0,Oliver Norburn,4-3-3,James Linington,Match Report,,5,0,22.1,0.0,0,0,2021,Peterborough United
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Away,L,1,2,Fulham,0.5,4.0,34,17387.0,Oliver Norburn,4-1-4-1,Jarred Gillett,Match Report,,6,2,21.5,1.0,0,0,2021,Peterborough United
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,L,0,3,Hull City,0.2,1.4,59,9463.0,Oliver Norburn,3-4-1-2,Tony Harrington,Match Report,,5,1,16.6,0.0,0,0,2021,Peterborough United
+2022-03-04,19:45,Championship,Matchweek 36,Fri,Away,L,0,3,Huddersfield,0.5,1.7,41,16023.0,Mark Beevers,3-4-3,Darren Bond,Match Report,,10,1,22.3,1.0,0,0,2021,Peterborough United
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Away,D,1,1,Bournemouth,0.8,1.8,34,8293.0,Oliver Norburn,3-4-1-2,Gavin Ward,Match Report,,6,2,15.8,0.0,0,0,2021,Peterborough United
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,D,2,2,Stoke City,1.2,2.2,40,9060.0,Oliver Norburn,3-4-1-2,Dean Whitestone,Match Report,,5,2,17.5,0.0,1,1,2021,Peterborough United
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,L,2,3,Swansea City,1.1,2.6,30,6832.0,Oliver Norburn,3-4-3,Oliver Langford,Match Report,,5,2,13.6,0.0,0,0,2021,Peterborough United
+2022-03-20,12:30,Championship,Matchweek 39,Sun,Away,W,3,1,QPR,1.9,1.5,41,13753.0,Oliver Norburn,3-4-1-2,David Webb,Match Report,,11,7,20.0,1.0,1,1,2021,Peterborough United
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,L,0,4,Middlesbrough,1.0,1.5,42,11755.0,Frankie Kent,3-4-1-2,Leigh Doughty,Match Report,,10,2,21.4,0.0,0,0,2021,Peterborough United
+2022-04-05,19:45,Championship,Matchweek 30,Tue,Home,D,1,1,Luton Town,1.8,1.7,48,10940.0,Frankie Kent,3-4-1-2,Thomas Bramall,Match Report,,18,6,18.0,0.0,0,0,2021,Peterborough United
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,D,1,1,Bristol City,1.6,2.6,47,19052.0,Jonson Clarke-Harris,4-2-3-1,John Brooks,Match Report,,17,5,23.8,1.0,0,0,2021,Peterborough United
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,W,2,1,Blackburn,2.0,0.8,54,9426.0,Jonson Clarke-Harris,4-3-3,Chris Kavanagh,Match Report,,15,9,17.5,1.0,0,0,2021,Peterborough United
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,W,2,0,Barnsley,1.1,2.2,41,12197.0,Jonson Clarke-Harris,3-4-1-2,Darren Bond,Match Report,,10,4,15.0,0.0,0,0,2021,Peterborough United
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,L,0,1,Nott'ham Forest,0.6,1.9,48,12870.0,Jonson Clarke-Harris,3-4-1-2,Michael Salisbury,Match Report,,12,5,21.2,1.0,0,0,2021,Peterborough United
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,L,0,3,Millwall,1.5,1.8,52,16705.0,Jonson Clarke-Harris,3-4-1-2,Geoff Eltringham,Match Report,,14,2,18.8,0.0,0,0,2021,Peterborough United
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,5,0,Blackpool,3.0,0.6,53,9118.0,Jonson Clarke-Harris,3-4-1-2,Andy Woolmer,Match Report,,17,10,13.5,0.0,0,0,2021,Peterborough United
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Home,D,1,1,Huddersfield,1.3,2.0,51,16249.0,Tom Lawrence,4-2-3-1,Geoff Eltringham,Match Report,,11,3,19.3,1.0,0,0,2021,Derby County
+2021-08-14,12:30,Championship,Matchweek 2,Sat,Away,L,1,2,P'borough Utd,0.5,1.1,56,10477.0,Tom Lawrence,4-2-3-1,David Webb,Match Report,,7,2,24.2,0.0,0,0,2021,Derby County
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Away,W,1,0,Hull City,1.4,0.6,50,10451.0,Curtis Davies,4-2-3-1,Dean Whitestone,Match Report,,13,5,17.6,1.0,0,0,2021,Derby County
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,D,0,0,Middlesbrough,0.6,0.9,51,16123.0,Curtis Davies,4-2-3-1,Andrew Davies,Match Report,,9,4,21.1,1.0,0,0,2021,Derby County
+2021-08-28,12:30,Championship,Matchweek 5,Sat,Home,D,1,1,Nott'ham Forest,1.2,0.7,51,22991.0,Tom Lawrence,4-2-3-1,Tim Robinson,Match Report,,13,4,18.7,1.0,0,0,2021,Derby County
+2021-09-10,20:00,Championship,Matchweek 6,Fri,Away,L,0,2,Birmingham City,0.5,2.0,66,14912.0,Tom Lawrence,4-3-3,Gavin Ward,Match Report,,7,2,22.5,1.0,0,0,2021,Derby County
+2021-09-14,20:00,Championship,Matchweek 7,Tue,Away,D,0,0,West Brom,0.1,2.4,38,21636.0,Curtis Davies,3-4-1-2,Kevin Friend,Match Report,,4,0,24.0,0.0,0,0,2021,Derby County
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,W,2,1,Stoke City,2.1,1.2,33,20545.0,Tom Lawrence,4-2-3-1,Jeremy Simpson,Match Report,,14,4,19.7,1.0,0,0,2021,Derby County
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,L,0,1,Sheffield Utd,0.8,2.7,32,27905.0,Tom Lawrence,4-2-3-1,David Webb,Match Report,,9,4,18.2,1.0,0,0,2021,Derby County
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Home,W,1,0,Reading,1.3,1.0,46,18769.0,Tom Lawrence,4-2-3-1,John Busby,Match Report,,14,5,18.8,1.0,0,0,2021,Derby County
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,D,0,0,Swansea City,0.5,1.1,25,21640.0,Tom Lawrence,4-2-3-1,Andy Madley,Match Report,,6,5,16.7,0.0,0,0,2021,Derby County
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,D,0,0,Preston,0.9,1.0,62,18092.0,Tom Lawrence,4-2-3-1,Joshua Smith,Match Report,,17,5,22.8,0.0,0,0,2021,Derby County
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Home,D,2,2,Luton Town,0.5,1.4,50,20258.0,Tom Lawrence,4-3-3,Geoff Eltringham,Match Report,,9,3,23.1,0.0,0,0,2021,Derby County
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Away,D,1,1,Coventry City,0.4,1.4,49,23829.0,Tom Lawrence,4-3-3,Dean Whitestone,Match Report,,7,1,20.7,1.0,0,0,2021,Derby County
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Home,L,1,2,Blackburn,1.0,2.5,63,22098.0,Tom Lawrence,4-4-2,Steve Martin,Match Report,,9,3,16.9,2.0,0,0,2021,Derby County
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Away,L,1,2,Barnsley,1.4,1.0,51,13786.0,Tom Lawrence,4-3-3,Robert Jones,Match Report,,15,4,15.4,0.0,0,0,2021,Derby County
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Away,D,1,1,Millwall,1.0,1.4,52,14372.0,Tom Lawrence,4-2-3-1,Tim Robinson,Match Report,,13,5,19.6,1.0,0,0,2021,Derby County
+2021-11-21,12:00,Championship,Matchweek 18,Sun,Home,W,3,2,Bournemouth,1.9,1.7,48,20764.0,Tom Lawrence,4-5-1,Gavin Ward,Match Report,,8,2,20.2,0.0,1,1,2021,Derby County
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,D,0,0,Fulham,0.4,2.2,40,16468.0,Tom Lawrence,4-3-3,Geoff Eltringham,Match Report,,4,2,19.2,0.0,0,0,2021,Derby County
+2021-11-29,19:45,Championship,Matchweek 20,Mon,Home,L,1,2,QPR,0.6,1.7,46,20003.0,Tom Lawrence,4-3-3,Jeremy Simpson,Match Report,,6,1,17.9,0.0,0,0,2021,Derby County
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Away,L,0,1,Bristol City,0.6,1.3,66,18732.0,Tom Lawrence,4-3-3,Graham Scott,Match Report,,9,1,22.9,0.0,0,0,2021,Derby County
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,W,1,0,Blackpool,1.5,0.4,52,21663.0,Tom Lawrence,3-5-2,Andy Woolmer,Match Report,,10,2,17.4,1.0,0,0,2021,Derby County
+2021-12-27,15:00,Championship,Matchweek 24,Mon,Home,W,1,0,West Brom,0.1,1.7,39,24846.0,Curtis Davies,3-4-3,James Linington,Match Report,,3,1,25.3,0.0,0,0,2021,Derby County
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Away,W,2,1,Stoke City,1.1,0.4,44,22235.0,Tom Lawrence,4-2-3-1,Matt Donohue,Match Report,,10,4,19.1,0.0,0,0,2021,Derby County
+2022-01-03,15:00,Championship,Matchweek 26,Mon,Away,D,2,2,Reading,0.9,0.6,70,12512.0,Tom Lawrence,4-4-1-1,John Busby,Match Report,,16,5,20.0,0.0,0,0,2021,Derby County
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Home,W,2,0,Sheffield Utd,0.4,0.9,45,24597.0,Tom Lawrence,4-3-3,Graham Scott,Match Report,,5,2,20.6,1.0,0,0,2021,Derby County
+2022-01-22,12:30,Championship,Matchweek 28,Sat,Away,L,1,2,Nott'ham Forest,1.3,1.9,53,29256.0,Tom Lawrence,4-4-1-1,Tim Robinson,Match Report,,3,0,24.5,0.0,1,1,2021,Derby County
+2022-01-30,13:30,Championship,Matchweek 29,Sun,Home,D,2,2,Birmingham City,1.9,1.9,61,32211.0,Tom Lawrence,4-2-3-1,John Brooks,Match Report,,16,6,15.6,1.0,0,0,2021,Derby County
+2022-02-02,19:45,Championship,Matchweek 30,Wed,Away,L,0,2,Huddersfield,0.0,1.6,29,16231.0,Tom Lawrence,4-4-1-1,Matt Donohue,Match Report,,1,0,19.6,0.0,0,0,2021,Derby County
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Home,W,3,1,Hull City,1.1,0.9,45,22595.0,Tom Lawrence,4-2-3-1,Geoff Eltringham,Match Report,,11,5,19.1,2.0,0,0,2021,Derby County
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,L,1,4,Middlesbrough,0.6,2.5,54,26266.0,Tom Lawrence,4-2-3-1,Mike Dean,Match Report,,6,1,13.7,0.0,0,0,2021,Derby County
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Home,W,1,0,P'borough Utd,2.2,0.2,65,30251.0,Tom Lawrence,4-2-3-1,James Linington,Match Report,,25,5,18.6,3.0,0,0,2021,Derby County
+2022-02-23,19:45,Championship,Matchweek 34,Wed,Home,L,1,2,Millwall,0.9,1.1,65,23943.0,Curtis Davies,4-2-3-1,Jeremy Simpson,Match Report,,14,3,20.9,2.0,0,0,2021,Derby County
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Away,L,0,1,Luton Town,0.8,0.9,46,10070.0,Curtis Davies,3-4-3,Andy Woolmer,Match Report,,5,1,21.0,1.0,0,0,2021,Derby County
+2022-03-01,19:45,Championship,Matchweek 23,Tue,Away,L,0,1,Cardiff City,0.9,1.1,64,18767.0,Curtis Davies,4-4-2,Andrew Davies,Match Report,,9,1,15.0,0.0,0,0,2021,Derby County
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Home,W,2,0,Barnsley,1.2,1.0,52,25891.0,Tom Lawrence,4-2-3-1,Robert Jones,Match Report,,9,2,18.8,0.0,0,0,2021,Derby County
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Away,L,0,2,Bournemouth,0.7,1.7,53,9834.0,Tom Lawrence,4-2-3-1,Andy Madley,Match Report,,8,3,17.6,0.0,0,0,2021,Derby County
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Away,L,1,3,Blackburn,1.5,2.0,58,12406.0,Tom Lawrence,4-2-3-1,Tony Harrington,Match Report,,11,2,19.9,0.0,0,0,2021,Derby County
+2022-03-19,12:30,Championship,Matchweek 39,Sat,Home,D,1,1,Coventry City,1.7,1.6,54,24264.0,Tom Lawrence,4-3-3,Darren Bond,Match Report,,14,5,22.1,3.0,1,1,2021,Derby County
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,W,1,0,Preston,1.8,0.6,53,23600.0,Tom Lawrence,4-2-3-1,Geoff Eltringham,Match Report,,22,13,19.3,2.0,0,0,2021,Derby County
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,L,1,2,Swansea City,1.4,0.9,46,18374.0,Tom Lawrence,4-2-3-1,Tim Robinson,Match Report,,7,2,16.7,0.0,1,1,2021,Derby County
+2022-04-15,20:00,Championship,Matchweek 42,Fri,Home,W,2,1,Fulham,0.6,2.5,48,23773.0,Tom Lawrence,4-2-3-1,Robert Jones,Match Report,,6,4,16.5,0.0,0,0,2021,Derby County
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,L,0,1,QPR,1.0,1.1,55,15298.0,Tom Lawrence,4-2-3-1,Joshua Smith,Match Report,,13,2,15.9,0.0,0,0,2021,Derby County
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,L,1,3,Bristol City,1.4,2.2,66,22753.0,Curtis Davies,4-2-3-1,Thomas Bramall,Match Report,,11,2,18.6,1.0,0,0,2021,Derby County
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,W,2,0,Blackpool,1.3,2.3,46,15298.0,Curtis Davies,4-2-3-1,Andrew Davies,Match Report,,9,4,17.1,0.0,0,0,2021,Derby County
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,L,0,1,Cardiff City,1.1,0.9,68,29402.0,Tom Lawrence,4-2-3-1,Keith Stroud,Match Report,,17,4,21.0,2.0,0,0,2021,Derby County
+2021-08-07,15:00,Championship,Matchweek 1,Sat,Away,D,1,1,Cardiff City,0.6,1.8,55,17431.0,Cauley Woodrow,3-4-3,Steve Martin,Match Report,,10,3,22.3,1.0,0,0,2021,Barnsley
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,W,1,0,Coventry City,0.6,2.0,38,16961.0,Cauley Woodrow,3-4-3,John Busby,Match Report,,8,1,17.7,1.0,0,0,2021,Barnsley
+2021-08-17,19:45,Championship,Matchweek 3,Tue,Home,L,0,1,Luton Town,1.2,0.9,69,12999.0,Cauley Woodrow,3-4-3,Oliver Langford,Match Report,,10,3,16.2,0.0,0,0,2021,Barnsley
+2021-08-21,12:30,Championship,Matchweek 4,Sat,Away,D,2,2,QPR,1.5,1.8,35,11882.0,Cauley Woodrow,3-4-3,Gavin Ward,Match Report,,12,4,19.5,0.0,0,0,2021,Barnsley
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Home,D,1,1,Birmingham City,0.3,2.5,49,13950.0,Cauley Woodrow,3-4-3,Matt Donohue,Match Report,,7,2,26.6,1.0,0,0,2021,Barnsley
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Away,L,0,3,Bournemouth,0.1,2.2,38,,Cauley Woodrow,3-4-3,James Linington,Match Report,,2,0,28.6,1.0,0,0,2021,Barnsley
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Away,D,1,1,Stoke City,0.8,2.4,41,17832.0,Cauley Woodrow,3-4-3,Leigh Doughty,Match Report,,9,4,22.6,2.0,0,0,2021,Barnsley
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Home,D,0,0,Blackburn,1.3,0.4,59,13640.0,Cauley Woodrow,3-4-3,Andy Woolmer,Match Report,,13,4,16.7,2.0,0,0,2021,Barnsley
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Away,L,0,1,Blackpool,1.1,1.5,59,12698.0,Cauley Woodrow,3-4-3,Steve Martin,Match Report,,13,4,21.4,0.0,0,0,2021,Barnsley
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Home,L,1,3,Nott'ham Forest,1.2,2.7,38,13657.0,Cauley Woodrow,3-4-3,Geoff Eltringham,Match Report,,7,2,18.4,0.0,1,1,2021,Barnsley
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,L,0,1,Millwall,1.0,1.9,44,11888.0,Cauley Woodrow,3-4-3,David Webb,Match Report,,14,3,20.2,0.0,0,0,2021,Barnsley
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,L,0,1,Reading,1.2,1.1,52,12199.0,Cauley Woodrow,3-4-3,Andrew Davies,Match Report,,16,7,23.1,3.0,0,0,2021,Barnsley
+2021-10-20,19:45,Championship,Matchweek 13,Wed,Away,L,0,2,Middlesbrough,0.9,2.6,58,17931.0,Cauley Woodrow,3-4-3,Andy Madley,Match Report,,9,3,16.8,0.0,0,0,2021,Barnsley
+2021-10-24,12:30,Championship,Matchweek 14,Sun,Home,L,2,3,Sheffield Utd,0.8,1.2,40,15720.0,Cauley Woodrow,3-4-3,Gavin Ward,Match Report,,11,4,16.1,1.0,0,0,2021,Barnsley
+2021-10-30,15:00,Championship,Matchweek 15,Sat,Away,L,1,2,Bristol City,2.7,1.3,56,19897.0,Cauley Woodrow,3-4-3,Thomas Bramall,Match Report,,18,6,16.5,0.0,0,0,2021,Barnsley
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Home,W,2,1,Derby County,1.0,1.4,49,13786.0,Cauley Woodrow,3-4-1-2,Robert Jones,Match Report,,9,4,16.8,1.0,0,0,2021,Barnsley
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,L,0,2,Hull City,1.2,2.1,53,13003.0,Cauley Woodrow,3-4-3,Steve Martin,Match Report,,13,6,16.4,0.0,0,0,2021,Barnsley
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,L,1,4,Fulham,1.2,2.9,35,18047.0,Cauley Woodrow,4-2-3-1,Joshua Smith,Match Report,,9,3,20.9,1.0,0,0,2021,Barnsley
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Home,L,0,2,Swansea City,0.2,1.1,21,11342.0,Cauley Woodrow,4-3-3,David Webb,Match Report,,3,1,21.7,1.0,0,0,2021,Barnsley
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Away,D,0,0,P'borough Utd,0.6,0.9,39,12264.0,Cauley Woodrow,4-3-3,John Busby,Match Report,,10,3,22.0,0.0,0,0,2021,Barnsley
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,D,1,1,Huddersfield,1.1,1.7,49,15190.0,Cauley Woodrow,3-4-3,Matt Donohue,Match Report,,13,2,19.2,0.0,0,0,2021,Barnsley
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,L,1,2,Preston,1.4,1.7,41,11106.0,Cauley Woodrow,3-4-3,Keith Stroud,Match Report,,13,4,17.2,0.0,0,0,2021,Barnsley
+2021-12-17,19:45,Championship,Matchweek 23,Fri,Home,D,0,0,West Brom,0.1,1.8,42,12734.0,Mads Juel Andersen,3-4-3,Tim Robinson,Match Report,,3,1,31.0,1.0,0,0,2021,Barnsley
+2021-12-29,19:45,Championship,Matchweek 25,Wed,Away,L,1,2,Blackburn,0.4,1.4,58,14228.0,Mads Juel Andersen,4-2-3-1,Dean Whitestone,Match Report,,7,2,21.8,0.0,0,0,2021,Barnsley
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Away,L,1,2,Birmingham City,0.7,2.0,51,15742.0,Mads Juel Andersen,4-2-3-1,Tony Harrington,Match Report,,9,4,16.0,0.0,0,0,2021,Barnsley
+2022-01-25,19:45,Championship,Matchweek 26,Tue,Away,L,0,3,Nott'ham Forest,0.6,3.1,45,27504.0,Mads Juel Andersen,4-2-3-1,Michael Salisbury,Match Report,,9,2,21.7,1.0,0,0,2021,Barnsley
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Home,L,0,1,Bournemouth,1.7,1.8,31,11972.0,Mads Juel Andersen,3-5-2,Andre Marriner,Match Report,,14,7,18.1,1.0,0,0,2021,Barnsley
+2022-02-02,19:45,Championship,Matchweek 30,Wed,Home,L,0,1,Cardiff City,0.7,0.5,60,11432.0,Mads Juel Andersen,3-5-2,Geoff Eltringham,Match Report,,8,1,16.3,0.0,0,0,2021,Barnsley
+2022-02-08,19:45,Championship,Matchweek 31,Tue,Away,L,1,2,Luton Town,0.9,2.7,56,9101.0,Mads Juel Andersen,3-4-3,Andrew Davies,Match Report,,7,2,22.5,1.0,0,0,2021,Barnsley
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,W,1,0,QPR,1.1,0.7,37,12476.0,Mads Juel Andersen,3-1-4-2,Michael Salisbury,Match Report,,19,5,19.4,1.0,0,0,2021,Barnsley
+2022-02-19,15:00,Championship,Matchweek 33,Sat,Away,L,0,1,Coventry City,0.3,1.7,42,17104.0,Mads Juel Andersen,3-4-3,Joshua Smith,Match Report,,6,0,24.3,1.0,0,0,2021,Barnsley
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Away,W,2,0,Hull City,0.7,1.0,38,16421.0,Mads Juel Andersen,4-2-3-1,Steve Martin,Match Report,,8,5,19.0,0.0,0,0,2021,Barnsley
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,3,2,Middlesbrough,1.7,2.8,33,16107.0,Mads Juel Andersen,4-2-3-1,James Linington,Match Report,,7,5,16.8,0.0,0,0,2021,Barnsley
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,L,0,2,Derby County,1.0,1.2,48,25891.0,Mads Juel Andersen,4-2-3-1,Robert Jones,Match Report,,9,3,19.1,2.0,0,0,2021,Barnsley
+2022-03-08,19:45,Championship,Matchweek 24,Tue,Home,D,1,1,Stoke City,0.4,0.9,42,12512.0,Mads Juel Andersen,3-4-3,Leigh Doughty,Match Report,,7,2,21.3,0.0,0,0,2021,Barnsley
+2022-03-12,12:30,Championship,Matchweek 37,Sat,Home,D,1,1,Fulham,1.4,1.7,34,12576.0,Mads Juel Andersen,4-2-3-1,Tim Robinson,Match Report,,7,1,18.4,0.0,1,1,2021,Barnsley
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Home,W,2,0,Bristol City,1.1,1.4,44,11322.0,Mads Juel Andersen,4-2-3-1,David Webb,Match Report,,12,5,18.5,0.0,0,0,2021,Barnsley
+2022-03-19,12:30,Championship,Matchweek 39,Sat,Away,L,0,2,Sheffield Utd,0.9,2.6,47,28515.0,Mads Juel Andersen,4-2-3-1,Steve Martin,Match Report,,11,3,16.8,0.0,0,0,2021,Barnsley
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,D,1,1,Reading,0.4,1.1,38,14149.0,Mads Juel Andersen,4-2-3-1,David Webb,Match Report,,8,2,18.4,0.0,0,0,2021,Barnsley
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Away,L,1,4,Millwall,0.9,2.3,53,13231.0,Mads Juel Andersen,4-2-3-1,Oliver Langford,Match Report,,13,4,19.6,1.0,0,0,2021,Barnsley
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Away,D,1,1,Swansea City,1.6,1.5,26,17923.0,Mads Juel Andersen,4-3-1-2,Andy Woolmer,Match Report,,19,4,17.6,2.0,0,0,2021,Barnsley
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Home,L,0,2,P'borough Utd,2.2,1.1,59,12197.0,Mads Juel Andersen,4-2-3-1,Darren Bond,Match Report,,19,11,16.7,1.0,0,0,2021,Barnsley
+2022-04-22,19:45,Championship,Matchweek 44,Fri,Away,L,1,2,Huddersfield,0.6,1.6,49,17258.0,Cauley Woodrow,4-2-3-1,James Linington,Match Report,,11,3,17.6,0.0,0,0,2021,Barnsley
+2022-04-26,19:45,Championship,Matchweek 27,Tue,Home,L,0,2,Blackpool,0.4,1.1,48,12256.0,Cauley Woodrow,3-4-1-2,John Busby,Match Report,,6,2,17.5,0.0,0,0,2021,Barnsley
+2022-04-30,12:30,Championship,Matchweek 45,Sat,Home,L,1,3,Preston,1.4,2.3,31,3090.0,Carlton Morris,3-4-3,David Webb,Match Report,,15,5,18.6,0.0,0,0,2021,Barnsley
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,L,0,4,West Brom,0.3,4.5,35,21515.0,Cauley Woodrow,3-5-2,Leigh Doughty,Match Report,,3,2,20.6,0.0,0,0,2021,Barnsley

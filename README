@@ -1,0 +1,20 @@
+Giới thiệu các thư mục :
+- raw data : thư mục chứa các dữ liệu thô, chưa qua xử lý
++ BigDS_raw.csv : dữ liệu lớn chưa qua xử lý
++ SmallDS_raw.csv : dữ liệu nhỏ chưa qua xử lý
+
+- clean data : thư mục chứa các dữ liệu sau khi đã được làm sạch
++ BigDS.csv : dữ liệu lớn đã được làm sạch
++ SmallDS.csv : dữ liệu nhỏ đã được làm sạch
++ Rankings.csv : dữ liệu xếp hạng đội bóng
+
+- Test Crawl.ipynb : Thử crawl dữ liệu
+- CrawlFootball.ipynb : Thực thi crawl 1000 dữ liệu và 10000 dữ liệu
+- Prediction_SmallDS.ipynb : Dự đoán kết quả trên tập dữ liệu nhỏ (1000 dữ liệu)
+- Prediction_BigDS.ipynb : Dự đoán kết quả trên tập dữ liệu lớn (10000 dữ liệu)
+
+
+Tiến hành chạy chương trình :
+B1: chạy file CrawlFootball.ipynb để crawl dữ liệu
+B2: chạy file Prediction_SmallDS.ipynb nếu muốn dự đoán dữ liệu trên tập dữ liệu nhỏ
+    chạy file Prediction_BigDS.ipynb nếu muốn dự đoán dữ liệu trên tập dữ liệu lớn
